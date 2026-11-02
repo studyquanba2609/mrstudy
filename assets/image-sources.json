@@ -1,0 +1,38 @@
+[
+  {
+    "name": "localsend",
+    "file": "localsend.png",
+    "bytes": 19118,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/27/9e/08279ee8-a1b9-95c6-ce7a-4cb75cdf5fa0/Placeholder.mill/256x256bb.png"
+  },
+  {
+    "name": "snapseed",
+    "file": "snapseed.png",
+    "bytes": 29606,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/68/d6/6568d6a3-7c97-2bbc-39a1-f2dace11b1e6/Placeholder.mill/256x256bb.png"
+  },
+  {
+    "name": "vlc",
+    "file": "vlc.png",
+    "bytes": 14066,
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/5a/7c/225a7c89-472a-8fa7-fe11-ed6aaa8a5c21/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/256x256bb.png"
+  },
+  {
+    "name": "macbook",
+    "file": "macbook.jpg",
+    "bytes": 118314,
+    "source": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/tile/Apple-MacBook-Pro-with-PROLED-XDR-Display-Touch-experience-261028-lp.jpg.og.jpg?202610302143"
+  },
+  {
+    "name": "m6",
+    "file": "m6.jpg",
+    "bytes": 54091,
+    "source": "https://www.apple.com/newsroom/images/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/tile/Apple-MacBook-Pro-14-in-with-M6-hero-261027-lp.jpg.og.jpg?202610302142"
+  },
+  {
+    "name": "ipad",
+    "file": "ipad.jpg",
+    "bytes": 47632,
+    "source": "https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610302142"
+  }
+]

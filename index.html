@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f8f3">
+  <meta name="description" content="MRSTUDY — Kiến thức công nghệ dễ hiểu, tin tức có nguồn và những ứng dụng App Store miễn phí đáng dùng.">
+  <meta property="og:title" content="MRSTUDY — Công nghệ hay, chia sẻ mỗi ngày">
+  <meta property="og:description" content="Hiểu thêm một chút. Dùng tốt hơn mỗi ngày. Khám phá kiến thức, tin công nghệ và ứng dụng miễn phí cùng MRSTUDY.">
+  <meta property="og:type" content="website">
+  <title>MRSTUDY — Công nghệ hay, chia sẻ mỗi ngày</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+  <script defer src="./content.js"></script>
+  <script defer src="./app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#noi-dung">Đến nội dung chính</a>
+  <header class="header">
+    <div class="shell header-inner">
+      <a class="brand" href="#trang-chu" aria-label="MRSTUDY — Trang chủ"><span class="brand-symbol" aria-hidden="true">✳</span>MRSTUDY<span class="brand-dot">.</span></a>
+      <nav class="desktop-nav" aria-label="Điều hướng chính">
+        <a class="nav-link active" href="#trang-chu">Trang chủ</a>
+        <a class="nav-link" href="#kien-thuc">Kiến thức</a>
+        <a class="nav-link" href="#tin-tuc">Tin công nghệ</a>
+        <a class="nav-link" href="#app-mien-phi">App miễn phí <span class="nav-new">FREE</span></a>
+      </nav>
+      <div class="header-tools">
+        <button class="icon-button" id="search-open" aria-label="Tìm kiếm" title="Tìm kiếm (phím /)"><svg><use href="#i-search"/></svg></button>
+        <button class="icon-button saved-open" aria-label="Bài viết và ứng dụng đã lưu" title="Đã lưu"><svg><use href="#i-bookmark"/></svg><span class="save-count" hidden>0</span></button>
+        <span class="tool-divider"></span>
+        <button class="icon-button" id="theme-toggle" aria-label="Chuyển sang giao diện tối" title="Đổi giao diện"><svg><use href="#i-moon"/></svg></button>
+        <button class="icon-button menu-button" id="menu-toggle" aria-label="Mở menu" aria-expanded="false" aria-controls="mobile-nav"><svg><use href="#i-menu"/></svg></button>
+      </div>
+    </div>
+    <nav class="mobile-nav shell" id="mobile-nav" aria-label="Điều hướng trên điện thoại" hidden><a href="#trang-chu">Trang chủ</a><a href="#kien-thuc">Kiến thức</a><a href="#tin-tuc">Tin công nghệ</a><a href="#app-mien-phi">App miễn phí</a></nav>
+  </header>
+  <main id="noi-dung">
+    <section class="intro shell" id="trang-chu">
+      <div class="intro-copy"><div class="eyebrow"><span class="tiny-dot"></span> MỘT GÓC NHỎ DÀNH CHO NGƯỜI YÊU CÔNG NGHỆ</div><h1>Công nghệ hay,<br> chia sẻ <span>mỗi ngày.</span><svg class="heading-spark" viewBox="0 0 48 48" aria-hidden="true"><path d="m24 2 3 16 13-9-9 14 16 2-16 4 10 14-15-10-3 14-4-15-14 8 10-13L1 22l16-3L8 7l13 10Z"/></svg></h1><p>Kiến thức dễ hiểu. Tin tức chọn lọc.<br class="mobile-only"> Ứng dụng miễn phí đáng dùng.<br> Khám phá những điều hữu ích cùng MRSTUDY.</p></div>
+      <div class="intro-note"><span class="note-line"></span><span>Hiểu thêm một chút.<br>Dùng tốt hơn mỗi ngày.</span><svg viewBox="0 0 90 50" aria-hidden="true"><path d="M5 8C40 0 70 8 67 33M54 24l13 13 12-12"/></svg></div>
+    </section>
+    <section class="feature-grid shell" aria-label="Nội dung nổi bật">
+      <article class="hero-card">
+        <div class="hero-copy"><span class="tag tag-white"><svg><use href="#i-spark"/></svg> MRSTUDY CHỌN</span><h2>App hay không nhất thiết<br>phải tốn tiền.</h2><p>3 ứng dụng miễn phí để chiếc iPhone<br>của bạn làm được nhiều hơn.</p><a class="button button-dark" href="#app-mien-phi">Khám phá ngay <svg><use href="#i-arrow"/></svg></a><div class="hero-foot"><span class="avatar">M<span>✳</span></span><span>Gợi ý từ MRSTUDY<br><small>Đã đối chiếu App Store Việt Nam</small></span></div></div>
+        <div class="hero-art" aria-label="Minh họa điện thoại với các ứng dụng hữu ích" role="img"><span class="art-orbit orbit-one"></span><span class="art-orbit orbit-two"></span><span class="art-plus p1">✳</span><span class="art-plus p2">+</span><div class="free-sticker">100%<strong>HAY HO</strong></div><div class="phone"><div class="phone-island"></div><div class="phone-top"><span>9:41</span><span>▮▮▮ ▰</span></div><div class="phone-date">THỨ HAI, 2 THÁNG 11</div><div class="phone-time">09:41</div><div class="phone-widget"><span>Góc công nghệ của bạn</span><strong>Ít chi phí.<br>Nhiều tiện ích.</strong><span>MRSTUDY ↗</span></div><div class="phone-apps"><img src="./assets/snapseed.png" alt="" onerror="this.hidden=true"><img src="./assets/localsend.png" alt="" onerror="this.hidden=true"><img src="./assets/vlc.png" alt="" onerror="this.hidden=true"></div><div class="phone-home"></div></div><div class="floating-app app-green"><svg><use href="#i-leaf"/></svg></div><div class="floating-app app-orange"><svg><use href="#i-play"/></svg></div><div class="price-label"><span>ĐÁNG DÙNG</span><strong>0<span>đ</span></strong><svg><use href="#i-arrow"/></svg></div></div>
+      </article>
+      <div class="feature-side">
+        <article class="side-card side-cloud"><div><span class="eyebrow">KIẾN THỨC DỄ HIỂU</span><h2><a href="#bai-viet/icloud-va-bo-nho-iphone">iCloud đầy?<br>Đừng vội xóa ảnh.</a></h2><p>Hiểu đúng về bộ nhớ iPhone và iCloud.</p></div><div class="cloud-art" aria-hidden="true"><svg viewBox="0 0 160 110"><path d="M42 86C2 88 1 39 36 37 39 5 93-2 105 33c44-6 62 49 19 53Z" fill="#fff"/><path d="M47 65h66" stroke="#77a3e5" stroke-width="9" stroke-linecap="round"/><path d="M47 65h39" stroke="#3970c0" stroke-width="9" stroke-linecap="round"/><circle cx="111" cy="25" r="18" fill="#fdbb76"/><path d="M111 16v12m0 6v1" stroke="#3c4a56" stroke-width="3" stroke-linecap="round"/></svg></div><a class="round-arrow" href="#bai-viet/icloud-va-bo-nho-iphone" aria-label="Đọc bài về iCloud"><svg><use href="#i-diagonal"/></svg></a></article>
+        <article class="side-card side-transfer"><div><span class="eyebrow">MẸO NHỎ · HỮU ÍCH LỚN</span><h2><a href="#bai-viet/chuyen-file-voi-localsend">iPhone ↔ Windows.<br>Chuyển file thật gọn.</a></h2><p>Làm quen với LocalSend.</p></div><div class="transfer-art" aria-hidden="true"><div class="mini-laptop"><svg><use href="#i-folder"/></svg></div><svg class="transfer-arrows"><use href="#i-transfer"/></svg><div class="mini-phone"><svg><use href="#i-file"/></svg></div></div><a class="round-arrow" href="#bai-viet/chuyen-file-voi-localsend" aria-label="Đọc cách dùng LocalSend"><svg><use href="#i-diagonal"/></svg></a></article>
+      </div>
+    </section>
+    <div class="topics shell"><span>BẠN QUAN TÂM ĐIỀU GÌ?</span><button data-search="iPhone"># iPhone</button><button data-search="ứng dụng"># App hay</button><button data-search="iCloud"># iCloud</button><button data-search="GitHub"># GitHub</button><button data-search="MacBook"># MacBook</button><button data-search="LocalSend"># Thủ thuật</button><span class="topic-caption">Cùng khám phá <svg><use href="#i-diagonal"/></svg></span></div>
+    <section class="section apps-section" id="app-mien-phi">
+      <div class="shell">
+        <div class="section-heading"><div><div class="eyebrow accent-orange"><svg><use href="#i-spark"/></svg> TẢI VỀ, THỬ MỘT ĐIỀU MỚI</div><h2>App miễn phí <span class="section-star">✳</span></h2><p>Những ứng dụng hữu ích, bắt đầu với chi phí 0 đồng.</p></div><a class="text-link" href="#ung-dung" id="all-apps-link">Xem tất cả ứng dụng <svg><use href="#i-arrow"/></svg></a></div>
+        <div class="apps-toolbar"><div class="tabs" role="group" aria-label="Lọc ứng dụng"><button class="tab active" data-app-filter="all" aria-pressed="true">Tất cả <span>3</span></button><button class="tab" data-app-filter="photo" aria-pressed="false">Ảnh & video</button><button class="tab" data-app-filter="utility" aria-pressed="false">Tiện ích</button><button class="tab" data-app-filter="limited" aria-pressed="false">Miễn phí có thời hạn</button></div><span class="verified"><span class="tiny-dot"></span> Đối chiếu ngày 02.11.2026</span></div>
+        <div class="apps-grid" id="apps-grid"></div>
+        <p class="price-note"><svg><use href="#i-info"/></svg><span>Giá tại App Store Việt Nam ở thời điểm kiểm tra. Hãy xem lại giá trước khi tải; mục mua trong ứng dụng được ghi riêng.</span></p>
+      </div>
+    </section>
+    <section class="section shell" id="kien-thuc">
+      <div class="section-heading"><div><div class="eyebrow accent-green">HIỂU ĐỂ DÙNG TỐT HƠN</div><h2>Kiến thức & thủ thuật</h2><p>Giải thích đơn giản. Áp dụng vào việc thật.</p></div><button class="text-link" data-search-type="knowledge">Khám phá kiến thức <svg><use href="#i-arrow"/></svg></button></div>
+      <div class="knowledge-grid" id="knowledge-grid"></div>
+    </section>
+    <section class="section news-section shell" id="tin-tuc">
+      <div class="section-heading"><div><div class="eyebrow accent-orange">CHUYỆN GÌ ĐANG DIỄN RA?</div><h2>Nhịp công nghệ</h2><p>Tin mới chọn lọc, luôn kèm nguồn để bạn đọc thêm.</p></div><span class="edition-label">BẢN TIN · THÁNG 11 / 2026</span></div>
+      <div class="news-grid" id="news-grid"></div>
+    </section>
+    <section class="about-band shell" id="ve-mrstudy"><div class="about-logo" aria-hidden="true">✳</div><div><div class="eyebrow">XIN CHÀO, ĐÂY LÀ MRSTUDY</div><h2>Công nghệ gần gũi hơn,<br>từ những điều nhỏ nhất.</h2><p>Một nơi để chia sẻ điều mới học, những mẹo hữu ích<br class="desktop-only"> và ứng dụng đáng thử. Không cần là chuyên gia để bắt đầu.</p></div><a href="#kien-thuc" class="button button-dark">Cùng khám phá <svg><use href="#i-arrow"/></svg></a></section>
+  </main>
+  <footer class="footer shell"><div class="footer-top"><div><a class="brand" href="#trang-chu"><span class="brand-symbol" aria-hidden="true">✳</span>MRSTUDY<span class="brand-dot">.</span></a><p>Hiểu thêm một chút. Dùng tốt hơn mỗi ngày.</p></div><div class="footer-links"><a href="#kien-thuc">Kiến thức</a><a href="#tin-tuc">Tin công nghệ</a><a href="#app-mien-phi">App miễn phí</a><a href="#ve-mrstudy">Về MRSTUDY</a></div></div><div class="footer-bottom"><span>© 2026 MRSTUDY. Chia sẻ kiến thức, kết nối đam mê.</span><button class="text-link" id="privacy-open">Quyền riêng tư</button><a href="#trang-chu">Lên đầu trang ↑</a></div></footer>
+  <dialog id="reader" class="reader-dialog" aria-label="Bài viết và chi tiết ứng dụng"><div class="dialog-top"><a class="brand small" href="#trang-chu"><span class="brand-symbol">✳</span>MRSTUDY.</a><button class="icon-button" id="reader-close" aria-label="Đóng bài viết"><svg><use href="#i-close"/></svg></button></div><div id="reader-content"></div></dialog>
+  <dialog id="search-dialog" class="search-dialog" aria-labelledby="search-title"><div class="dialog-top"><strong id="search-title">Tìm điều bạn cần</strong><button class="icon-button" id="search-close" aria-label="Đóng tìm kiếm"><svg><use href="#i-close"/></svg></button></div><label class="search-input-wrap"><svg><use href="#i-search"/></svg><input id="search-input" placeholder="Tìm bài viết, thủ thuật, ứng dụng…" autocomplete="off" aria-label="Nội dung cần tìm"><kbd>ESC</kbd></label><div class="search-filters"><button class="tab active" data-result-filter="all">Tất cả</button><button class="tab" data-result-filter="knowledge">Kiến thức</button><button class="tab" data-result-filter="news">Tin tức</button><button class="tab" data-result-filter="app">Ứng dụng</button><button class="tab" data-result-filter="saved">Đã lưu</button></div><div id="search-results" aria-live="polite"></div></dialog>
+  <div id="toast" role="status" class="toast" hidden></div>
+  <noscript><p class="shell">Vui lòng bật JavaScript để đọc bài viết và duyệt ứng dụng. Bạn có thể truy cập trực tiếp <a href="https://apps.apple.com/vn/app/snapseed/id439438619">Snapseed</a>, <a href="https://apps.apple.com/vn/app/localsend/id1661733229">LocalSend</a> và <a href="https://apps.apple.com/vn/app/vlc-media-player/id650377962">VLC trên App Store</a>.</p></noscript>
+  <svg class="svg-defs" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M4 12h15m-6-6 6 6-6 6"/></symbol><symbol id="i-diagonal" viewBox="0 0 24 24"><path d="M6 18 18 6M6 6h12v12"/></symbol><symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></symbol><symbol id="i-bookmark" viewBox="0 0 24 24"><path d="M6 4h12v17l-6-4-6 4Z"/></symbol><symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 15a9 9 0 0 1-11-11 9 9 0 1 0 11 11Z"/></symbol><symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1 1m12 12 1 1M5 19l1-1M18 6l1-1"/></symbol><symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16"/></symbol><symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M6 18 18 6"/></symbol><symbol id="i-spark" viewBox="0 0 24 24"><path d="m12 2 2.5 7.5L22 12l-7.5 2.5L12 22l-2.5-7.5L2 12l7.5-2.5Z"/></symbol><symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v6m0-10v1"/></symbol><symbol id="i-leaf" viewBox="0 0 24 24"><path d="M4 19C0 8 11 3 21 3c0 11-4 20-15 15M4 21 16 9"/></symbol><symbol id="i-play" viewBox="0 0 24 24"><path d="m9 5 11 7L9 19Z"/></symbol><symbol id="i-folder" viewBox="0 0 24 24"><path d="M3 6h7l2 3h9v11H3Z"/></symbol><symbol id="i-file" viewBox="0 0 24 24"><path d="M5 3h9l5 5v13H5Zm9 0v6h5M8 13h8m-8 4h6"/></symbol><symbol id="i-transfer" viewBox="0 0 24 24"><path d="M3 7h17l-4-4m4 14H3l4 4M20 7l-4 4M3 17l4-4"/></symbol><symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12 4 4L20 5"/></symbol><symbol id="i-share" viewBox="0 0 24 24"><path d="M12 15V3m-4 4 4-4 4 4M6 11H4v10h16V11h-2"/></symbol><symbol id="i-cloud" viewBox="0 0 24 24"><path d="M6 19a5 5 0 0 1-1-10 7 7 0 0 1 13-2 6 6 0 0 1 0 12Z"/></symbol><symbol id="i-code" viewBox="0 0 24 24"><path d="m8 5-7 7 7 7m8-14 7 7-7 7M14 3l-4 18"/></symbol>
+  </defs></svg>
+</body>
+</html>
