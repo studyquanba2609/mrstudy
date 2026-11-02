@@ -1,0 +1,42 @@
+{
+  "1574131062": {
+    "icon": {
+      "path": "./assets/deals/1574131062-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/bf/df/0e/bfdf0ee9-ee23-8a86-0162-1d8304db6046/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "size": 8491,
+      "dimensions": [
+        240,
+        240
+      ]
+    },
+    "screen": {
+      "path": "./assets/deals/1574131062-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/04/52/e0/0452e0c8-ae35-7250-2cd6-257a30a8355b/ae932847-6ba2-40e6-a0db-c13f9dc26a81_1242x2208_01.jpg/392x696bb.jpg",
+      "size": 26295,
+      "dimensions": [
+        392,
+        696
+      ]
+    }
+  },
+  "920583100": {
+    "icon": {
+      "path": "./assets/deals/920583100-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/30/ac/b1/30acb1e3-3de4-a3a5-1dfc-74053f5900e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "size": 5871,
+      "dimensions": [
+        240,
+        240
+      ]
+    },
+    "screen": {
+      "path": "./assets/deals/920583100-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d0/28/9f/d0289f27-2dfc-74ef-676a-16b7bda77ff4/mzl.pztwttzk.png/392x696bb.png",
+      "size": 38659,
+      "dimensions": [
+        392,
+        696
+      ]
+    }
+  }
+}
