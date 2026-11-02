@@ -86,3 +86,9 @@ Bố cục topic app theo yêu cầu mới: chỉ hiển thị tiêu đề ngày
 Ảnh app: `icon` và `image` là đường dẫn local ./assets/deals/<apple-id>-icon.jpg hoặc -screen.jpg. Dùng biểu tượng/ảnh giao diện chính thức từ Apple Lookup, lưu nguồn ở assets/deals/sources.json; không tạo ảnh mô phỏng giao diện app. Giữ ảnh hiện có khi chỉ cập nhật giá.
 
 Sau khi sửa CSS/JS, chạy `python scripts/version_assets.py` để gắn mã nội dung vào URL tài nguyên trong index.html và bao-gia.html; commit cả HTML. Cách này tránh Safari dùng lại mã giao diện cũ sau khi Pages cập nhật. Đồng bộ chỉ JSON không cần đổi URL CSS/JS.
+
+## Tin iPhone và hướng dẫn sửa chữa
+`phone-content.js` thêm các bài mới vào MRSTUDY_DATA.articles trước app.js. Tin cũ không thuộc iPhone được đánh archived, giữ link cũ nhưng không đưa vào news-grid/tìm kiếm thường.
+Tin: type=news, sourceSite=MacRumors; chỉ iPhone/iOS, tóm tắt tiếng Việt tự viết khoảng 100–150 từ, không dịch/sao chép toàn văn. Giữ ngày đăng gốc, link bài, phân biệt thông tin đã xác nhận với tin đồn. Đọc homepage/archive hiện hành; /iphone/ là trang cũ không phản ánh tin mới.
+Sửa chữa: type=repair, sourceSite=iFixit, chỉ iPhone. Mục hiển thị “Hướng dẫn sửa chữa iPhone”. Viết tóm tắt chuẩn bị/lưu ý ngắn và nút link quy trình đầy đủ, giữ sourceDate của hướng dẫn. Không bỏ cảnh báo vật lý thiết yếu (pin, cáp, Face ID) khi diễn giải. Không bịa thông số tháo lắp hoặc ghi bản tóm tắt là quy trình đầy đủ.
+Mỗi bài có id cố định, category/title/description/date/readTime/tags/body/sources; image/imageAlt khi có. Ảnh SVG assets/editorial là minh họa MRSTUDY tự vẽ, không phải ảnh sản phẩm/tháo máy thực tế. Có thể tái dùng đúng chủ đề. Cập nhật bài theo URL nguồn, tránh trùng, không sửa ngày thành hôm nay cho bài nguồn cũ. Sau khi đổi JS/CSS phải chạy python scripts/version_assets.py và commit HTML đổi phiên bản.
