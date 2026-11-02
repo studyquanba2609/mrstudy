@@ -79,3 +79,5 @@ Kiểm tra: `node scripts/test_deals.js`, `node scripts/validate_deals.js`, `nod
 Liên hệ Zalo công khai theo chủ website: https://zalo.me/0703480936. Giữ nguyên thông tin này khi đồng bộ dữ liệu.
 
 AppRaven: liên kết tham khảo công khai https://appraven.net/activity/pricedrops?price=FREE&ratingCount=0. Theo yêu cầu chủ website, dùng AppRaven để tìm app và tự viết bài tiếng Việt cho MRSTUDY sau khi đối chiếu trực tiếp App Store/nhà phát triển, ghi nguồn và vùng cụ thể; không sao chép nguyên nội dung của AppRaven. Nếu không đọc được danh sách hiện hành thì không bịa ứng viên mới.
+
+Có thể đối chiếu giá tải qua Apple Lookup công khai: https://itunes.apple.com/lookup?id=<apple-id>&country=vn hoặc us. resultCount=0 không có nghĩa mọi vùng đều hết app; ghi đúng vùng tìm thấy. price=0 chỉ chứng minh giá tải, không chứng minh lifetime. Bài nguồn cộng đồng cũ có thể dùng để tìm ứng viên, nhưng chỉ đăng khi đã đối chiếu giá hiện hành và không tự nhận app mới giảm giá hôm nay. Tiêu đề tự bỏ chữ trọn đời nếu topic không có gói trọn đời đã xác minh.

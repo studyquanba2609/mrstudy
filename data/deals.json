@@ -1,1 +1,53 @@
-{"updatedAt":null,"items":[]}
+{
+  "updatedAt": "2026-11-02T15:50:14.470787+00:00",
+  "items": [
+    {
+      "id": "deal-1574131062-download",
+      "topicDate": "2026-11-02",
+      "name": "Web Capture Offline View",
+      "kind": "download",
+      "summary": "Lưu cả trang web để đọc lại khi không có mạng, giữ trang cần tra cứu và chia sẻ nội dung đã lưu. Hữu ích khi bạn muốn xem lại hướng dẫn hoặc tài liệu trên iPhone, iPad mà không phải mở lại website.",
+      "caveat": "Miễn phí tải xuống tại lần kiểm tra, chưa có thời điểm kết thúc được xác nhận. Đây không phải xác nhận miễn phí một gói nâng cấp trọn đời.",
+      "sourceUrl": "https://t.me/DealRaven/3636",
+      "checkedAt": "2026-11-02T15:50:14.470787+00:00",
+      "regions": [
+        {
+          "code": "vn",
+          "name": "Việt Nam",
+          "url": "https://apps.apple.com/vn/app/web-capture-offline-view/id1574131062?uo=4",
+          "downloadPrice": 0,
+          "currency": "VND",
+          "checkedAt": "2026-11-02T15:50:14.470787+00:00"
+        },
+        {
+          "code": "us",
+          "name": "Mỹ",
+          "url": "https://apps.apple.com/us/app/web-capture-offline-view/id1574131062?uo=4",
+          "downloadPrice": 0,
+          "currency": "USD",
+          "checkedAt": "2026-11-02T15:50:14.470787+00:00"
+        }
+      ]
+    },
+    {
+      "id": "deal-920583100-download",
+      "topicDate": "2026-11-02",
+      "name": "VDWrite",
+      "kind": "download",
+      "summary": "Công cụ soạn thảo có đọc văn bản thành tiếng để nghe lại bản nháp, hỗ trợ tìm từ và sắp xếp dàn ý. Đáng thử nếu bạn thường viết tiếng Anh hoặc muốn rà lại câu chữ bằng cách nghe trên iPhone, iPad.",
+      "caveat": "Lần này chỉ xác minh được miễn phí ở App Store Mỹ; chưa tìm thấy app trong danh mục Việt Nam. Chưa xác nhận ưu đãi nâng cấp trọn đời hay ngày hết miễn phí.",
+      "sourceUrl": "https://t.me/DealRaven/3635",
+      "checkedAt": "2026-11-02T15:50:14.470787+00:00",
+      "regions": [
+        {
+          "code": "us",
+          "name": "Mỹ",
+          "url": "https://apps.apple.com/us/app/vdwrite/id920583100?uo=4",
+          "downloadPrice": 0,
+          "currency": "USD",
+          "checkedAt": "2026-11-02T15:50:14.470787+00:00"
+        }
+      ]
+    }
+  ]
+}
