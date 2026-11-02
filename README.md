@@ -59,3 +59,5 @@ GitHub Pages tự cập nhật sau mỗi lần thay đổi nhánh `main` khi đ�
 
 ## Ưu đãi
 `data/deals.json`: `updatedAt`, `items` với `name`, `kind` (download/upgrade), `summary`, `checkedAt`, `appStoreUrl`, `sourceUrl`. Chỉ thêm metadata tóm tắt, đối chiếu App Store VN, không tự coi IAP miễn phí chỉ vì giá tải bằng 0. Trang ẩn deal quá 48 giờ.
+
+Đồng bộ theo lịch mỗi giờ qua tác vụ ChatGPT “Đồng bộ MRSTUDY”. Đây là polling, không nhận webhook từ nguồn; nguồn lỗi giữ bản cuối. Không ghi lại notes hoặc source vào dữ liệu giá công khai, không thêm cột thông tin nguồn cung. Chỉ commit dữ liệu khi có thay đổi, không tạo commit chỉ vì mốc thời gian.

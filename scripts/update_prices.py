@@ -32,9 +32,9 @@ def parse(html):
   if key in seen:continue
   seen.add(key)
   accessory=bool(re.search(r'airpods|earpods|củ sạc|tai nghe|ốp lưng',name,re.I))
-  items.append(dict(name=name,category='accessory' if accessory else ('phone' if len(row)>=6 else 'device'),price=base+MARKUP if base is not None else None,status=row[2] if len(row)>2 else '',sim=row[3] if len(row)>=6 else '',origin=row[4] if len(row)>=6 else '',notes=row[-1] if len(row)>3 else '',availability='priced' if base is not None else 'unavailable'))
+  items.append(dict(name=name,category='accessory' if accessory else ('phone' if len(row)>=6 else 'device'),price=base+MARKUP if base is not None else None,status=row[2] if len(row)>2 else '',sim=row[3] if len(row)>=6 else '',origin=row[4] if len(row)>=6 else '',availability='priced' if base is not None else 'unavailable'))
  if len(items)<20:raise ValueError('Source layout changed or unavailable; keep previous data')
- return dict(updatedAt=datetime.now(timezone.utc).isoformat(),source=SOURCE,items=items)
+ return dict(updatedAt=datetime.now(timezone.utc).isoformat(),items=items)
 if __name__=='__main__':
  request=urllib.request.Request(SOURCE,headers={'User-Agent':'MRSTUDY price updater/1.0'})
  with urllib.request.urlopen(request,timeout=45) as response:html=response.read(3_000_000).decode('utf-8')
