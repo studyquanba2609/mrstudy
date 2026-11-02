@@ -63,3 +63,5 @@ GitHub Pages tự cập nhật sau mỗi lần thay đổi nhánh `main` khi đ�
 Đồng bộ theo lịch mỗi giờ qua tác vụ ChatGPT “Đồng bộ MRSTUDY”. Đây là polling, không nhận webhook từ nguồn; nguồn lỗi giữ bản cuối. Không ghi lại notes hoặc source vào dữ liệu giá công khai, không thêm cột thông tin nguồn cung. Chỉ commit dữ liệu khi có thay đổi, không tạo commit chỉ vì mốc thời gian.
 
 Liên hệ Zalo công khai theo chủ website: https://zalo.me/0703480936. Giữ nguyên thông tin này khi đồng bộ dữ liệu.
+
+AppRaven: liên kết tham khảo công khai https://appraven.net/activity/pricedrops?price=FREE&ratingCount=0. Chưa bật nhập tự động từ AppRaven; điều khoản https://appraven.net/terms.html ghi sử dụng cá nhân, phi thương mại. Không tự thêm nguồn này vào đồng bộ cho đến khi có quyền hoặc phương thức tái sử dụng phù hợp.
