@@ -84,3 +84,5 @@ Có thể đối chiếu giá tải qua Apple Lookup công khai: https://itunes.
 
 Bố cục topic app theo yêu cầu mới: chỉ hiển thị tiêu đề ngày, tên app, công dụng ngắn, loại miễn phí, vùng và nút tải. Không hiển thị phần đếm “0 ưu đãi”, lời giới thiệu quy trình biên soạn, mốc kiểm tra giờ/phút/giây, caveat kỹ thuật, thông báo chưa xác nhận lifetime hoặc liên kết nguồn trong bài. Metadata nguồn/thời gian/bằng chứng vẫn giữ trong JSON để kiểm tra và tự ẩn ưu đãi cũ. Không thêm lại những lời giải thích này vào summary.
 Ảnh app: `icon` và `image` là đường dẫn local ./assets/deals/<apple-id>-icon.jpg hoặc -screen.jpg. Dùng biểu tượng/ảnh giao diện chính thức từ Apple Lookup, lưu nguồn ở assets/deals/sources.json; không tạo ảnh mô phỏng giao diện app. Giữ ảnh hiện có khi chỉ cập nhật giá.
+
+Sau khi sửa CSS/JS, chạy `python scripts/version_assets.py` để gắn mã nội dung vào URL tài nguyên trong index.html và bao-gia.html; commit cả HTML. Cách này tránh Safari dùng lại mã giao diện cũ sau khi Pages cập nhật. Đồng bộ chỉ JSON không cần đổi URL CSS/JS.
