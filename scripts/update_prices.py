@@ -1,11 +1,20 @@
-"""Import published product metadata; apply the owner's flat VND markup once."""
+"""Import product metadata and apply the owner's markup by product type once."""
 import json,re,unicodedata,urllib.request
 from datetime import datetime,timezone
 from html.parser import HTMLParser
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 SOURCE='https://taoquangsang.vn/'
-MARKUP=700_000
+DEFAULT_MARKUP=700_000
+
+def markup_for(name):
+ # Match AirPods before charger words: e.g. "AirPods 5 (SẠC THƯỜNG)".
+ folded=unicodedata.normalize('NFKD',name.casefold()).replace('đ','d')
+ folded=''.join(c for c in folded if not unicodedata.combining(c))
+ if re.search(r'\bair\s?pods\b',folded):return 400_000
+ if re.search(r'\b(?:sac|cap|earpods|ear pods)\b|tai nghe (?:co )?day',folded):return 100_000
+ if 'tai nghe' in folded and re.search(r'khong day|bluetooth|wireless|tws',folded):return 400_000
+ return DEFAULT_MARKUP
 class Tables(HTMLParser):
  def __init__(self):super().__init__();self.rows=[];self.row=None;self.cell=None
  def handle_starttag(self,tag,attrs):
@@ -31,8 +40,8 @@ def parse(html):
   key=tuple(row)
   if key in seen:continue
   seen.add(key)
-  accessory=bool(re.search(r'airpods|earpods|củ sạc|tai nghe|ốp lưng',name,re.I))
-  items.append(dict(name=name,category='accessory' if accessory else ('phone' if len(row)>=6 else 'device'),price=base+MARKUP if base is not None else None,status=row[2] if len(row)>2 else '',sim=row[3] if len(row)>=6 else '',origin=row[4] if len(row)>=6 else '',availability='priced' if base is not None else 'unavailable'))
+  accessory=bool(re.search(r'airpods|earpods|sạc|cáp|tai nghe|ốp lưng',name,re.I))
+  items.append(dict(name=name,category='accessory' if accessory else ('phone' if len(row)>=6 else 'device'),price=base+markup_for(name) if base is not None else None,status=row[2] if len(row)>2 else '',sim=row[3] if len(row)>=6 else '',origin=row[4] if len(row)>=6 else '',availability='priced' if base is not None else 'unavailable'))
  if len(items)<20:raise ValueError('Source layout changed or unavailable; keep previous data')
  return dict(updatedAt=datetime.now(timezone.utc).isoformat(),items=items)
 if __name__=='__main__':
