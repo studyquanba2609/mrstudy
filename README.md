@@ -52,3 +52,10 @@ Phục vụ thư mục gốc bằng máy chủ HTTP tĩnh bất kỳ. Không có
 GitHub Pages tự cập nhật sau mỗi lần thay đổi nhánh `main` khi đã bật xuất bản từ nhánh.
 
 Ảnh sản phẩm do Apple cung cấp và biểu tượng ứng dụng từ App Store, có liên kết nguồn trong bài và tệp image-sources.json. Thương hiệu thuộc chủ sở hữu tương ứng; MRSTUDY là trang chia sẻ độc lập, không tự nhận được Apple hay các nhà phát triển bảo trợ.
+
+
+## Bảng giá
+`bao-gia.html` đọc `data/prices.json`. Chạy `python scripts/update_prices.py` để lấy lại bảng giá nguồn, cộng đúng 700.000đ một lần vào giá niêm yết mỗi sản phẩm (không cộng thêm phụ phí khách lẻ 300.000đ của nguồn). Hàng hết giá giữ `null`. Script dừng khi dữ liệu nguồn bất thường và giữ bản gần nhất. Dữ liệu công khai chỉ chứa giá bán đã cộng; không chứa giá vốn. Giá sửa chữa chưa được cung cấp.
+
+## Ưu đãi
+`data/deals.json`: `updatedAt`, `items` với `name`, `kind` (download/upgrade), `summary`, `checkedAt`, `appStoreUrl`, `sourceUrl`. Chỉ thêm metadata tóm tắt, đối chiếu App Store VN, không tự coi IAP miễn phí chỉ vì giá tải bằng 0. Trang ẩn deal quá 48 giờ.
