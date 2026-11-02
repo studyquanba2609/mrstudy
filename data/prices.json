@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T15:11:46.433164+00:00",
+  "updatedAt": "2026-11-02T18:10:22.847468+00:00",
   "items": [
     {
       "name": "Duo 256G Night X/A - VN - Full VAT",
@@ -22,16 +22,16 @@
     {
       "name": "Duo 256G Night X/A - VN",
       "category": "phone",
-      "price": null,
-      "status": "Actived 23/10",
-      "sim": "E sim",
+      "price": 66700000,
+      "status": "Chưa Active",
+      "sim": "Gọi TÁO",
       "origin": "V.NAM",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "Duo 256G White X/A - VN",
       "category": "phone",
-      "price": 66200000,
+      "price": 66700000,
       "status": "Actived 31/10",
       "sim": "E sim",
       "origin": "V.NAM",
@@ -76,11 +76,11 @@
     {
       "name": "Duo 512G Night X/A - VN",
       "category": "phone",
-      "price": null,
-      "status": "Actived 01/11",
-      "sim": "E sim",
+      "price": 74700000,
+      "status": "Actived 02/11",
+      "sim": "Gọi TÁO",
       "origin": "V.NAM",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "Duo 512G White X/A - VN",
@@ -157,11 +157,11 @@
     {
       "name": "iPhone Duo 1TB White X/A - VN",
       "category": "phone",
-      "price": null,
-      "status": "Actived 01/11",
-      "sim": "E sim",
+      "price": 94700000,
+      "status": "Actived 02/11",
+      "sim": "Gọi TÁO",
       "origin": "V.NAM",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "iPhone Duo 1TB White ZP",
