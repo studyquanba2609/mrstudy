@@ -11,3 +11,94 @@ window.MRSTUDY_DATA.articles.push(
  {id:'huong-dan-thay-pin-iphone-11',type:'repair',sourceSite:'iFixit',category:'Sửa chữa · Pin',title:'Thay pin iPhone 11: chuẩn bị trước khi tháo máy',description:'Những điểm cần biết về dụng cụ, keo dán và an toàn pin trước khi theo hướng dẫn iFixit.',date:'2026-11-03',sourceDate:'2025-09-30',readTime:2,image:'./assets/editorial/iphone-battery.svg',imageAlt:'Minh họa pin và dụng cụ sửa điện thoại',tags:['iPhone','iPhone 11','pin','sửa chữa','iFixit'],body:`<p>iFixit xếp việc thay pin iPhone 11 ở mức trung bình, thời gian tham khảo 1–2 giờ. Cần chuẩn bị pin phù hợp, keo mới và dụng cụ mở máy.</p><h2>Trước khi bắt đầu</h2><p>Hạ mức pin dưới 25% và tắt nguồn trước khi tháo. Không chọc, bẻ hoặc ép pin; pin phồng cần xử lý riêng, không tiếp tục quy trình thông thường.</p><h2>Đừng bỏ qua keo và cáp</h2><p>Mở màn hình ảnh hưởng lớp keo kín máy. Cần giữ cáp và đầu nối nguyên vẹn, chuẩn bị keo thay thế rồi xem đầy đủ từng bước, ảnh và lưu ý tại iFixit.</p><a class="button button-dark" href="https://www.ifixit.com/Guide/iPhone+11+Battery+Replacement/127450" target="_blank" rel="noopener noreferrer">Xem hướng dẫn thay pin đầy đủ ↗</a>`,sources:[{title:'iFixit · Jeff Suovanen và cộng tác viên · cập nhật 30/09/2025',url:'https://www.ifixit.com/Guide/iPhone+11+Battery+Replacement/127450'}]},
  {id:'huong-dan-thay-man-hinh-iphone-11',type:'repair',sourceSite:'iFixit',category:'Sửa chữa · Màn hình',title:'Thay màn hình iPhone 11: chú ý cụm cảm biến Face ID',description:'Chọn đúng cụm màn hình và bảo vệ cụm loa thoại, cảm biến khi tham khảo quy trình iFixit.',date:'2026-11-03',sourceDate:'2025-02-13',readTime:2,image:'./assets/editorial/iphone-screen.svg',imageAlt:'Minh họa màn hình và cáp kết nối iPhone',tags:['iPhone','iPhone 11','màn hình','Face ID','sửa chữa','iFixit'],body:`<p>Hướng dẫn iFixit dành cho cụm màn hình iPhone 11 đã có tấm che LCD kim loại. Nếu linh kiện không có tấm này, cần dùng đúng quy trình chuyển linh kiện tương ứng.</p><h2>Giữ nguyên cụm cảm biến</h2><p>Cụm loa thoại và cảm biến phía sau màn hình đi kèm với máy, liên quan đến Face ID. Việc tháo chuyển phải cẩn thận để tránh làm hỏng cáp hoặc cảm biến.</p><h2>Chuẩn bị trước khi sửa</h2><p>iFixit đánh giá mức trung bình, khoảng 40 phút–2 giờ. Hạ pin dưới 25%, tắt nguồn và chuẩn bị keo màn hình mới; đọc đủ hướng dẫn trước khi tháo.</p><a class="button button-dark" href="https://www.ifixit.com/Guide/iPhone+11+Screen+Replacement/135705" target="_blank" rel="noopener noreferrer">Xem hướng dẫn thay màn hình đầy đủ ↗</a>`,sources:[{title:'iFixit · Arthur Shi và cộng tác viên · cập nhật 13/02/2025',url:'https://www.ifixit.com/Guide/iPhone+11+Screen+Replacement/135705'}]}
 );
+
+window.MRSTUDY_DATA.articles.unshift(...[
+  {
+    "id": "meo-doc-bieu-do-hao-pin",
+    "type": "knowledge",
+    "category": "Mẹo iPhone",
+    "title": "iPhone hao pin: đọc biểu đồ trước khi thay pin",
+    "description": "Vào Cài đặt → Pin và so sánh hai ngày có cách sử dụng tương tự.",
+    "date": "2026-11-03",
+    "readTime": 2,
+    "image": "./assets/editorial/iphone-battery.svg",
+    "imageAlt": "Minh họa mẹo iPhone",
+    "tags": [
+      "iPhone",
+      "Mẹo iPhone"
+    ],
+    "body": "<h2>Kiểm tra trước</h2><p>Vào Cài đặt → Pin và so sánh hai ngày có cách sử dụng tương tự. Chạm vào ứng dụng đứng đầu để xem thời gian trên màn hình và hoạt động nền. Nếu máy tụt pin khi để yên, hãy xem ứng dụng có chạy nền nhiều hoặc điện thoại có ở vùng sóng yếu không.</p><h2>Bước tiếp theo</h2><p>Thử thay đổi một yếu tố mỗi lần, chẳng hạn hạn chế làm mới nền của ứng dụng nghi ngờ. So sánh lại hôm sau. Xem thêm mục Tình trạng pin nếu máy thường tắt bất ngờ hoặc báo cần bảo trì.</p>",
+    "sources": [
+      {
+        "title": "Apple Support",
+        "url": "https://support.apple.com/en-us/120745"
+      }
+    ]
+  },
+  {
+    "id": "meo-cam-ung-iphone-chap-chon",
+    "type": "knowledge",
+    "category": "Mẹo iPhone",
+    "title": "Cảm ứng iPhone chập chờn: khoanh vùng lỗi",
+    "description": "Lau khô màn hình và tay, rút cáp sạc, tháo ốp hoặc kính bảo vệ nếu chúng cản thao tác.",
+    "date": "2026-11-03",
+    "readTime": 2,
+    "image": "./assets/editorial/iphone-screen.svg",
+    "imageAlt": "Minh họa mẹo iPhone",
+    "tags": [
+      "iPhone",
+      "Mẹo iPhone"
+    ],
+    "body": "<h2>Kiểm tra trước</h2><p>Lau khô màn hình và tay, rút cáp sạc, tháo ốp hoặc kính bảo vệ nếu chúng cản thao tác. Mở Ghi chú và vẽ các đường qua vùng nghi bị liệt, rồi thử lại trong một ứng dụng khác.</p><h2>Bước tiếp theo</h2><p>Nếu lỗi chỉ xảy ra khi cắm sạc, thử cáp, củ sạc và ổ điện khác. Nếu cùng một vùng vẫn không nhận chạm sau khi khởi động lại, sao lưu dữ liệu và mang máy đi kiểm tra.</p>",
+    "sources": [
+      {
+        "title": "Apple Support",
+        "url": "https://support.apple.com/en-us/102567"
+      }
+    ]
+  },
+  {
+    "id": "meo-iphone-do-khoi-dong",
+    "type": "knowledge",
+    "category": "Mẹo iPhone",
+    "title": "iPhone bị đơ: khởi động lại bằng phím cứng",
+    "description": "Trên iPhone 8 trở lên, bấm rồi nhả nhanh nút tăng âm lượng, bấm rồi nhả nhanh nút giảm âm lượng, sau đó giữ nút sườn đến khi hiện logo Apple..",
+    "date": "2026-11-03",
+    "readTime": 2,
+    "image": "./assets/editorial/iphone-settings.svg",
+    "imageAlt": "Minh họa mẹo iPhone",
+    "tags": [
+      "iPhone",
+      "Mẹo iPhone"
+    ],
+    "body": "<h2>Kiểm tra trước</h2><p>Trên iPhone 8 trở lên, bấm rồi nhả nhanh nút tăng âm lượng, bấm rồi nhả nhanh nút giảm âm lượng, sau đó giữ nút sườn đến khi hiện logo Apple.</p><h2>Bước tiếp theo</h2><p>Trên iPhone 7 hoặc 7 Plus, giữ nút sườn và giảm âm lượng. Trên iPhone 6s trở về trước, giữ nút Home và nút sườn hoặc nút trên cùng. Nhả khi thấy logo Apple. Nếu máy vẫn đen màn hình, xem hướng dẫn sạc và kiểm tra tiếp của Apple.</p>",
+    "sources": [
+      {
+        "title": "Apple Support",
+        "url": "https://support.apple.com/en-us/116940"
+      }
+    ]
+  },
+  {
+    "id": "meo-ios-moi-hao-pin",
+    "type": "knowledge",
+    "category": "Mẹo iPhone",
+    "title": "Vừa cập nhật iOS mà pin tụt nhanh: kiểm tra gì?",
+    "description": "Sau cập nhật, một số tác vụ vẫn chạy nền và có thể làm máy ấm hoặc hao pin.",
+    "date": "2026-11-03",
+    "readTime": 2,
+    "image": "./assets/editorial/iphone-battery.svg",
+    "imageAlt": "Minh họa mẹo iPhone",
+    "tags": [
+      "iPhone",
+      "Mẹo iPhone"
+    ],
+    "body": "<h2>Kiểm tra trước</h2><p>Sau cập nhật, một số tác vụ vẫn chạy nền và có thể làm máy ấm hoặc hao pin. Mở Cài đặt → Pin để xem máy có báo đang hoàn tất cập nhật hay ứng dụng nào tiêu thụ nhiều.</p><h2>Bước tiếp theo</h2><p>Nếu máy vẫn hoạt động bình thường, theo dõi thêm vài ngày rồi so lại mức pin trong điều kiện sử dụng tương tự. Nếu tình trạng kéo dài, xem hoạt động nền và tình trạng pin trước khi quyết định thay linh kiện.</p>",
+    "sources": [
+      {
+        "title": "Apple Support",
+        "url": "https://support.apple.com/en-us/120745"
+      }
+    ]
+  }
+]);
