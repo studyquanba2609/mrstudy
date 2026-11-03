@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T03:08:39.960806+00:00",
+  "updatedAt": "2026-11-03T04:13:59.496580+00:00",
   "items": [
     {
       "name": "Duo 256G Night X/A - VN - Full VAT",
@@ -119,7 +119,7 @@
       "availability": "priced"
     },
     {
-      "name": "Duo 512G White ZP THÁI",
+      "name": "Duo 512G White ZP TH",
       "category": "phone",
       "price": 72000000,
       "status": "Chưa Active",
@@ -148,7 +148,7 @@
     {
       "name": "Duo 512G White LL",
       "category": "phone",
-      "price": 76200000,
+      "price": 75700000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -373,7 +373,7 @@
     {
       "name": "18 PM - 256G Silver LL (MỸ )",
       "category": "phone",
-      "price": 40200000,
+      "price": 40300000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -499,11 +499,11 @@
     {
       "name": "18 PM - 512G Đỏ B LL",
       "category": "phone",
-      "price": 49200000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "18 PM - 1TB Black X/A - Full VAT",
@@ -1102,7 +1102,7 @@
     {
       "name": "18 Pro - 2TB Đỏ X/A (VN)",
       "category": "phone",
-      "price": 74800000,
+      "price": 71700000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "V.NAM",
@@ -1183,20 +1183,11 @@
     {
       "name": "17 PM - 256G Cam ZP (VN)",
       "category": "phone",
-      "price": null,
+      "price": 32500000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "V.NAM",
-      "availability": "unavailable"
-    },
-    {
-      "name": "17 PM - 256G Cam ZP (VN)",
-      "category": "phone",
-      "price": null,
-      "status": "Active T10",
-      "sim": "1 sim",
-      "origin": "V.NAM",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "17 PM - 256G Silver LL",
@@ -1255,11 +1246,11 @@
     {
       "name": "17 PM - 512G Silver ZP (VN) - Full VAT",
       "category": "phone",
-      "price": 41000000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "V.NAM",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "17 PM - 512G BLUE ZP (VN) - Full VAT",
@@ -1615,17 +1606,8 @@
     {
       "name": "17 - 256G SAGE ZP (VN)",
       "category": "phone",
-      "price": null,
+      "price": 25000000,
       "status": "Chưa Active",
-      "sim": "1 sim",
-      "origin": "V.NAM",
-      "availability": "unavailable"
-    },
-    {
-      "name": "17 - 256G WHITE ZP (VN)",
-      "category": "phone",
-      "price": 24200000,
-      "status": "Acti T10",
       "sim": "1 sim",
       "origin": "V.NAM",
       "availability": "priced"
@@ -1975,11 +1957,11 @@
     {
       "name": "iPad Pro 11' M5 - WF 256G - BLACK - MDWK4LL/A",
       "category": "device",
-      "price": null,
+      "price": 30700000,
       "status": "Chưa Active",
       "sim": "",
       "origin": "",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "iPad Pro 11' M5 - WF 256G - SILVER - MDWL4LL/A",
@@ -1993,11 +1975,11 @@
     {
       "name": "iPad Pro 11' M5 - 5G - 256G - BLACK - ME2N4LL/A",
       "category": "device",
-      "price": 29800000,
-      "status": "Active T5",
+      "price": null,
+      "status": "Chưa Active",
       "sim": "",
       "origin": "",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "iPad Pro 11' M5 - WF- 512G - BLACK - MDWM4LL/A",
@@ -2128,7 +2110,7 @@
     {
       "name": "iPad Pro 13' M5 - WF 256 - BLACK - MDYJ4LL/A",
       "category": "device",
-      "price": 32900000,
+      "price": 33200000,
       "status": "Chưa Active",
       "sim": "",
       "origin": "",
@@ -2146,11 +2128,11 @@
     {
       "name": "iPad Pro 13' M5 - WF 512 - BLACK - MDYL4LL/A",
       "category": "device",
-      "price": 38700000,
+      "price": null,
       "status": "Actived T3",
       "sim": "",
       "origin": "",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "iPad Pro 13' M5 - WF 512 - SILVER - MDYM4LL/A",
@@ -2205,6 +2187,15 @@
       "sim": "",
       "origin": "",
       "availability": "priced"
+    },
+    {
+      "name": "Air 8 (M4) - 13\" WF 256G - STAR (Ánh Sao) - MH5W4LL/A",
+      "category": "device",
+      "price": null,
+      "status": "Chưa Active",
+      "sim": "",
+      "origin": "",
+      "availability": "unavailable"
     },
     {
       "name": "Air 8 - 11\" M4 FW 128- GRAY VN - MH304 - ZA/A - Full VAT",
@@ -2371,7 +2362,7 @@
     {
       "name": "iPad Gen 11 (A16) – WiFi 128GB – SILVER – MD3Y4ZA/A – Full VAT",
       "category": "device",
-      "price": 12100000,
+      "price": 12300000,
       "status": "Chưa Active",
       "sim": "",
       "origin": "",
@@ -2380,7 +2371,7 @@
     {
       "name": "iPad Gen 11 (A16) – WiFi 128GB – PINK – MD4E4ZA/A – Full VAT",
       "category": "device",
-      "price": 12100000,
+      "price": 12500000,
       "status": "Chưa Active",
       "sim": "",
       "origin": "",
@@ -2452,7 +2443,7 @@
     {
       "name": "iPad Gen 11 (A16) – WiFi 256GB – BLUE (Xanh) – MD4H4ZA/A",
       "category": "device",
-      "price": 14300000,
+      "price": 14200000,
       "status": "Chưa Active",
       "sim": "",
       "origin": "",
@@ -2461,7 +2452,7 @@
     {
       "name": "iPad Gen 11 (A16) – WiFi 256GB – SILVER (Bạc) – MD4G4ZA/A",
       "category": "device",
-      "price": 14300000,
+      "price": 14400000,
       "status": "Chưa Active",
       "sim": "",
       "origin": "",
@@ -2993,6 +2984,15 @@
       "name": "MBP 16\" (M5 Max) BLACK 48G/2TB (18CPU–40GPU) LL - MGEE4 - USA",
       "category": "device",
       "price": 119700000,
+      "status": "Chưa Active",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "MBP 16\" (M5 Pro) Silver 24G/1TB (15CPU–16GPU) LL - MGE44",
+      "category": "device",
+      "price": 69700000,
       "status": "Chưa Active",
       "sim": "",
       "origin": "",
