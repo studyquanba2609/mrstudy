@@ -108,3 +108,57 @@ window.MRSTUDY_DATA.articles.unshift(...[
     "editorialSource": "https://dienthoaivui.com.vn/khac-phuc-loi-hao-pin-tren-ios-cua-dien-thoai-iphone/"
   }
 ]);
+
+window.MRSTUDY_DATA.articles.forEach(a=>{if(a.type==="repair")a.archived=true});
+window.MRSTUDY_DATA.articles.unshift(...[
+  {
+    "id": "meo-nguyen-nhan-loi-man-iphone-13",
+    "type": "knowledge",
+    "category": "Mẹo iPhone",
+    "title": "Vì sao màn hình iPhone 13, 13 Pro và 13 Pro Max bị sọc hoặc đổi màu?",
+    "description": "Phân biệt lỗi ứng dụng, tấm nền và đường kết nối qua dấu hiệu thực tế.",
+    "date": "2026-11-03",
+    "readTime": 3,
+    "image": "./assets/editorial/iphone-screen.svg",
+    "imageAlt": "Minh họa màn hình iPhone",
+    "tags": [
+      "iPhone 13",
+      "iPhone 13 Pro",
+      "iPhone 13 Pro Max",
+      "màn hình"
+    ],
+    "editorialSource": "https://dienthoaivui.com.vn/tin-tuc/iphone-13-pro-max-bi-soc-man-hinh",
+    "sources": [
+      {
+        "title": "iFixit · iPhone Lines on Screen",
+        "url": "https://www.ifixit.com/Troubleshooting/iPhone/Lines%2Bon%2BScreen/480100"
+      }
+    ],
+    "body": "<p>Trên iPhone 13, 13 Pro và 13 Pro Max, sọc xanh, trắng hoặc tím là dấu hiệu cần khoanh vùng. Màu sọc riêng lẻ không cho biết bộ phận nào hỏng.</p><h2>Lỗi chỉ xuất hiện trong một ứng dụng</h2><p>Thử mở Cài đặt hoặc một ứng dụng khác. Nếu hiện tượng chỉ xảy ra ở một nơi, hãy kiểm tra ứng dụng hoặc nội dung đang phát trước. Nếu lỗi xuất hiện sau cập nhật, ghi lại phiên bản iOS và thời điểm phát sinh; hai sự kiện xảy ra liền nhau chưa đủ để kết luận.</p><h2>Sọc nằm cố định hoặc màn đổi màu toàn bộ</h2><p>Nếu sọc giữ nguyên vị trí ở nhiều ứng dụng và cả lúc khởi động, kỹ thuật viên nên kiểm tra cụm OLED, cáp và đầu nối. Máy từng rơi, bị ép, vào nước hoặc thay màn cần kiểm tra kỹ các dấu vết liên quan. Bo mạch cũng là một khả năng nếu cụm màn và kết nối đã được loại trừ.</p><h2>Thử phân biệt mà chưa cần mở máy</h2><p>Nếu còn thao tác được, chụp màn hình và mở ảnh đó trên thiết bị khác. Ảnh không có sọc trong khi máy vẫn hiện sọc là một manh mối về đường hiển thị, chưa đủ để chọn linh kiện thay. Sao lưu dữ liệu nếu máy còn dùng được và ghi lại lỗi có xuất hiện khi khởi động không.</p>"
+  },
+  {
+    "id": "meo-nguyen-nhan-loi-man-iphone-14",
+    "type": "knowledge",
+    "category": "Mẹo iPhone",
+    "title": "Vì sao màn hình iPhone 14, 14 Pro và 14 Pro Max bị sọc hoặc đổi màu?",
+    "description": "Phân biệt lỗi ứng dụng, tấm nền và đường kết nối qua dấu hiệu thực tế.",
+    "date": "2026-11-03",
+    "readTime": 3,
+    "image": "./assets/editorial/iphone-screen.svg",
+    "imageAlt": "Minh họa màn hình iPhone",
+    "tags": [
+      "iPhone 14",
+      "iPhone 14 Pro",
+      "iPhone 14 Pro Max",
+      "màn hình"
+    ],
+    "editorialSource": "https://dienthoaivui.com.vn/tin-tuc/iphone-14-pro-max-bi-soc-man-hinh",
+    "sources": [
+      {
+        "title": "iFixit · iPhone Lines on Screen",
+        "url": "https://www.ifixit.com/Troubleshooting/iPhone/Lines%2Bon%2BScreen/480100"
+      }
+    ],
+    "body": "<p>Trên iPhone 14, 14 Pro và 14 Pro Max, sọc xanh, trắng hoặc tím là dấu hiệu cần khoanh vùng. Màu sọc riêng lẻ không cho biết bộ phận nào hỏng.</p><h2>Lỗi chỉ xuất hiện trong một ứng dụng</h2><p>Thử mở Cài đặt hoặc một ứng dụng khác. Nếu hiện tượng chỉ xảy ra ở một nơi, hãy kiểm tra ứng dụng hoặc nội dung đang phát trước. Nếu lỗi xuất hiện sau cập nhật, ghi lại phiên bản iOS và thời điểm phát sinh; hai sự kiện xảy ra liền nhau chưa đủ để kết luận.</p><h2>Sọc nằm cố định hoặc màn đổi màu toàn bộ</h2><p>Nếu sọc giữ nguyên vị trí ở nhiều ứng dụng và cả lúc khởi động, kỹ thuật viên nên kiểm tra cụm OLED, cáp và đầu nối. Máy từng rơi, bị ép, vào nước hoặc thay màn cần kiểm tra kỹ các dấu vết liên quan. Bo mạch cũng là một khả năng nếu cụm màn và kết nối đã được loại trừ.</p><h2>Thử phân biệt mà chưa cần mở máy</h2><p>Nếu còn thao tác được, chụp màn hình và mở ảnh đó trên thiết bị khác. Ảnh không có sọc trong khi máy vẫn hiện sọc là một manh mối về đường hiển thị, chưa đủ để chọn linh kiện thay. Sao lưu dữ liệu nếu máy còn dùng được và ghi lại lỗi có xuất hiện khi khởi động không.</p>"
+  }
+]);

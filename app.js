@@ -29,7 +29,6 @@
   function articleCard(a){return `<article class="article-card"><a class="article-visual ${a.image?'news-visual':'art-'+a.art}" href="#bai-viet/${a.id}" aria-label="Đọc: ${esc(a.title)}">${a.image?`<img src="${a.image}" alt="${esc(a.imageAlt||a.title)}" loading="lazy" width="600" height="338">`:artHTML[a.art]}</a>${saveButton('article',a.id)}<div class="article-meta"><span class="category-label">${esc(a.category)}</span><span>·</span><span>${a.readTime} phút đọc</span></div><h3><a href="#bai-viet/${a.id}">${esc(a.title)}</a></h3><p>${esc(a.description)}</p><div class="article-bottom"><span class="mini-avatar">M</span><span>MRSTUDY</span><span>·</span><time datetime="${a.date}">${date(a.date)}</time>${icon('diagonal')}</div></article>`}
   $('#knowledge-grid').innerHTML=articles.filter(a=>a.type==='knowledge').map(articleCard).join('');
   $('#news-grid').innerHTML=articles.filter(a=>a.type==='news'&&!a.archived).sort((a,b)=>b.date.localeCompare(a.date)).map(articleCard).join('');
-  $('#repair-articles').innerHTML=articles.filter(a=>a.type==='repair').map(articleCard).join('');
   renderApps();updateSaved();
   const sourcesHTML=sources=>`<div class="reader-sources"><h3>Nguồn & đọc thêm</h3>${sources.map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a>`).join('')}</div>`;
   const readerFooter=()=>`<div class="reader-footer"><button class="text-link" id="share-article">${icon('share')} Sao chép liên kết</button><a class="text-link" href="#app-mien-phi">Khám phá app miễn phí ${icon('arrow')}</a></div>`;
