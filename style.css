@@ -26,3 +26,9 @@ html[data-theme=dark]{--bg:#171e1a;--surface:#202a23;--ink:#e6ebdf;--muted:#a2af
 .roundup-heading{display:flex;align-items:center;gap:18px;margin-bottom:22px}.roundup-icon{width:80px;height:80px;border-radius:18px;object-fit:cover;border:1px solid var(--line);flex-shrink:0}.roundup-heading .reader-label{margin:0}.roundup-heading h2{margin:6px 0 0}.roundup-image{margin:24px 0;padding:20px;background:var(--soft);border:1px solid var(--line);border-radius:18px;text-align:center}.roundup-image img{display:block;max-width:100%;max-height:540px;width:auto;height:auto;margin:auto;border-radius:8px}.deal-topic-icons{display:flex;gap:10px;margin:20px 0 12px}.deal-topic-icons .roundup-icon{width:52px;height:52px;border-radius:12px}@media(max-width:600px){.roundup-heading{gap:12px}.roundup-icon{width:62px;height:62px;border-radius:14px}.roundup-heading h2{font-size:23px}.roundup-image{padding:12px}}
 
 .repair-articles{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px}.repair-articles .article-visual{aspect-ratio:720/420}.repair-articles .article-card{min-width:0}@media(max-width:650px){.repair-articles{grid-template-columns:1fr}}
+
+.quick-sections { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:12px; margin-block:16px 28px; }
+.quick-sections a { display:flex; flex-direction:column; gap:4px; padding:14px; border:1px solid currentColor; border-radius:14px; text-decoration:none; }
+.quick-sections a:hover, .quick-sections a:focus-visible { outline:2px solid currentColor; outline-offset:2px; }
+.quick-sections small { font-size:.8rem; line-height:1.4; }
+@media(max-width:640px) { .quick-sections { grid-template-columns:repeat(2,minmax(0,1fr)); } }
