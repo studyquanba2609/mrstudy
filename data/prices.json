@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T07:16:07.044125+00:00",
+  "updatedAt": "2026-11-03T08:11:47.567366+00:00",
   "items": [
     {
       "name": "Duo 256G Night X/A - VN - Full VAT",
@@ -13,11 +13,11 @@
     {
       "name": "Duo 256G White X/A - VN - Full VAT",
       "category": "phone",
-      "price": null,
-      "status": "Chưa Active",
+      "price": 69700000,
+      "status": "EK Hôm nay",
       "sim": "E sim",
       "origin": "V.NAM",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "Duo 256G Night X/A - VN",
@@ -40,7 +40,7 @@
     {
       "name": "Duo 256G Night LL",
       "category": "phone",
-      "price": 64200000,
+      "price": 63700000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -49,7 +49,7 @@
     {
       "name": "Duo 256G White LL",
       "category": "phone",
-      "price": 65400000,
+      "price": 64700000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -76,11 +76,11 @@
     {
       "name": "Duo 512G White X/A - VN",
       "category": "phone",
-      "price": null,
+      "price": 79200000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "V.NAM",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "Duo 512G Night X/A - VN",
@@ -148,7 +148,7 @@
     {
       "name": "Duo 512G White LL",
       "category": "phone",
-      "price": 75200000,
+      "price": 74700000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -211,7 +211,7 @@
     {
       "name": "iPhone Duo 1TB White LL",
       "category": "phone",
-      "price": 91200000,
+      "price": 90700000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -256,7 +256,7 @@
     {
       "name": "iPhone Duo 2TB White LL",
       "category": "phone",
-      "price": 112700000,
+      "price": 111700000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -355,11 +355,11 @@
     {
       "name": "18 PM - 256G Blue X/A (VN)",
       "category": "phone",
-      "price": null,
+      "price": 41400000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "V.NAM",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "18 PM - 256G Đỏ X/A (VN)",
@@ -391,11 +391,11 @@
     {
       "name": "18 PM - 256G Blue X/A (VN)",
       "category": "phone",
-      "price": 40700000,
+      "price": null,
       "status": "Actived 01/11",
       "sim": "1 sim",
       "origin": "V.NAM",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "18 PM - 256G Đỏ X/A (VN)",
@@ -427,7 +427,7 @@
     {
       "name": "18 PM - 256G Blue LL (MỸ )",
       "category": "phone",
-      "price": 41400000,
+      "price": 41200000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -3291,6 +3291,15 @@
       "category": "accessory",
       "price": 350000,
       "status": "BODY",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "Tai nghe AirPods Max 2 (USB-C) - Blue - MHWM4ZA",
+      "category": "accessory",
+      "price": 10600000,
+      "status": "Chưa Active",
       "sim": "",
       "origin": "",
       "availability": "priced"
