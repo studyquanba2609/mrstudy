@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T08:11:47.567366+00:00",
+  "updatedAt": "2026-11-03T09:11:37.660245+00:00",
   "items": [
     {
       "name": "Duo 256G Night X/A - VN - Full VAT",
@@ -13,7 +13,7 @@
     {
       "name": "Duo 256G White X/A - VN - Full VAT",
       "category": "phone",
-      "price": 69700000,
+      "price": 69200000,
       "status": "EK Hôm nay",
       "sim": "E sim",
       "origin": "V.NAM",
@@ -24,6 +24,15 @@
       "category": "phone",
       "price": 66700000,
       "status": "Chưa Active",
+      "sim": "E sim",
+      "origin": "V.NAM",
+      "availability": "priced"
+    },
+    {
+      "name": "Duo 256G White X/A - VN",
+      "category": "phone",
+      "price": 69200000,
+      "status": "Actived 03/11",
       "sim": "E sim",
       "origin": "V.NAM",
       "availability": "priced"
