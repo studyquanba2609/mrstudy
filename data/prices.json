@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T13:12:25.787356+00:00",
+  "updatedAt": "2026-11-03T14:12:37.508785+00:00",
   "items": [
     {
       "name": "Duo 256G Night X/A - VN - Full VAT",
@@ -310,11 +310,11 @@
     {
       "name": "18 PM - 256G Black X/A (VN) - Full VAT",
       "category": "phone",
-      "price": 41000000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "V.NAM",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "18 PM - 256G Silver X/A (VN) - Full VAT",
@@ -382,20 +382,20 @@
     {
       "name": "18 PM - 256G Black X/A (VN)",
       "category": "phone",
-      "price": 38500000,
+      "price": null,
       "status": "DEMO KEK",
       "sim": "1 sim",
       "origin": "V.NAM",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "18 PM - 256G Silver X/A (VN)",
       "category": "phone",
-      "price": 40700000,
+      "price": null,
       "status": "Actived 01/11",
       "sim": "1 sim",
       "origin": "V.NAM",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "18 PM - 256G Blue X/A (VN)",
@@ -2918,7 +2918,7 @@
       "availability": "priced"
     },
     {
-      "name": "MBA 13\" (M5 - 24/1T SILVER (10-10GPU) VN - MDH94SA/A",
+      "name": "MBA 13\" (M5 - 24/1T SILVER (10-10GPU) VN - MDH94SA",
       "category": "device",
       "price": 45200000,
       "status": "Chưa Active",
@@ -2927,7 +2927,7 @@
       "availability": "priced"
     },
     {
-      "name": "MBA 13” M5 16/512 SILVER (10-10GPU) LL - MDH74LL",
+      "name": "MBA 13” M5 16/512 SILVER (10CPU-8GPU) LL - MDH74LL",
       "category": "device",
       "price": 31700000,
       "status": "Chưa Active",
