@@ -32,3 +32,8 @@ html[data-theme=dark]{--bg:#171e1a;--surface:#202a23;--ink:#e6ebdf;--muted:#a2af
 .quick-sections a:hover, .quick-sections a:focus-visible { outline:2px solid currentColor; outline-offset:2px; }
 .quick-sections small { font-size:.8rem; line-height:1.4; }
 @media(max-width:640px) { .quick-sections { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+
+.app-daily { margin-top: 28px; }
+.app-daily h3 { margin-bottom: 12px; }
+.repair-articles .article-visual { height: clamp(112px, 20vw, 175px); aspect-ratio: auto; }
+.repair-articles .article-visual img { width: 100%; height: 100%; object-fit: contain; }
