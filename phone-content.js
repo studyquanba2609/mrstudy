@@ -27,8 +27,12 @@ window.MRSTUDY_DATA.articles.unshift(...[
       "iPhone",
       "Mẹo iPhone"
     ],
-    "body": "<h2>Kiểm tra trước</h2><p>Vào Cài đặt → Pin và so sánh hai ngày có cách sử dụng tương tự. Chạm vào ứng dụng đứng đầu để xem thời gian trên màn hình và hoạt động nền. Nếu máy tụt pin khi để yên, hãy xem ứng dụng có chạy nền nhiều hoặc điện thoại có ở vùng sóng yếu không.</p><h2>Bước tiếp theo</h2><p>Thử thay đổi một yếu tố mỗi lần, chẳng hạn hạn chế làm mới nền của ứng dụng nghi ngờ. So sánh lại hôm sau. Xem thêm mục Tình trạng pin nếu máy thường tắt bất ngờ hoặc báo cần bảo trì.</p>",
+    "body": "<h2>Kiểm tra trước</h2><p>Vào Cài đặt → Pin và so sánh hai ngày có cách sử dụng tương tự. Chạm vào ứng dụng đứng đầu để xem thời gian trên màn hình và hoạt động nền. Nếu máy tụt pin khi để yên, hãy xem ứng dụng có chạy nền nhiều hoặc điện thoại có ở vùng sóng yếu không.</p><h2>Bước tiếp theo</h2><p>Thử thay đổi một yếu tố mỗi lần, chẳng hạn hạn chế làm mới nền của ứng dụng nghi ngờ. So sánh lại hôm sau. Xem thêm mục Tình trạng pin nếu máy thường tắt bất ngờ hoặc báo cần bảo trì.</p><h2>Thử kiểm tra qua đêm</h2><p>Ghi mức pin trước khi ngủ và sau khi thức dậy. Xem biểu đồ Pin trong đúng khoảng giờ đó để tìm ứng dụng hoặc hoạt động nền trùng với lúc pin giảm.</p>",
     "sources": [
+      {
+        "title": "Điện Thoại Vui",
+        "url": "https://dienthoaivui.com.vn/tin-tuc/iphone-dung-bao-lau-thi-tut-pin"
+      },
       {
         "title": "Apple Support",
         "url": "https://support.apple.com/en-us/120745"
@@ -52,6 +56,10 @@ window.MRSTUDY_DATA.articles.unshift(...[
     "body": "<h2>Kiểm tra trước</h2><p>Lau khô màn hình và tay, rút cáp sạc, tháo ốp hoặc kính bảo vệ nếu chúng cản thao tác. Mở Ghi chú và vẽ các đường qua vùng nghi bị liệt, rồi thử lại trong một ứng dụng khác.</p><h2>Bước tiếp theo</h2><p>Nếu lỗi chỉ xảy ra khi cắm sạc, thử cáp, củ sạc và ổ điện khác. Nếu cùng một vùng vẫn không nhận chạm sau khi khởi động lại, sao lưu dữ liệu và mang máy đi kiểm tra.</p>",
     "sources": [
       {
+        "title": "Điện Thoại Vui",
+        "url": "https://dienthoaivui.com.vn/loi-iphone-bi-do-cam-ung"
+      },
+      {
         "title": "Apple Support",
         "url": "https://support.apple.com/en-us/102567"
       }
@@ -74,6 +82,10 @@ window.MRSTUDY_DATA.articles.unshift(...[
     "body": "<h2>Kiểm tra trước</h2><p>Trên iPhone 8 trở lên, bấm rồi nhả nhanh nút tăng âm lượng, bấm rồi nhả nhanh nút giảm âm lượng, sau đó giữ nút sườn đến khi hiện logo Apple.</p><h2>Bước tiếp theo</h2><p>Trên iPhone 7 hoặc 7 Plus, giữ nút sườn và giảm âm lượng. Trên iPhone 6s trở về trước, giữ nút Home và nút sườn hoặc nút trên cùng. Nhả khi thấy logo Apple. Nếu máy vẫn đen màn hình, xem hướng dẫn sạc và kiểm tra tiếp của Apple.</p>",
     "sources": [
       {
+        "title": "Điện Thoại Vui",
+        "url": "https://dienthoaivui.com.vn/loi-iphone-bi-do-cam-ung"
+      },
+      {
         "title": "Apple Support",
         "url": "https://support.apple.com/en-us/116940"
       }
@@ -95,6 +107,10 @@ window.MRSTUDY_DATA.articles.unshift(...[
     ],
     "body": "<h2>Kiểm tra trước</h2><p>Sau cập nhật, một số tác vụ vẫn chạy nền và có thể làm máy ấm hoặc hao pin. Mở Cài đặt → Pin để xem máy có báo đang hoàn tất cập nhật hay ứng dụng nào tiêu thụ nhiều.</p><h2>Bước tiếp theo</h2><p>Nếu máy vẫn hoạt động bình thường, theo dõi thêm vài ngày rồi so lại mức pin trong điều kiện sử dụng tương tự. Nếu tình trạng kéo dài, xem hoạt động nền và tình trạng pin trước khi quyết định thay linh kiện.</p>",
     "sources": [
+      {
+        "title": "Điện Thoại Vui",
+        "url": "https://dienthoaivui.com.vn/khac-phuc-loi-hao-pin-tren-ios-cua-dien-thoai-iphone/"
+      },
       {
         "title": "Apple Support",
         "url": "https://support.apple.com/en-us/120745"
