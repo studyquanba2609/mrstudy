@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T12:12:21.840513+00:00",
+  "updatedAt": "2026-11-04T13:07:43.743166+00:00",
   "items": [
     {
       "name": "Duo 256G Night X/A - VN - Full VAT",
@@ -13,20 +13,11 @@
     {
       "name": "Duo 256G White X/A - VN - Full VAT",
       "category": "phone",
-      "price": 68700000,
-      "status": "EK Hôm nay",
-      "sim": "E sim",
-      "origin": "V.NAM",
-      "availability": "priced"
-    },
-    {
-      "name": "Duo 256G White X/A - VN",
-      "category": "phone",
-      "price": 66700000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "V.NAM",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "Duo 256G Night X/A - VN",
@@ -36,6 +27,15 @@
       "sim": "E sim",
       "origin": "V.NAM",
       "availability": "unavailable"
+    },
+    {
+      "name": "Duo 256G White X/A - VN",
+      "category": "phone",
+      "price": 66700000,
+      "status": "Chưa Active",
+      "sim": "E sim",
+      "origin": "V.NAM",
+      "availability": "priced"
     },
     {
       "name": "Duo 256G Night X/A - VN",
@@ -85,7 +85,7 @@
     {
       "name": "Duo 256G White LL",
       "category": "phone",
-      "price": 65000000,
+      "price": 64700000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -184,11 +184,11 @@
     {
       "name": "Duo 512G White KH",
       "category": "phone",
-      "price": 72000000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "HÀN",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "iPhone Duo 1TB Night X/A - VN",
@@ -202,7 +202,7 @@
     {
       "name": "iPhone Duo 1TB White X/A - VN",
       "category": "phone",
-      "price": 89700000,
+      "price": 89200000,
       "status": "Actived 02/11",
       "sim": "E sim",
       "origin": "V.NAM",
@@ -265,7 +265,7 @@
     {
       "name": "iPhone Duo 2TB Night LL",
       "category": "phone",
-      "price": 111700000,
+      "price": 110700000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -274,7 +274,7 @@
     {
       "name": "iPhone Duo 2TB White LL",
       "category": "phone",
-      "price": 111700000,
+      "price": 110700000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -392,7 +392,7 @@
       "name": "18 PM - 256G Black X/A (VN)",
       "category": "phone",
       "price": null,
-      "status": "DEMO KEK",
+      "status": "Actived 01/11",
       "sim": "1 sim",
       "origin": "V.NAM",
       "availability": "unavailable"
@@ -419,7 +419,7 @@
       "name": "18 PM - 256G Đỏ X/A (VN)",
       "category": "phone",
       "price": null,
-      "status": "Actived 24/10",
+      "status": "Actived 01/11",
       "sim": "1 sim",
       "origin": "V.NAM",
       "availability": "unavailable"
@@ -506,6 +506,15 @@
       "availability": "unavailable"
     },
     {
+      "name": "18 PM - 512G ĐỎ X/A (VN) - Full VAT",
+      "category": "phone",
+      "price": 49200000,
+      "status": "Chưa Active",
+      "sim": "1 sim",
+      "origin": "V.NAM",
+      "availability": "priced"
+    },
+    {
       "name": "18 PM - 512G Black X/A (VN)",
       "category": "phone",
       "price": 45900000,
@@ -535,7 +544,7 @@
     {
       "name": "18 PM - 512G Đỏ X/A (VN)",
       "category": "phone",
-      "price": 49500000,
+      "price": 49200000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "V.NAM",
@@ -805,7 +814,7 @@
     {
       "name": "18 PM - 2TB Blue LL",
       "category": "phone",
-      "price": 73200000,
+      "price": 72700000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -3350,6 +3359,33 @@
       "availability": "priced"
     },
     {
+      "name": "Duo 256G White X/A - VN - Full VAT",
+      "category": "phone",
+      "price": null,
+      "status": "EK Hôm nay",
+      "sim": "E sim",
+      "origin": "V.NAM",
+      "availability": "unavailable"
+    },
+    {
+      "name": "18 PM - 256G Black X/A (VN)",
+      "category": "phone",
+      "price": null,
+      "status": "DEMO KEK",
+      "sim": "1 sim",
+      "origin": "V.NAM",
+      "availability": "unavailable"
+    },
+    {
+      "name": "18 PM - 256G Đỏ X/A (VN)",
+      "category": "phone",
+      "price": null,
+      "status": "Actived 24/10",
+      "sim": "1 sim",
+      "origin": "V.NAM",
+      "availability": "unavailable"
+    },
+    {
       "name": "Duo 512G White X/A - VN",
       "category": "phone",
       "price": null,
@@ -3400,15 +3436,6 @@
       "price": null,
       "status": "Actived 01/11",
       "sim": "E sim",
-      "origin": "V.NAM",
-      "availability": "unavailable"
-    },
-    {
-      "name": "18 PM - 512G ĐỎ X/A (VN) - Full VAT",
-      "category": "phone",
-      "price": null,
-      "status": "Chưa Active",
-      "sim": "1 sim",
       "origin": "V.NAM",
       "availability": "unavailable"
     }
