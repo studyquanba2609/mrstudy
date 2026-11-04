@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T14:16:05.875459+00:00",
+  "updatedAt": "2026-11-04T15:10:51.201846+00:00",
   "items": [
     {
       "name": "Duo 256G Night X/A - VN - Full VAT",
@@ -193,7 +193,7 @@
     {
       "name": "iPhone Duo 1TB White X/A - VN",
       "category": "phone",
-      "price": 89200000,
+      "price": 89700000,
       "status": "Actived 02/11",
       "sim": "E sim",
       "origin": "V.NAM",
@@ -202,7 +202,7 @@
     {
       "name": "iPhone Duo 1TB Night LL",
       "category": "phone",
-      "price": 88700000,
+      "price": 87700000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -3262,7 +3262,7 @@
     {
       "name": "GPS 40mm Starlight / Midnight Sport Band - S/M - LL - MEH34 - LW/A",
       "category": "device",
-      "price": 6500000,
+      "price": 6400000,
       "status": "Chưa Active",
       "sim": "",
       "origin": "",
@@ -3314,16 +3314,7 @@
       "availability": "priced"
     },
     {
-      "name": "MWVV3AM/A - Củ sạc Apple 20W Fullbox",
-      "category": "accessory",
-      "price": 380000,
-      "status": "Full Box",
-      "sim": "",
-      "origin": "",
-      "availability": "priced"
-    },
-    {
-      "name": "MGTU4ZA/A - Củ sạc Apple 40W Fullbox",
+      "name": "Củ sạc Apple 40W Fullbox – MGTU4ZA",
       "category": "accessory",
       "price": 1050000,
       "status": "Full Box",
@@ -3348,6 +3339,51 @@
       "sim": "",
       "origin": "",
       "availability": "priced"
+    },
+    {
+      "name": "Cáp C–L (USB-C to Lightning)",
+      "category": "accessory",
+      "price": 215000,
+      "status": "Chính Hãng",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "Cáp C–C (USB-C to USB-C)",
+      "category": "accessory",
+      "price": 215000,
+      "status": "Chính Hãng",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "Magic Keyboard Folio iPad 11\" A16 - WHITE - MQDP3LL",
+      "category": "device",
+      "price": 5200000,
+      "status": "USA",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "MWVV3AM/A - Củ sạc Apple 20W Fullbox",
+      "category": "accessory",
+      "price": null,
+      "status": "Full Box",
+      "sim": "",
+      "origin": "",
+      "availability": "unavailable"
+    },
+    {
+      "name": "MGTU4ZA/A - Củ sạc Apple 40W Fullbox",
+      "category": "accessory",
+      "price": null,
+      "status": "Full Box",
+      "sim": "",
+      "origin": "",
+      "availability": "unavailable"
     },
     {
       "name": "Duo 256G White X/A - VN",
