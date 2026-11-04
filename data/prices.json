@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T15:16:21.537834+00:00",
+  "updatedAt": "2026-11-04T00:16:42.454373+00:00",
   "items": [
     {
       "name": "Duo 256G Night X/A - VN - Full VAT",
@@ -2543,6 +2543,15 @@
       "name": "iPad Gen 11 (A16) – WiFi 256GB – SILVER (Bạc) – MD4G4ZA/A",
       "category": "device",
       "price": 14400000,
+      "status": "Chưa Active",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "iPad Gen 10 (A14) – 5G 256G – SILVER (Bạc) VN – MQ6T3ZA",
+      "category": "device",
+      "price": 14700000,
       "status": "Chưa Active",
       "sim": "",
       "origin": "",
