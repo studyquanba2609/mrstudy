@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T00:16:42.454373+00:00",
+  "updatedAt": "2026-11-04T03:11:44.048891+00:00",
   "items": [
     {
       "name": "Duo 256G Night X/A - VN - Full VAT",
@@ -24,6 +24,15 @@
       "category": "phone",
       "price": 66700000,
       "status": "Chưa Active",
+      "sim": "E sim",
+      "origin": "V.NAM",
+      "availability": "priced"
+    },
+    {
+      "name": "Duo 256G Night X/A - VN",
+      "category": "phone",
+      "price": 65200000,
+      "status": "Actived 02/11",
       "sim": "E sim",
       "origin": "V.NAM",
       "availability": "priced"
@@ -94,16 +103,16 @@
     {
       "name": "Duo 512G Night X/A - VN",
       "category": "phone",
-      "price": null,
-      "status": "Actived 02/11",
+      "price": 74200000,
+      "status": "Actived 31/11",
       "sim": "E sim",
       "origin": "V.NAM",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "Duo 512G White X/A - VN",
       "category": "phone",
-      "price": 75700000,
+      "price": 75200000,
       "status": "Actived 03/11",
       "sim": "E sim",
       "origin": "V.NAM",
@@ -112,7 +121,7 @@
     {
       "name": "Duo 512G White X/A - VN",
       "category": "phone",
-      "price": 74700000,
+      "price": 74200000,
       "status": "Actived 01/11",
       "sim": "E sim",
       "origin": "V.NAM",
@@ -1804,11 +1813,11 @@
     {
       "name": "16 Plus - 256G Pink - VN",
       "category": "phone",
-      "price": 26500000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "1 SIM",
       "origin": "V.NAM",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "16 Plus - 256G Pink - VN",
@@ -3227,6 +3236,15 @@
       "name": "GPS 40mm Starlight / Midnight Sport Band - S/M - LL - MEH34 - LW/A",
       "category": "device",
       "price": 6500000,
+      "status": "Chưa Active",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "AirPods 5 (SẠC THƯỜNG ) - MKFW4 ZP/A",
+      "category": "accessory",
+      "price": 3950000,
       "status": "Chưa Active",
       "sim": "",
       "origin": "",
