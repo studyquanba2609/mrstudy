@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T13:07:43.743166+00:00",
+  "updatedAt": "2026-11-04T14:16:05.875459+00:00",
   "items": [
     {
       "name": "Duo 256G Night X/A - VN - Full VAT",
@@ -42,15 +42,6 @@
       "category": "phone",
       "price": 65200000,
       "status": "Actived 02/11",
-      "sim": "E sim",
-      "origin": "V.NAM",
-      "availability": "priced"
-    },
-    {
-      "name": "Duo 256G White X/A - VN",
-      "category": "phone",
-      "price": 66200000,
-      "status": "Actived 03/11",
       "sim": "E sim",
       "origin": "V.NAM",
       "availability": "priced"
@@ -137,13 +128,13 @@
       "availability": "priced"
     },
     {
-      "name": "Duo 512G White X/A - VN",
+      "name": "Duo 512G Night X/A - VN",
       "category": "phone",
-      "price": null,
-      "status": "Actived 02/11",
+      "price": 72600000,
+      "status": "Acti T10 (12L)",
       "sim": "E sim",
       "origin": "V.NAM",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "Duo 512G White ZA HK",
@@ -166,7 +157,7 @@
     {
       "name": "Duo 512G White LL",
       "category": "phone",
-      "price": 75200000,
+      "price": 74700000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -445,11 +436,11 @@
     {
       "name": "18 PM - 256G Blue LL (MỸ )",
       "category": "phone",
-      "price": 41300000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "18 PM - 256G Đỏ LL (MỸ )",
@@ -3357,6 +3348,24 @@
       "sim": "",
       "origin": "",
       "availability": "priced"
+    },
+    {
+      "name": "Duo 256G White X/A - VN",
+      "category": "phone",
+      "price": null,
+      "status": "Actived 03/11",
+      "sim": "E sim",
+      "origin": "V.NAM",
+      "availability": "unavailable"
+    },
+    {
+      "name": "Duo 512G White X/A - VN",
+      "category": "phone",
+      "price": null,
+      "status": "Actived 02/11",
+      "sim": "E sim",
+      "origin": "V.NAM",
+      "availability": "unavailable"
     },
     {
       "name": "Duo 256G White X/A - VN - Full VAT",
