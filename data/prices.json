@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T03:11:44.048891+00:00",
+  "updatedAt": "2026-11-04T04:09:32.878995+00:00",
   "items": [
     {
       "name": "Duo 256G Night X/A - VN - Full VAT",
@@ -105,6 +105,15 @@
       "category": "phone",
       "price": 74200000,
       "status": "Actived 31/11",
+      "sim": "E sim",
+      "origin": "V.NAM",
+      "availability": "priced"
+    },
+    {
+      "name": "Duo 512G Night X/A - VN",
+      "category": "phone",
+      "price": 75200000,
+      "status": "Actived 03/11",
       "sim": "E sim",
       "origin": "V.NAM",
       "availability": "priced"
@@ -346,29 +355,29 @@
     {
       "name": "18 PM - 256G Black X/A (VN)",
       "category": "phone",
-      "price": null,
+      "price": 40200000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "V.NAM",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "18 PM - 256G Silver X/A (VN)",
       "category": "phone",
-      "price": null,
+      "price": 41200000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "V.NAM",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "18 PM - 256G Blue X/A (VN)",
       "category": "phone",
-      "price": null,
+      "price": 41200000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "V.NAM",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "18 PM - 256G Đỏ X/A (VN)",
@@ -391,20 +400,20 @@
     {
       "name": "18 PM - 256G Silver X/A (VN)",
       "category": "phone",
-      "price": null,
+      "price": 40600000,
       "status": "Actived 01/11",
       "sim": "1 sim",
       "origin": "V.NAM",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "18 PM - 256G Blue X/A (VN)",
       "category": "phone",
-      "price": null,
+      "price": 40600000,
       "status": "Actived 01/11",
       "sim": "1 sim",
       "origin": "V.NAM",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "18 PM - 256G Đỏ X/A (VN)",
