@@ -11,5 +11,9 @@ function valid(d,now=Date.now()){
  if(d.kind==='upgrade'&&d.lifetimeVerified&&(!https(d.lifetimeEvidence?.url)||!iso(d.lifetimeEvidence?.checkedAt)||now-Date.parse(d.lifetimeEvidence.checkedAt)>172800000||Date.parse(d.lifetimeEvidence.checkedAt)>now+300000||typeof d.lifetimeEvidence.description!=='string'||!d.lifetimeEvidence.description.trim()))return false;
  return true;
 }
-const api={valid,source};if(typeof module!=='undefined'&&module.exports)module.exports=api;else root.MRSTUDY_DEAL_RULES=api;
+function validReport(d,now=Date.now()){
+ const u=https(d?.url);
+ return /^deal-[a-z0-9-]+$/.test(d?.id)&&['name','summary','regionName'].every(k=>typeof d[k]==='string'&&d[k].trim())&&/^\d{4}-\d{2}-\d{2}$/.test(d.topicDate)&&iso(d.reportedAt)&&Date.parse(d.reportedAt)<=now&&now-Date.parse(d.reportedAt)<172800000&&u?.hostname==='apps.apple.com'&&/^\/[a-z]{2}\/app\/(?:[^/]+\/)?id\d+$/.test(u.pathname);
+}
+const api={valid,source,validReport};if(typeof module!=='undefined'&&module.exports)module.exports=api;else root.MRSTUDY_DEAL_RULES=api;
 })(typeof window!=='undefined'?window:this);

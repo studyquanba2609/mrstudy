@@ -53,5 +53,35 @@
       "icon": "./assets/deals/920583100-icon.jpg",
       "image": "./assets/deals/920583100-screen.jpg"
     }
+  ],
+  "reportedOffers": [
+    {
+      "id": "deal-6755518413-reported",
+      "topicDate": "2026-11-04",
+      "reportedAt": "2026-11-04T01:13:07.345695+00:00",
+      "name": "Qard: vCard QR Code Contact",
+      "summary": "Tạo mã QR để chia sẻ danh bạ và hồ sơ mạng xã hội khi gặp khách hàng hoặc đi sự kiện.",
+      "url": "https://apps.apple.com/vn/app/id6755518413",
+      "regionName": "Việt Nam",
+      "reportedRegion": "Việt Nam"
+    },
+    {
+      "id": "deal-6502765463-reported",
+      "topicDate": "2026-11-04",
+      "reportedAt": "2026-11-04T01:13:07.345695+00:00",
+      "name": "拾光日记",
+      "summary": "Viết nhật ký bằng chữ và ảnh, phân loại ghi chép bằng thẻ và tìm lại theo từ khóa.",
+      "url": "https://apps.apple.com/cn/app/id6502765463",
+      "regionName": "Trung Quốc"
+    },
+    {
+      "id": "deal-1137340773-reported",
+      "topicDate": "2026-11-04",
+      "reportedAt": "2026-11-04T01:13:07.345695+00:00",
+      "name": "File Sharing và Chat",
+      "summary": "Gửi tệp và trò chuyện giữa các thiết bị. Hữu ích khi cần chuyển tài liệu sang thiết bị khác.",
+      "url": "https://apps.apple.com/vn/app/id1137340773",
+      "regionName": "Việt Nam"
+    }
   ]
 }
