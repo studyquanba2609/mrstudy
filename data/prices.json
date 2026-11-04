@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T10:16:44.308818+00:00",
+  "updatedAt": "2026-11-04T12:12:21.840513+00:00",
   "items": [
     {
       "name": "Duo 256G Night X/A - VN - Full VAT",
@@ -67,11 +67,11 @@
     {
       "name": "Duo 256G White Z/A - HK",
       "category": "phone",
-      "price": 62200000,
+      "price": null,
       "status": "Actived 25/10",
       "sim": "E sim",
       "origin": "HK",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "Duo 256G Night LL",
@@ -382,11 +382,11 @@
     {
       "name": "18 PM - 256G Đỏ X/A (VN)",
       "category": "phone",
-      "price": 40800000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "V.NAM",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "18 PM - 256G Black X/A (VN)",
@@ -1885,11 +1885,11 @@
     {
       "name": "16 - 128G Black VN",
       "category": "phone",
-      "price": 21100000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "V.NAM",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "16 - 128G Pink VN",
