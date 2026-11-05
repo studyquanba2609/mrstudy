@@ -74,5 +74,25 @@
       "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/6e/2f/fc6e2f99-47ce-14ad-be30-ed41bb64571d/iPhone_17_Pro_Max_-_01Mouse_68887f06-8e3a-456e-9b2f-4f890a78d365_framed.jpg/320x480bb.jpg",
       "size": 19103
     }
+  },
+  "6813558062": {
+    "icon": {
+      "path": "./assets/deals/6813558062-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/ba/bb/5dbabb71-22a8-c185-a531-640697e5a8dc/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
+      "size": 17863,
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "screen": {
+      "path": "./assets/deals/6813558062-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/2a/2a/eb2a2ac4-1ed3-3afe-13fb-bbb15d854c1d/01-any-format.png/320x480bb.jpg",
+      "size": 18102,
+      "dimensions": [
+        221,
+        480
+      ]
+    }
   }
 }

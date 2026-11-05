@@ -314,3 +314,92 @@ window.MRSTUDY_DATA.articles.unshift(...[
 window.MRSTUDY_DATA.articles.unshift({"id": "app-store-thong-diep-khi-huy-thue-bao", "type": "news", "sourceSite": "MacRumors", "category": "Tin iPhone", "title": "App Store cho phép hiện ưu đãi khi người dùng hủy thuê bao", "description": "Thông điệp có thể gồm văn bản, ảnh hoặc đề nghị đặc biệt trong luồng hủy đăng ký.", "date": "2026-11-04", "sourceDate": "2026-11-04", "readTime": 2, "image": "./assets/editorial/iphone-apps.svg?v=d1956e8f49", "imageAlt": "Minh họa ứng dụng iPhone do MRSTUDY biên soạn", "tags": ["iPhone", "App Store", "thuê bao"], "body": "<p>Apple bổ sung thông điệp giữ thuê bao trong quy trình hủy đăng ký App Store, theo MacRumors ngày 4/11. Người dùng iPhone có thể thấy lời nhắc về giá trị dịch vụ hoặc ưu đãi trước khi hoàn tất việc hủy. Thông điệp hỗ trợ văn bản, hình ảnh và đề nghị đặc biệt.</p><p>Nhà phát triển cấu hình tính năng cho thuê bao tự động gia hạn qua App Store Connect, chọn nhóm người đủ điều kiện và khoảng chờ giữa các thông điệp. Retention Messaging API cho phép chọn nội dung dựa trên chi tiết thuê bao của từng người; quyền truy cập API cần được yêu cầu riêng với Apple.</p><p>Đây là công cụ dành cho nhà phát triển, không phải thông báo mọi ứng dụng đều có giảm giá.</p>", "sources": [{"title": "MacRumors · Juli Clover · 04/11/2026", "url": "https://www.macrumors.com/2026/11/04/app-store-subscription-retention/"}, {"title": "Apple Developer · 04/11/2026", "url": "https://developer.apple.com/news/?id=fk9ps3gv"}]});
 
 window.MRSTUDY_DATA.articles.unshift({"id": "zach-cregger-iphone-lap-ke-hoach-canh-quay", "type": "news", "sourceSite": "MacRumors", "category": "Tin iPhone", "title": "Zach Cregger dùng iPhone để lên kế hoạch cảnh quay", "description": "iPhone và Cadrage hỗ trợ chọn góc máy, ống kính và bố cục trước khi ghi hình.", "date": "2026-11-04", "sourceDate": "2026-11-04", "readTime": 2, "image": "./assets/topics/iphone-14.webp", "imageAlt": "iPhone 14, ảnh minh họa thiết bị; không phải ảnh đoàn phim", "tags": ["iPhone", "Cadrage", "quay phim", "nhiếp ảnh"], "body": "<p>Theo MacRumors ngày 4/11, đạo diễn Zach Cregger dùng iPhone và ứng dụng Cadrage để chuẩn bị các cảnh quay. Trong video Apple TV được Greg Joswiak chia sẻ, ông mô tả việc chọn góc máy, ống kính và những gì xuất hiện trong từng khung hình trước khi đoàn phim bắt đầu ghi hình.</p><p>Cregger chụp ảnh để hình dung cảnh rồi in ra cho các thành viên trong đoàn cùng tham khảo. Ông cho biết đã áp dụng cách chuẩn bị này khi thực hiện Weapons và Barbarian, với các cảnh được lên kế hoạch bằng ảnh từ trước.</p><p>Ví dụ này cho thấy iPhone có thể hỗ trợ khâu tiền kỳ và trao đổi ý tưởng hình ảnh. Bài nguồn không nói hai bộ phim được quay hoàn toàn bằng iPhone.</p>", "sources": [{"title": "MacRumors · Juli Clover · 04/11/2026", "url": "https://www.macrumors.com/2026/11/04/zach-cregger-iphone-resident-evil/"}]});
+
+window.MRSTUDY_DATA.articles.unshift(...[
+  {
+    "id": "google-maps-toi-uu-man-hinh-iphone-duo",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "Tin iPhone",
+    "title": "Google Maps phủ trọn hai màn hình iPhone Duo",
+    "description": "Bản 26.44.4 bỏ dải đen bên phải và sắp xếp lại công cụ trên màn hình trong.",
+    "date": "2026-11-04",
+    "sourceDate": "2026-11-04",
+    "readTime": 2,
+    "image": "./assets/topics/iphone-duo.webp",
+    "imageAlt": "iPhone Duo, ảnh minh họa thiết bị; không phải ảnh giao diện Google Maps",
+    "tags": [
+      "iPhone Duo",
+      "Google Maps",
+      "bản đồ"
+    ],
+    "body": "<p>Theo MacRumors ngày 4/11, Google Maps 26.44.4 đã tận dụng đầy đủ màn hình trong và ngoài của iPhone Duo. Bản trước vẫn để một dải đen dọc bên phải, khiến bản đồ không phủ hết không gian hiển thị.</p><p>Khi mở máy, bản đồ trải rộng trên màn hình trong. Ô tìm kiếm nằm ở góc trên bên trái; các mục Khám phá, Bạn và Đóng góp được gom ở cạnh trái, còn nút điều khiển bản đồ ở phía phải. Bố cục này giúp các thành phần chính có vị trí riêng trên màn hình rộng.</p><p>MacRumors ghi nhận thay đổi qua giao diện thực tế; ghi chú phát hành của Google không nêu riêng việc tối ưu cho Duo. Người dùng có thể tìm bản cập nhật trên App Store.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Tim Hardwick · 04/11/2026",
+        "url": "https://www.macrumors.com/2026/11/04/latest-google-maps-update-iphone-duo-support/"
+      }
+    ]
+  },
+  {
+    "id": "iphone-duo-han-tra-may-mua-ngay-mo-ban",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "Tin iPhone",
+    "title": "iPhone Duo nhận ngày mở bán sắp hết hạn trả tại Apple Mỹ",
+    "description": "Mốc 6/11 chỉ liên quan người nhận máy ngày 23/10 trực tiếp từ Apple Mỹ.",
+    "date": "2026-11-05",
+    "sourceDate": "2026-11-05",
+    "readTime": 2,
+    "image": "./assets/topics/iphone-duo.webp",
+    "imageAlt": "iPhone Duo, ảnh minh họa thiết bị",
+    "tags": [
+      "iPhone Duo",
+      "Apple Mỹ",
+      "trả hàng"
+    ],
+    "body": "<p>MacRumors ngày 5/11 nhắc người mua iPhone Duo trực tiếp từ Apple tại Mỹ và nhận máy ngày mở bán 23/10 lưu ý mốc trả hàng 6/11. Chính sách tiêu chuẩn của Apple Mỹ tính 14 ngày theo lịch từ lúc nhận sản phẩm, nên người nhận máy muộn hơn có mốc khác.</p><p>Đây không phải hạn chung cho mọi thị trường hoặc mọi cửa hàng. Máy mua qua nhà mạng hay đại lý áp dụng chính sách của bên bán. Trước khi trả, người dùng cần chuẩn bị thiết bị cùng phụ kiện đi kèm và làm theo hướng dẫn của Apple.</p><p>Việc trả iPhone cũng không tự động hủy dịch vụ di động. Nếu đã đăng ký gói cước, cần liên hệ nhà mạng để xử lý riêng.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Tim Hardwick · 05/11/2026",
+        "url": "https://www.macrumors.com/2026/11/05/iphone-duo-launch-day-nov-6-last-chance-return/"
+      },
+      {
+        "title": "Apple Mỹ · Returns & Refunds",
+        "url": "https://www.apple.com/shop/help/returns_refund"
+      }
+    ]
+  },
+  {
+    "id": "mic-iphone-re-mat-tieng-kiem-tra",
+    "type": "knowledge",
+    "category": "Mẹo iPhone",
+    "title": "Mic iPhone rè hoặc mất tiếng: kiểm tra bằng Ghi âm và Camera",
+    "description": "Phân biệt lỗi ở cuộc gọi, video và từng ứng dụng trước khi quyết định sửa linh kiện.",
+    "date": "2026-11-05",
+    "sourceDate": "2026-09-14",
+    "editorialSource": "https://dienthoaivui.com.vn/loi-mic-dien-thoai-goi-ma-ben-dau-day-kia-khong-nghe-duoc",
+    "readTime": 3,
+    "image": "./assets/editorial/iphone-microphone.svg",
+    "imageAlt": "Minh họa iPhone và tín hiệu mic do MRSTUDY tự vẽ, không phải sơ đồ tháo máy",
+    "tags": [
+      "iPhone",
+      "mic",
+      "Ghi âm",
+      "Camera"
+    ],
+    "body": "<h2>Khoanh vùng trước khi sửa</h2><p>Âm thanh nhỏ, rè hoặc mất tiếng có thể liên quan vật che mic, ứng dụng hay thiết bị; một triệu chứng chưa đủ kết luận phải thay mic. Tháo ốp và miếng dán có thể che lỗ thu âm, rồi thử lại.</p><h2>Thử hai cách thu âm</h2><p>Mở Ghi âm, nói về phía đáy iPhone và nghe lại. Nếu lỗi xảy ra khi dùng loa ngoài, quay hai video bằng camera trước và sau, nói về phía đỉnh máy. Ghi lại cách thử nào bị mất hoặc rè tiếng.</p><h2>Kiểm tra quyền của app</h2><p>Nếu chỉ một app gặp lỗi, vào Cài đặt → Quyền riêng tư &amp; Bảo mật → Micrô và bật quyền phù hợp. App đã có quyền mà vẫn lỗi hoặc không xuất hiện trong danh sách thì liên hệ nhà phát triển.</p><h2>Vệ sinh và kiểm tra tiếp</h2><p>Rút cáp, tắt máy và lau ngoài nhẹ bằng vải mềm không xơ; tránh để ẩm lọt khe. Không dùng khí nén hoặc chọc sâu vào lỗ mic. Nếu tiếng vẫn không rõ, nên kiểm tra thiết bị thay vì tự tháo máy.</p>",
+    "sources": [
+      {
+        "title": "Apple Support · Microphones on iPhone · 27/03/2026",
+        "url": "https://support.apple.com/en-us/101600"
+      },
+      {
+        "title": "Apple Support · Vệ sinh iPhone",
+        "url": "https://support.apple.com/vi-vn/108765"
+      }
+    ]
+  }
+]);
+
+
