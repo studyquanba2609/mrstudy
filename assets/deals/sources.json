@@ -50,5 +50,17 @@
       "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/de/ea/51deea00-e3a1-4ef9-4102-a34c068f4bbc/iphone-01-dashboard.png/320x480bb.jpg",
       "size": 30241
     }
+  },
+  "884547063": {
+    "icon": {
+      "path": "./assets/deals/884547063-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c3/fc/fb/c3fcfb22-38e2-1ef1-8010-79f22048fd3f/AppIcon-1x_U007epad-85-220.png/512x512bb.jpg",
+      "size": 22467
+    },
+    "screen": {
+      "path": "./assets/deals/884547063-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/db/8a/68/db8a6852-f3c8-caf1-d314-9b51606cf304/pr_source.png/392x696bb.jpg",
+      "size": 36462
+    }
   }
 }

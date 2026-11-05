@@ -11,3 +11,8 @@ assert(!source("https://reddit.com.evil.test/r/AppHookup/comments/abc/test/"));
 assert(!source("https://www.reddit.com/r/other/comments/abc/test/"));
 assert(!source("https://apphunt.app/login"));
 console.log("5 additional public-source checks passed");
+
+assert(source('https://apphunt.app/deal/884547063'));
+assert(!source('https://apphunt.app/deal/arbitrary'));
+assert(!source('https://apphunt.app.evil.test/deal/884547063'));
+console.log('3 AppHunt deal-path checks passed');

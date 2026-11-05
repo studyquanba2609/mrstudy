@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T04:54:54.354394+00:00",
+  "updatedAt": "2026-11-05T06:20:46.647989Z",
   "items": [
     {
       "id": "deal-1574131062-download",
@@ -81,6 +81,35 @@
       ],
       "icon": "./assets/deals/6761135453-icon.jpg",
       "image": "./assets/deals/6761135453-screen.jpg"
+    },
+    {
+      "id": "deal-884547063-download",
+      "topicDate": "2026-11-05",
+      "name": "Time-lapse Calculator",
+      "kind": "download",
+      "summary": "Tính khoảng cách giữa các lần chụp, thời lượng ghi hình hoặc độ dài clip time-lapse theo mục tiêu; ước tính dung lượng thẻ nhớ và sao chép kết quả. Phù hợp người chụp phong cảnh hoặc quay sự kiện. Dùng trên iPhone/iPad, cần iOS 15 trở lên; tải trực tiếp khi App Store hiện miễn phí.",
+      "sourceUrl": "https://apphunt.app/deal/884547063",
+      "checkedAt": "2026-11-05T06:20:46.647989Z",
+      "regions": [
+        {
+          "code": "vn",
+          "name": "Việt Nam",
+          "url": "https://apps.apple.com/vn/app/time-lapse-calculator/id884547063?uo=4",
+          "downloadPrice": 0,
+          "currency": "VND",
+          "checkedAt": "2026-11-05T06:20:46.647989Z"
+        },
+        {
+          "code": "us",
+          "name": "Mỹ",
+          "url": "https://apps.apple.com/us/app/time-lapse-calculator/id884547063?uo=4",
+          "downloadPrice": 0,
+          "currency": "USD",
+          "checkedAt": "2026-11-05T06:20:46.647989Z"
+        }
+      ],
+      "icon": "./assets/deals/884547063-icon.jpg",
+      "image": "./assets/deals/884547063-screen.jpg"
     }
   ],
   "reportedOffers": [
