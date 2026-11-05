@@ -100,3 +100,6 @@ Mỗi bài có id cố định, category/title/description/date/readTime/tags/bo
 
 ## Ảnh đại diện theo chủ đề
 `app.js` chọn ảnh riêng theo id bài; bài mới dùng ảnh tương ứng iPhone Duo, iPhone X, pin, iPhone 13/14 hoặc iOS theo tiêu đề. Ưu tiên ảnh thật đúng model/tính năng. Khi biên soạn tin mới, tải ảnh phù hợp về `assets/topics/`, ghi URL nguồn vào `assets/topics/sources.json`, đặt `image` và `imageAlt` của bài. Không thay ảnh riêng bằng SVG chung. Dùng cùng ảnh ở thẻ bài và trình đọc.
+
+## Giới thiệu cá nhân
+`gioi-thieu.html` là trang giới thiệu chủ MrStudy: làm nghề điện thoại từ 2012, liên hệ 0856372372 / 0703480936 và Facebook do chủ trang cung cấp. Chân dung `assets/mrstudy-portrait.webp` là tranh cartoon anime từ ảnh chủ trang. Giữ các đường liên kết giới thiệu trong menu desktop, điện thoại và trang báo giá. Bảng giá không hiển thị liên kết “Hỏi qua Zalo” dưới từng sản phẩm.

@@ -2,7 +2,7 @@
 import hashlib,re
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
-for page in ['index.html','bao-gia.html']:
+for page in ['index.html','bao-gia.html','gioi-thieu.html']:
  path=ROOT/page
  def version(match):
   file=match.group(2);asset=ROOT/file
