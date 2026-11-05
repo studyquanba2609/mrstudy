@@ -84,5 +84,6 @@
   document.addEventListener('keydown',e=>{if(e.key==='/'&&!/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName)&&!reader.open){e.preventDefault();openSearch()}});
   [reader,searchDialog].forEach(d=>d.addEventListener('click',e=>{if(e.target===d){const r=d.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom){if(d===reader)closeReader();else d.close()}}}));
   if('IntersectionObserver' in window){const observer=new IntersectionObserver(entries=>{entries.forEach(entry=>{if(entry.isIntersecting){$$('.desktop-nav .nav-link').forEach(a=>a.classList.toggle('active',a.hash==='#'+entry.target.id))}})},{rootMargin:'-10% 0px -65% 0px',threshold:0});['trang-chu','kien-thuc','tin-tuc','app-mien-phi'].forEach(id=>observer.observe(document.getElementById(id)))}
+  $('#repair-grid').innerHTML=articles.filter(a=>a.type==='repair'&&!a.archived).map(articleCard).join('');
   route();
 })();
