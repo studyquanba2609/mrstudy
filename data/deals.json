@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:17:22.024519+00:00",
+  "updatedAt": "2026-11-05T12:11:56.934657+00:00",
   "items": [
     {
       "id": "deal-1574131062-download",
@@ -174,6 +174,41 @@
       ],
       "icon": "./assets/deals/6813558062-icon.jpg",
       "image": "./assets/deals/6813558062-screen.jpg"
+    },
+    {
+      "id": "deal-6817105087-upgrade",
+      "topicDate": "2026-11-05",
+      "name": "Acord: Guitar Tuner, Metronome",
+      "kind": "upgrade",
+      "summary": "Lên dây guitar, bass, ukulele và tập giữ nhịp với máy đếm nhịp; phù hợp người học nhạc và luyện nhạc cụ. Premium mở thêm nhạc cụ, kiểu lên dây và bài luyện tăng tốc độ. Hỗ trợ iPhone/iPad từ iOS 18, có tiếng Việt. Đăng nhập AppHunt, tìm Acord Premium rồi chọn Get → Redeem để nhận mã mở khóa trọn đời nếu chưa mua bản đầy đủ, mỗi người một mã, số lượng giới hạn. Đổi trước 1/3/2027 theo giờ Thái Bình Dương.",
+      "sourceUrl": "https://apphunt.app/app/acord-premium",
+      "checkedAt": "2026-11-05T12:11:56.934657+00:00",
+      "lifetimeVerified": true,
+      "lifetimeEvidence": {
+        "url": "https://apphunt.app/app/acord-premium",
+        "checkedAt": "2026-11-05T12:10:11.048638Z",
+        "description": "Ưu đãi Acord Premium trên website nhà phát triển được Apple Lookup liên kết tại sellerUrl https://apphunt.app/acord/, khớp AppHunt Studio: mã miễn phí mở khóa đầy đủ một lần, không thuê bao hoặc gia hạn; người chưa mua bản đầy đủ, một lượt mỗi người; đổi trước 01/03/2027 Pacific Time. Trang hiện còn mã. Giá tải 0 tại VN/US chỉ dùng xác nhận tải xuống."
+      },
+      "regions": [
+        {
+          "code": "vn",
+          "name": "Việt Nam",
+          "url": "https://apps.apple.com/vn/app/guitar-tuner-metronome-acord/id6817105087?uo=4",
+          "downloadPrice": 0,
+          "currency": "VND",
+          "checkedAt": "2026-11-05T12:11:43.556858+00:00"
+        },
+        {
+          "code": "us",
+          "name": "Mỹ",
+          "url": "https://apps.apple.com/us/app/guitar-tuner-metronome-acord/id6817105087?uo=4",
+          "downloadPrice": 0,
+          "currency": "USD",
+          "checkedAt": "2026-11-05T12:11:48.377160+00:00"
+        }
+      ],
+      "icon": "./assets/deals/6817105087-icon.jpg",
+      "image": "./assets/deals/6817105087-screen.jpg"
     }
   ],
   "reportedOffers": [

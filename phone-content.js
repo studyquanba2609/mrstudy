@@ -1,4 +1,62 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
+window.MRSTUDY_DATA.articles.unshift(...[
+  {
+    "id": "tin-don-iphone-18e-nang-cap-chip",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "Tin iPhone",
+    "title": "Tin đồn: iPhone 18e có thể chủ yếu nâng cấp chip",
+    "description": "Nguồn rò rỉ mới nhắc chip là thay đổi chính; Apple chưa xác nhận cấu hình hoặc lịch ra mắt.",
+    "date": "2026-11-04",
+    "sourceDate": "2026-11-04",
+    "readTime": 2,
+    "image": "./assets/editorial/iphone-chip.svg",
+    "imageAlt": "Minh họa điện thoại và chip do MRSTUDY tự vẽ, không phải hình iPhone 18e",
+    "tags": [
+      "iPhone 18e",
+      "tin đồn",
+      "chip",
+      "A20"
+    ],
+    "body": "<p>MacRumors ngày 4/11 dẫn tài khoản Fixed Focus Digital cho rằng iPhone 18e sẽ ít thay đổi lớn; chip mới là nâng cấp nguồn này hiện nắm được. Người này còn nói mẫu e và iPhone 18 tiêu chuẩn có thể dùng chung một số công đoạn sản xuất. Apple chưa xác nhận thông tin.</p><p>Một nguồn Weibo khác từng dự đoán chip A20, màn OLED 6,12 inch 60Hz và camera sau đơn 48MP. Đây vẫn là cấu hình được đồn đoán. Việc Fixed Focus Digital nhắc lại thiết kế tai thỏ của iPhone 17e cũng chưa đủ để kết luận iPhone 18e chắc chắn thiếu Dynamic Island.</p><p>MacRumors dự kiến máy xuất hiện cùng iPhone 18 và iPhone Air 2 vào mùa xuân 2027; lịch ra mắt này chưa chính thức.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Hartley Charlton · 04/11/2026",
+        "url": "https://www.macrumors.com/2026/11/04/iphone-18e-rumored-to-focus-on-chip-upgrade/"
+      }
+    ]
+  },
+  {
+    "id": "flash-iphone-khong-sang-kiem-tra",
+    "type": "knowledge",
+    "category": "Mẹo iPhone",
+    "title": "Flash iPhone không sáng: kiểm tra trước khi thay linh kiện",
+    "description": "Thử đèn trong Trung tâm điều khiển, kiểm tra cài đặt Camera và nhiệt độ máy để khoanh vùng lỗi.",
+    "date": "2026-11-05",
+    "sourceDate": "2026-04-14",
+    "editorialSource": "https://dienthoaivui.com.vn/loi-den-flash-dien-thoai-bi-hu-bat-khong-sang",
+    "readTime": 3,
+    "image": "./assets/editorial/iphone-flash.svg",
+    "imageAlt": "Minh họa flash và kiểm tra nhiệt độ iPhone do MRSTUDY tự vẽ, không phải sơ đồ tháo máy",
+    "tags": [
+      "iPhone",
+      "flash",
+      "Camera",
+      "nhiệt độ"
+    ],
+    "body": "<h2>Thử đèn và Camera riêng</h2><p>Tháo ốp, miếng dán hoặc phụ kiện che camera, flash hay đặt nam châm gần camera. Trong Trung tâm điều khiển, chạm Đèn pin để thử. Nếu đèn chỉ sáng khi chụp một số ảnh, kiểm tra tùy chọn Flash Auto trong Camera trước khi nghĩ đến lỗi linh kiện.</p><h2>Kiểm tra camera và phần mềm</h2><p>Thử chụp bằng cả camera trước và sau, ghi lại bên nào gặp lỗi. Nếu ảnh mờ, lau ống kính bằng vải vi sợi. Khởi động lại iPhone, cập nhật iOS rồi thử lại. Những bước này giúp mô tả triệu chứng; không chứng minh IC flash đã hỏng.</p><h2>Nếu máy quá nóng</h2><p>Flash có thể tạm ngừng khi thiết bị quá nóng. Khi có cảnh báo nhiệt độ, tắt máy, chuyển đến nơi mát tránh nắng trực tiếp và đợi máy nguội trước khi dùng lại.</p><h2>Khi cần kiểm tra thiết bị</h2><p>Nếu flash vẫn không hoạt động bình thường sau các bước trên, liên hệ nơi bảo dưỡng. Không tự mở máy hoặc thay linh kiện chỉ dựa vào hiện tượng đèn không sáng.</p>",
+    "sources": [
+      {
+        "title": "Apple Support · Camera hoặc flash không hoạt động",
+        "url": "https://support.apple.com/vi-vn/102514"
+      },
+      {
+        "title": "Apple Support · Nhiệt độ thiết bị",
+        "url": "https://support.apple.com/vi-vn/118431"
+      }
+    ]
+  }
+]);
 window.MRSTUDY_DATA.articles.forEach(a=>{if(a.type==='news'&&!a.sourceSite)a.archived=true});
 window.MRSTUDY_DATA.articles.push(
  {"id":"huong-dan-thay-man-hinh-iphone-13-pro-max","type":"repair","sourceSite":"iFixit","category":"Sửa chữa iPhone","title":"Lỗi màn hình iPhone 13 Pro Max và hướng dẫn thay màn","description":"Kiểm tra sọc, nháy, ám màu, màn đen và loạn cảm ứng trước khi quyết định thay màn hình.","date":"2026-11-03","readTime":4,"image":"./assets/editorial/iphone-screen.svg?v=584cee0b22","imageAlt":"Minh họa màn hình iPhone","tags":["iPhone 13 Pro Max","màn hình","sửa chữa"],"body":"<h2>1. Ghi lại triệu chứng</h2><p>Kiểm tra lỗi xảy ra ở toàn màn hay chỉ một vùng. Ghi lại nếu có sọc, nháy, ám màu, màn đen hoặc loạn cảm ứng, và lỗi bắt đầu sau va đập, vào nước hay khi cắm sạc.</p><h2>2. Kiểm tra trước khi mở máy</h2><ol><li>Rút cáp sạc và phụ kiện, tháo ốp và miếng dán, lau khô bề mặt.</li><li>Khởi động lại nếu máy còn phản hồi. Thử lại thao tác chạm trên nhiều vùng màn hình.</li><li>Nếu màn đen, kiểm tra máy còn rung, đổ chuông hay phát âm thanh. Nếu không có dấu hiệu hoạt động, cần kiểm tra nguồn trước khi kết luận hỏng màn.</li><li>Nếu màn còn dùng được, sao lưu dữ liệu. Sọc, nháy hoặc ám màu là triệu chứng cần chẩn đoán trước khi quyết định thay linh kiện.</li></ol><h2>3. Theo từng bước thay màn hình iPhone 13 Pro Max</h2><p>Bài gốc liệt kê dụng cụ, cảnh báo, vị trí vít và ảnh cho từng thao tác. Bắt đầu từ bước 1. Khi bài đưa ra nhiều cách mở màn, chọn nhánh tương ứng với dụng cụ đang dùng rồi tiếp tục tại bước được chỉ định. Đối chiếu ảnh trước khi nạy gần cáp và ngắt pin trước khi tháo các đầu nối màn hình.</p><p><a href=\"https://www.ifixit.com/Guide/iPhone+13+Pro+Max+Screen+Replacement/146566\" target=\"_blank\" rel=\"noopener noreferrer\">Mở toàn bộ các bước và ảnh đúng iPhone 13 Pro Max trên iFixit ↗</a></p><h2>4. Kiểm tra sau khi lắp</h2><p>Thử cảm ứng ở mép và góc màn, độ sáng, Face ID và cảm biến tiệm cận khi gọi. Xem ghi chú của iFixit về True Tone và Repair Assistant theo linh kiện và phiên bản iOS.</p>","sources":[{"title":"iFixit · iPhone 13 Pro Max","url":"https://www.ifixit.com/Guide/iPhone+13+Pro+Max+Screen+Replacement/146566"},{"title":"Apple Support · Kiểm tra màn hình","url":"https://support.apple.com/vi-vn/102567"}]},

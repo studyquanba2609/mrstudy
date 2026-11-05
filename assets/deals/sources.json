@@ -94,5 +94,25 @@
         480
       ]
     }
+  },
+  "6817105087": {
+    "icon": {
+      "path": "./assets/deals/6817105087-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/32/9a/5f329acf-d519-281e-b740-911631260454/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "size": 28521,
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "screen": {
+      "path": "./assets/deals/6817105087-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/ca/d0/f5cad053-b2ea-a621-9cd1-edd07f695b41/iphone-01-tuner.png/320x480bb.jpg",
+      "size": 23555,
+      "dimensions": [
+        221,
+        480
+      ]
+    }
   }
 }
