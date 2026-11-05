@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T03:06:49.663080+00:00",
+  "updatedAt": "2026-11-05T03:39:05.701690+00:00",
   "items": [
     {
       "name": "18PM 256 Burgundy LL newseal",
@@ -209,10 +209,10 @@
       "availability": "priced"
     },
     {
-      "name": "12Pm 256k Đen 98.5 Pinnew (Dung lượng cao)",
+      "name": "12Pm 256k Đen 98.5 Pinnew",
       "category": "phone",
       "price": 10200000,
-      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
       "sim": "",
       "origin": "",
       "availability": "priced"
@@ -227,7 +227,7 @@
       "availability": "priced"
     },
     {
-      "name": "13-128k Hồng 99 Pinnew",
+      "name": "13-128k Hồng. 99 Pinnew",
       "category": "phone",
       "price": 8100000,
       "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
@@ -245,7 +245,7 @@
       "availability": "priced"
     },
     {
-      "name": "14Plus 128k Tím LL 99 Pinnew",
+      "name": "14Plus 128k Tím. LL 99 Pinnew",
       "category": "phone",
       "price": 10000000,
       "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
@@ -254,7 +254,7 @@
       "availability": "priced"
     },
     {
-      "name": "14Plus 128k Xanh LL 99 Pinnew",
+      "name": "14Plus 128k Xanh. LL 99 Pinnew",
       "category": "phone",
       "price": 10000000,
       "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
@@ -263,10 +263,64 @@
       "availability": "priced"
     },
     {
-      "name": "14Plus 256k Xanh LL 99 Pinnew (Dung lượng cao)",
+      "name": "14Plus 256k Xanh. LL 99 Pinnew",
       "category": "phone",
       "price": 11000000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "14Pro 128 Vàng LL (99-) Pin86",
+      "category": "phone",
+      "price": 12500000,
       "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "14Pro 128k Vàng LL 99 Pin88",
+      "category": "phone",
+      "price": 12700000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "14Pro 128 Vàng LL 99 Pinnew",
+      "category": "phone",
+      "price": 12700000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "14Pro 128k Đen LL (99-) Pinnew",
+      "category": "phone",
+      "price": 12200000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "14Pro 128k Trắng LL (99-) Pinnew",
+      "category": "phone",
+      "price": 12500000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "14Pro 128 Trắng LL 99 Pinnew",
+      "category": "phone",
+      "price": 12700000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
       "sim": "",
       "origin": "",
       "availability": "priced"
@@ -281,7 +335,7 @@
       "availability": "priced"
     },
     {
-      "name": "14Pro 128k Trắng VN/A 99 Pinnew",
+      "name": "14Pro 128k Trắng. VN/A 99 Pinnew",
       "category": "phone",
       "price": 13100000,
       "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
@@ -317,7 +371,7 @@
       "availability": "priced"
     },
     {
-      "name": "14Pm 256 Trắng LL (99-) Pinnew",
+      "name": "14Pm 256 Trắng, LL (99-) Pinnew",
       "category": "phone",
       "price": 15800000,
       "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
@@ -326,7 +380,7 @@
       "availability": "priced"
     },
     {
-      "name": "14Pm 256k Đen LL 99 Pinnew",
+      "name": "14Pm 256k Đen. LL 99 Pinnew",
       "category": "phone",
       "price": 15500000,
       "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
@@ -335,25 +389,25 @@
       "availability": "priced"
     },
     {
-      "name": "14Pm 1TBk Tím LL 99 Pinnew (Dung lượng cao)",
+      "name": "14Pm 1TBk Tím. LL 99 Pinnew",
       "category": "phone",
       "price": 16600000,
-      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
       "sim": "",
       "origin": "",
       "availability": "priced"
     },
     {
-      "name": "14Pm 128k Tím LL 99 Pinnew",
+      "name": "14Pm 128k Tím. LL 99 Pinnew",
       "category": "phone",
       "price": 13900000,
-      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
       "sim": "",
       "origin": "",
       "availability": "priced"
     },
     {
-      "name": "14Pm 128k Trắng LL 99 Pin88",
+      "name": "14Pm 128k Trắng. LL 99 Pin88",
       "category": "phone",
       "price": 14200000,
       "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
@@ -362,16 +416,16 @@
       "availability": "priced"
     },
     {
-      "name": "14Pm 128k Trắng LL 99 Pinnew",
+      "name": "14Pm 128k Trắng. LL 99 Pinnew",
       "category": "phone",
       "price": 14200000,
-      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
       "sim": "",
       "origin": "",
       "availability": "priced"
     },
     {
-      "name": "14Pm 128k Vàng LL (99-) Pin87",
+      "name": "14Pm 128k Vàng, LL (99-) Pin87",
       "category": "phone",
       "price": 14100000,
       "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
@@ -380,7 +434,7 @@
       "availability": "priced"
     },
     {
-      "name": "14Pm 128k Vàng LL 99 Pin89 1D",
+      "name": "14Pm 128k Vàng. LL 99 Pin89 1D",
       "category": "phone",
       "price": 14100000,
       "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
@@ -389,18 +443,297 @@
       "availability": "priced"
     },
     {
-      "name": "14Pm 128k Vàng LL 99 Pin85-New",
+      "name": "14Pm 128k Vàng. LL 99 Pin85-New",
       "category": "phone",
       "price": 14200000,
-      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
       "sim": "",
       "origin": "",
       "availability": "priced"
     },
     {
-      "name": "14Pm 128k Vàng LL 99 Pin90/91 (Dung lượng cao)",
+      "name": "14Pm 128k Vàng. LL 99 Pin90/91",
       "category": "phone",
       "price": 14400000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "14Pm 256k Đen LL 99 Pin86",
+      "category": "phone",
+      "price": 15400000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "14Pm 256k Trắng LL (99-) Pin86",
+      "category": "phone",
+      "price": 15500000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "14Pm 256k Trắng LL (99-) Pinnew",
+      "category": "phone",
+      "price": 15500000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "14Pm 256 Trắng LL (99-) Pinnew",
+      "category": "phone",
+      "price": 15500000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "14Pm 256k Trắng LL 99 Pin85/86",
+      "category": "phone",
+      "price": 15700000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "14Pm 256k Trắng LL 99 Pin89",
+      "category": "phone",
+      "price": 15800000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "14Pm 256k Trắng LL 99 Pinnew",
+      "category": "phone",
+      "price": 15700000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "15Plus 128kospa Blue VN/A 99 Pin99",
+      "category": "phone",
+      "price": 14900000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "15Plus 128k Blue LL 98.5 Pinnew",
+      "category": "phone",
+      "price": 12200000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "15Plus 128k Hồng, LL (99-) Pinnew",
+      "category": "phone",
+      "price": 12500000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "15Plus 128k Hồng. LL 99 Pin87 1D",
+      "category": "phone",
+      "price": 12300000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "15Pm 256k Trắng, LL 98.5 Pinnew",
+      "category": "phone",
+      "price": 17000000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "15Pm 256 Trắng LL (99-) Pin86",
+      "category": "phone",
+      "price": 17900000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "15Pm 256k Trắng LL 99 Pin85",
+      "category": "phone",
+      "price": 18200000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "15Pm 256k Natu LL 98.5 Pinnew",
+      "category": "phone",
+      "price": 17600000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "15Pm 256k Natu LL (99-) Pin86",
+      "category": "phone",
+      "price": 17900000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "15Pm 256k Natu LL (99-) Pinnew",
+      "category": "phone",
+      "price": 17900000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "15Pm 256k Natu LL 99 Pinnew",
+      "category": "phone",
+      "price": 18200000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "15Pm 256 Natu VN/A (99-) Pin92new",
+      "category": "phone",
+      "price": 18600000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ · Pinnew dung lượng cao",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "15Pm 256kospa Trắng LL 98.5 Pinnew",
+      "category": "phone",
+      "price": 17700000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "15Pm 512k Natu, LL 98.5 Pinnew",
+      "category": "phone",
+      "price": 17900000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "15Pm 512k Natu, LL (99-) Pinnew",
+      "category": "phone",
+      "price": 18300000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "15Pm 512k. Natu, LL 99 Pinnew",
+      "category": "phone",
+      "price": 18500000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "15Pm 1TBk Đen LL 99 Pin89",
+      "category": "phone",
+      "price": 19900000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "16Plus 256kospa Đen Việt Nam 98.5 Pin97 - Cbh 11/1/2027",
+      "category": "phone",
+      "price": 17500000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "16Pm 256kospa Trắng LL (99-) Pin94",
+      "category": "phone",
+      "price": 22400000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "16Pm 256k Đen LL 99 Pin100",
+      "category": "phone",
+      "price": 21900000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "17-256 Trắng Việt Nam 99 Ko spa Pin94 - Cbh 14/4/2027",
+      "category": "phone",
+      "price": 20200000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "17Pro 256 Trắng Việt Nam 98 (Cấn góc) Pin100 59Ls - Cbh 01/8/2027",
+      "category": "phone",
+      "price": 26600000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "17Pm 256 Blue Việt Nam 99 Ko spa Pin92 - Cbh 6/1/2027",
+      "category": "phone",
+      "price": 28900000,
+      "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "18Promax 256 Blue Việt Nam 99keng Pin100 38Ls - Cbh 22/10/2027 + Box",
+      "category": "phone",
+      "price": 39100000,
       "status": "Bảng riêng · Máy đã kích hoạt / máy cũ",
       "sim": "",
       "origin": "",
