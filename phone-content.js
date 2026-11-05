@@ -191,3 +191,62 @@ window.MRSTUDY_DATA.articles.unshift({
   body:`<p>Theo MacRumors, Apple đưa giao diện Sức khỏe từng thử nghiệm trong iOS 27.2 trở lại ở bản iOS 27.3 beta. Tab Insights gom các chỉ số gần đây như nhịp tim, điểm giấc ngủ và dữ liệu vận động để người dùng xem nhanh trên iPhone. Apple Intelligence có thể dùng các chỉ số này để đưa ra gợi ý theo mục tiêu cá nhân.</p><p>Tab Longevity giúp theo dõi xu hướng dài hạn qua các nhóm như giấc ngủ, vận động và sức khỏe tim mạch. Tính năng Health Age dùng nhiều chỉ số để so sánh với tuổi thực, trong đó một phần dữ liệu đến từ thiết bị đeo. Apple cũng dự kiến hỗ trợ tiếng Việt cho ứng dụng. Các thay đổi này đang được thử nghiệm và có thể đổi trước bản phát hành chính thức.</p>`,
   sources:[{title:'MacRumors · 03/11/2026',url:'https://www.macrumors.com/2026/11/03/ios-27-3-health-app/'}]
 });
+
+window.MRSTUDY_DATA.articles.push(...[
+  {
+    "id": "meo-iphone-khong-nhan-sac",
+    "title": "iPhone không nhận sạc: kiểm tra từ bộ sạc đến cổng kết nối",
+    "description": "Cách kiểm tra nguồn điện, cáp và cảnh báo trên máy trước khi kết luận hỏng pin.",
+    "sourceDate": "2026-04-21",
+    "editorialSource": "https://dienthoaivui.com.vn/khac-phuc-loi-khong-sac-duoc-pin-dien-thoai-iphone-chi-trong-3-phut",
+    "body": "<h2>Kiểm tra bộ sạc trước</h2><p>Thử ổ điện khác và một bộ cáp, củ sạc còn tốt. Kiểm tra đầu nối có cắm chắc hay không. Ngừng dùng phụ kiện nứt, đứt hoặc có chân cắm cong.</p><h2>Nếu máy đã cạn pin</h2><p>Cho máy sạc khoảng 30 phút. Nếu màn hình vẫn chỉ hiện biểu tượng pin hoặc máy chưa lên, buộc khởi động lại theo đúng model rồi sạc thêm 30 phút. Với iPhone 8 trở lên, bấm nhanh tăng âm lượng, bấm nhanh giảm âm lượng, sau đó giữ nút sườn đến khi logo Apple hiện ra.</p><h2>Cảnh báo chất lỏng và sạc dừng ở 80%</h2><p>Khi có cảnh báo chất lỏng, rút cáp và để máy khô ở nơi thoáng khí. Tránh sấy nóng, dùng khí nén hoặc chọc vật vào cổng. Sạc dừng ở 80% có thể liên quan đến tối ưu sạc, giới hạn sạc hoặc nhiệt độ. Xem thông báo trên máy trước khi kết luận hỏng pin. Nếu vẫn không nhận sạc sau các kiểm tra, cần kiểm tra thiết bị.</p>",
+    "sources": [
+      {
+        "title": "Apple Support · iPhone không sạc được",
+        "url": "https://support.apple.com/en-us/108805"
+      },
+      {
+        "title": "Apple Support · Cảnh báo chất lỏng",
+        "url": "https://support.apple.com/en-us/102643"
+      }
+    ],
+    "type": "knowledge",
+    "category": "Mẹo iPhone",
+    "date": "2026-11-05",
+    "readTime": 3,
+    "image": "./assets/editorial/iphone-battery.svg",
+    "imageAlt": "Minh họa pin iPhone do MRSTUDY biên soạn",
+    "tags": [
+      "iPhone",
+      "pin",
+      "sạc",
+      "lỗi điện thoại"
+    ]
+  },
+  {
+    "id": "meo-iphone-sap-nguon-khi-con-pin",
+    "title": "Vì sao iPhone còn phần trăm pin vẫn sập nguồn?",
+    "description": "Pin lão hóa có thể không cung cấp đủ công suất tức thời, nhất là khi pin yếu hoặc trời lạnh.",
+    "sourceDate": "2026-09-26",
+    "editorialSource": "https://dienthoaivui.com.vn/nguyen-nhan-va-meo-khac-phuc-dien-thoai-bi-sap-nguon-lien-tuc-hieu-qua",
+    "body": "<h2>Phần trăm pin và khả năng cấp điện</h2><p>Phần trăm pin là lượng điện ước tính còn lại. Khi chạy tác vụ nặng, máy cần công suất tức thời. Pin đã lão hóa có thể không đáp ứng được nhu cầu đó, khiến iPhone tắt bất ngờ. Khả năng này tăng khi mức pin thấp hoặc nhiệt độ lạnh.</p><h2>Ghi lại điều kiện xảy ra lỗi</h2><p>Ghi mức pin, nhiệt độ và tác vụ đang chạy lúc máy tắt. Xem thông tin tình trạng pin trong Cài đặt để biết máy có ghi nhận khả năng cấp công suất giảm hay cần bảo dưỡng. Nếu máy thường xuyên tắt hoặc khởi động lại, hãy sao lưu dữ liệu và kiểm tra thiết bị. Một lần sập nguồn chưa đủ để xác định linh kiện hỏng.</p><h2>Khi cần dừng sử dụng</h2><p>Nếu pin phồng hoặc thân máy biến dạng, dừng sạc và đưa máy đi kiểm tra. Không ép màn hình xuống hoặc tự chọc thủng pin.</p>",
+    "sources": [
+      {
+        "title": "Apple Support · Pin và hiệu năng iPhone",
+        "url": "https://support.apple.com/en-us/101575"
+      }
+    ],
+    "type": "knowledge",
+    "category": "Mẹo iPhone",
+    "date": "2026-11-05",
+    "readTime": 3,
+    "image": "./assets/editorial/iphone-battery.svg",
+    "imageAlt": "Minh họa pin iPhone do MRSTUDY biên soạn",
+    "tags": [
+      "iPhone",
+      "pin",
+      "sạc",
+      "lỗi điện thoại"
+    ]
+  }
+]);
