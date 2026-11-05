@@ -120,5 +120,11 @@
     "image": "./assets/topics/meo-iphone-khong-nhan-sac.webp",
     "source": "https://support.apple.com/en-us/108805",
     "original": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/ios-usb-c-cable-adapter.png"
+  },
+  "siri-ai-settings": {
+    "image": "./assets/topics/siri-ai-settings.webp",
+    "source": "https://support.apple.com/en-us/127893",
+    "original": "https://cdsassets.apple.com/live/7WUAS350/images/ios/ios-27-iphone-17-pro-settings-siri.png",
+    "credit": "Apple Support · ảnh iPhone 17 Pro trong Cài đặt Siri, tài liệu ngày 02/11/2026"
   }
 }

@@ -114,5 +114,25 @@
         480
       ]
     }
+  },
+  "6812885382": {
+    "icon": {
+      "path": "./assets/deals/6812885382-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/af/61/18af61e4-af58-3f57-465a-d54b4a3ff58a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "size": 25042,
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "screen": {
+      "path": "./assets/deals/6812885382-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/39/88/c9398872-66f3-5eec-0589-4038cb766793/imagegen-01-planner.png/320x480bb.jpg",
+      "size": 32048,
+      "dimensions": [
+        221,
+        480
+      ]
+    }
   }
 }

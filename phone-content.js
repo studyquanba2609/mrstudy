@@ -1,4 +1,34 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
+window.MRSTUDY_DATA.articles.unshift({
+  "id": "siri-ai-danh-sach-cho-luc-nhu-cau-cao",
+  "type": "news",
+  "sourceSite": "MacRumors",
+  "category": "Tin iPhone",
+  "title": "Siri AI trên iPhone chỉ còn xếp hàng khi nhu cầu cao",
+  "description": "Apple cho tải dữ liệu Siri AI tự động sau khi đồng ý tham gia; danh sách chờ vẫn có thể xuất hiện khi nhu cầu tăng.",
+  "date": "2026-11-05",
+  "sourceDate": "2026-11-05",
+  "readTime": 2,
+  "image": "./assets/topics/siri-ai-settings.webp",
+  "imageAlt": "Ảnh Apple Support: tùy chọn Try Siri AI (Beta) trên iPhone 17 Pro",
+  "tags": [
+    "iPhone",
+    "iOS 27",
+    "Siri AI",
+    "beta"
+  ],
+  "body": "<p>Apple đã điều chỉnh cách kích hoạt Siri AI: sau khi người dùng đồng ý tham gia, dữ liệu trợ lý sẽ tự tải xuống thay vì luôn phải vào danh sách chờ. MacRumors ngày 5/11 dẫn tài liệu Apple cập nhật ngày 2/11 cho biết việc xếp hàng vẫn có thể xuất hiện lúc nhu cầu cao, với thời gian chờ thay đổi.</p><p>Trên iPhone hỗ trợ Apple Intelligence chạy iOS 27, tùy chọn nằm trong Cài đặt → Siri → Try Siri AI (Beta). Các bước tiếp theo gồm chọn giọng nói và xem thiết lập quyền riêng tư.</p><p>Siri AI vẫn là bản beta. Ngôn ngữ thiết bị và Siri phải trùng một ngôn ngữ được hỗ trợ, còn vùng tài khoản phải đủ điều kiện. Thay đổi này không mở tính năng cho mọi iPhone hoặc mọi khu vực.</p>",
+  "sources": [
+    {
+      "title": "MacRumors · Tim Hardwick · 05/11/2026",
+      "url": "https://www.macrumors.com/2026/11/05/siri-ai-waitlist-limited-times-high-demand-apple/"
+    },
+    {
+      "title": "Apple Support · How to get Siri AI · 02/11/2026",
+      "url": "https://support.apple.com/en-us/127893"
+    }
+  ]
+});
 window.MRSTUDY_DATA.articles.unshift(...[
   {
     "id": "tin-don-iphone-18e-nang-cap-chip",
@@ -459,5 +489,6 @@ window.MRSTUDY_DATA.articles.unshift(...[
     ]
   }
 ]);
+
 
 

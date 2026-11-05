@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T11:18:37.992217+00:00",
+  "updatedAt": "2026-11-05T13:16:06.133195+00:00",
   "items": [
     {
       "name": "Duo 256G Night X/A - VN - Full VAT",
@@ -427,7 +427,7 @@
     {
       "name": "18 PM - 256G Silver LL (MỸ )",
       "category": "phone",
-      "price": 40200000,
+      "price": 40000000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -436,7 +436,7 @@
     {
       "name": "18 PM - 256G Blue LL (MỸ )",
       "category": "phone",
-      "price": 41200000,
+      "price": 41100000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -670,11 +670,11 @@
     {
       "name": "18 PM - 1TB Black LL",
       "category": "phone",
-      "price": 54100000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "18 PM - 1TB Silver LL",
@@ -1068,6 +1068,15 @@
       "category": "phone",
       "price": 42700000,
       "status": "Chưa Active",
+      "sim": "E sim",
+      "origin": "USA",
+      "availability": "priced"
+    },
+    {
+      "name": "18 Pro - 512G Black LL",
+      "category": "phone",
+      "price": 40200000,
+      "status": "Actived 11/10",
       "sim": "E sim",
       "origin": "USA",
       "availability": "priced"
