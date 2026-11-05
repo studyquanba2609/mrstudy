@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T02:20:56.529132+00:00",
+  "updatedAt": "2026-11-05T03:09:05.719380+00:00",
   "items": [
     {
       "name": "Duo 256G Night X/A - VN - Full VAT",
@@ -49,7 +49,7 @@
     {
       "name": "Duo 256G White X/A - VN",
       "category": "phone",
-      "price": 66200000,
+      "price": 65700000,
       "status": "Actived 31/10",
       "sim": "E sim",
       "origin": "V.NAM",
@@ -2855,7 +2855,7 @@
       "availability": "priced"
     },
     {
-      "name": "MBA 13” M5 16/512 MIDNIGHT(10-8GPU) VN - Z1L60003QSA/A - Full VAT",
+      "name": "MBA 13” M5 16/512 MIDNIGHT(10-8GPU) VN - Z1L60003Q - Full VAT",
       "category": "device",
       "price": 34700000,
       "status": "Chưa Active",
@@ -2864,7 +2864,7 @@
       "availability": "priced"
     },
     {
-      "name": "MBA 13” M5 16/512 SILVER (10-8GPU) VN - Z1L00003PSA/A - Full VAT",
+      "name": "MBA 13” M5 16/512 SILVER (10-8GPU) VN - Z1L00003P - Full VAT",
       "category": "device",
       "price": 34700000,
       "status": "Chưa Active",
@@ -2873,7 +2873,7 @@
       "availability": "priced"
     },
     {
-      "name": "MBA 13” M5 16/512 SKY BLUE(10-8GPU) VN - Z1L0000QPSA/A - Full VAT",
+      "name": "MBA 13” M5 16/512 SKY BLUE(10-8GPU) VN - Z1L9003Q - Full VAT",
       "category": "device",
       "price": 34700000,
       "status": "Chưa Active",
@@ -3402,6 +3402,33 @@
       "sim": "",
       "origin": "",
       "availability": "priced"
+    },
+    {
+      "name": "MBA 13” M5 16/512 MIDNIGHT(10-8GPU) VN - Z1L60003QSA/A - Full VAT",
+      "category": "device",
+      "price": null,
+      "status": "Chưa Active",
+      "sim": "",
+      "origin": "",
+      "availability": "unavailable"
+    },
+    {
+      "name": "MBA 13” M5 16/512 SILVER (10-8GPU) VN - Z1L00003PSA/A - Full VAT",
+      "category": "device",
+      "price": null,
+      "status": "Chưa Active",
+      "sim": "",
+      "origin": "",
+      "availability": "unavailable"
+    },
+    {
+      "name": "MBA 13” M5 16/512 SKY BLUE(10-8GPU) VN - Z1L0000QPSA/A - Full VAT",
+      "category": "device",
+      "price": null,
+      "status": "Chưa Active",
+      "sim": "",
+      "origin": "",
+      "availability": "unavailable"
     },
     {
       "name": "Duo 256G White Z/A - HK",
