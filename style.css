@@ -44,3 +44,9 @@ html[data-theme=dark]{--bg:#171e1a;--surface:#202a23;--ink:#e6ebdf;--muted:#a2af
 @media(max-width:1050px){.desktop-nav{display:none}.menu-button{display:inline-flex}.header-tools{margin-left:auto}.mobile-nav .nav-link{height:auto;padding:10px;font-size:12px}.mobile-nav{display:grid;grid-template-columns:1fr 1fr}}
 @media(max-width:650px){.header-inner{height:68px}.quick-sections{grid-template-columns:1fr 1fr;gap:10px}.quick-sections a{padding:17px 13px;min-height:108px}.quick-sections strong{font-size:13px}.quick-sections small{font-size:9px}.intro h1{font-size:40px}.article-card{padding:12px;grid-template-columns:110px 1fr}.article-card>.save-button{left:94px;top:18px}.repair-articles .article-visual{height:140px}.intro{padding-top:30px}.portal-number{font-size:58px}}
 [data-theme="dark"] .quick-sections a{background:#172337}[data-theme="dark"] .apps-section{background:#121d30}[data-theme="dark"] .intro .eyebrow{color:#80b4ff}
+
+/* Preserve the complete subject in topic photographs. */
+.article-visual.news-visual{background:#f3f4f6}
+.article-visual.news-visual img{object-fit:contain}
+.reader-cover{object-fit:contain;height:auto;background:#f3f4f6}
+.image-credit{font-size:11px;color:var(--muted);margin:-16px 0 24px}

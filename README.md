@@ -97,3 +97,6 @@ Mỗi bài có id cố định, category/title/description/date/readTime/tags/bo
 `data/repair-prices.json` nhập từ bảng Google Sheets do chủ website cung cấp ngày05/11/2026: https://docs.google.com/spreadsheets/d/1Z2quu-r0bMp26UayWtLeJnEu1ojST5fxw_ikoY_5UDQ/edit . Các trang IPHONE/IPAD/APPLE WATCH có giá nghìn đồng; cộng đúng một lần300.000đ/mỗi ô giá số. X, dấu gạch và ô trống giữ null. Bỏ trang Energizer (người dùng gọi engineer) và cột PIN BISON ENER. Không cộng lại từ JSON đã lưu. Phụ thu sàn IC màn iPhone11–14 là điều kiện riêng200.000đ từ chú thích nguồn, không tự áp mọi dòng. Không thay đổi giá thiết bị hoặc bảng máy cũ.
 
 Ưu đãi app: chấp nhận URL bài cụ thể Reddit r/AppHookup, AppHunt /app/ và AppDrop /en/ ngoài AppRaven/DealRaven. Nguồn cộng đồng chỉ tìm ứng viên; vẫn đối chiếu Apple từng vùng và bằng chứng gói lifetime. Bài đã có giữ topicDate, chỉ cập nhật checkedAt sau đối chiếu thật.
+
+## Ảnh đại diện theo chủ đề
+`app.js` chọn ảnh riêng theo id bài; bài mới dùng ảnh tương ứng iPhone Duo, iPhone X, pin, iPhone 13/14 hoặc iOS theo tiêu đề. Ưu tiên ảnh thật đúng model/tính năng. Khi biên soạn tin mới, tải ảnh phù hợp về `assets/topics/`, ghi URL nguồn vào `assets/topics/sources.json`, đặt `image` và `imageAlt` của bài. Không thay ảnh riêng bằng SVG chung. Dùng cùng ảnh ở thẻ bài và trình đọc.
