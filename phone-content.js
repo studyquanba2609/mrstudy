@@ -252,3 +252,61 @@ window.MRSTUDY_DATA.articles.push(...[
 ]);
 
 window.MRSTUDY_DATA.articles.unshift({"id": "ios-27-3-kiem-tra-link-icloud-cong-khai", "type": "news", "sourceSite": "MacRumors", "category": "Tin iPhone", "title": "iOS 27.3 bổ sung kiểm tra liên kết iCloud công khai", "description": "Phạm vi gồm ảnh và tệp chia sẻ cho bất kỳ ai có liên kết.", "date": "2026-11-04", "sourceDate": "2026-11-04", "readTime": 2, "image": "./assets/editorial/iphone-apps.svg?v=d1956e8f49", "imageAlt": "Minh họa ứng dụng trên iPhone", "tags": ["iPhone", "iOS 27.3", "iCloud", "quyền riêng tư"], "body": "<p>Theo MacRumors, Apple bổ sung cơ chế kiểm tra nội dung được chia sẻ qua liên kết iCloud công khai từ iOS 27.3. Thay đổi áp dụng cho ảnh trong iCloud Photos và tệp iCloud Drive khi người gửi chọn cho bất kỳ ai có liên kết truy cập. Apple có thể truy cập nội dung trong phạm vi chia sẻ này để kiểm tra nội dung có hại.</p><p>Người dùng iPhone cần chú ý tùy chọn chia sẻ trước khi tạo liên kết, nhất là với tài liệu riêng tư. MacRumors cho biết Apple chưa nêu rõ những liên kết tạo trước bản cập nhật có được kiểm tra hay không. iOS 27.3 hiện đang ở giai đoạn beta dành cho nhà phát triển, dự kiến phát hành công khai trong tháng 12. Nội dung bài nguồn chưa định nghĩa cụ thể các loại nội dung có hại.</p>", "sources": [{"title": "MacRumors · Juli Clover · 04/11/2026", "url": "https://www.macrumors.com/2026/11/04/ios-27-3-icloud-link-check/"}]});
+
+// Hướng dẫn chẩn đoán MRSTUDY · 05/11/2026
+window.MRSTUDY_DATA.articles.unshift(...[
+  {
+    "id": "iphone-canh-bao-chat-long-xu-ly-an-toan",
+    "title": "iPhone báo phát hiện chất lỏng: cách xử lý để tránh hỏng cổng sạc",
+    "description": "Phân biệt cổng ẩm và phụ kiện lỗi, làm khô đúng cách và biết khi nào cần kiểm tra phần cứng.",
+    "sourceDate": "2024-10-30",
+    "image": "./assets/editorial/iphone-battery.svg?v=b9de2fb119",
+    "imageAlt": "Minh họa pin và nguồn điện iPhone của MRSTUDY",
+    "tags": [
+      "iPhone",
+      "chất lỏng",
+      "cổng sạc",
+      "Lightning",
+      "USB-C"
+    ],
+    "sources": [
+      {
+        "title": "Apple Support · Cảnh báo chất lỏng · 30/10/2024",
+        "url": "https://support.apple.com/en-us/102643"
+      }
+    ],
+    "body": "<h2>Cảnh báo này có nghĩa gì?</h2><p>Trên iPhone XS, XR và các đời mới hơn, máy có thể phát hiện chất lỏng ở cổng hoặc đầu nối phụ kiện và tạm chặn kết nối. Đây là tín hiệu bảo vệ, chưa phải kết luận pin hay chân sạc đã hỏng. Tiếp tục cắm khi còn ẩm có thể làm chân tiếp xúc ăn mòn.</p><h2>Xử lý theo thứ tự</h2><ol><li>Rút cáp khỏi máy và bộ nguồn.</li><li>Giữ cổng hướng xuống, vỗ nhẹ máy vào lòng bàn tay để nước thừa thoát ra.</li><li>Để máy ở nơi khô, thoáng khí. Sau ít nhất 30 phút mới thử lại.</li><li>Nếu cảnh báo còn xuất hiện, tiếp tục để khô; quá trình có thể cần tới 24 giờ.</li></ol><h2>Những cách cần tránh</h2><p>Không sấy nóng, thổi khí nén, nhét giấy hay tăm bông vào cổng hoặc vùi máy trong gạo. Không dùng tùy chọn bỏ qua cảnh báo để thử sạc liên tục. Nếu dùng sạc không dây, mặt lưng phải khô trước khi đặt lên bộ sạc Qi.</p><h2>Khi nào cần kiểm tra?</h2><p>Nếu chỉ một cáp gây lỗi, phụ kiện có thể hỏng. Nếu cáp Apple cũng luôn báo khi máy đã khô, nên kiểm tra thiết bị. Ghi lại cáp đã thử và thời điểm cảnh báo để hỗ trợ chẩn đoán.</p>",
+    "type": "repair",
+    "sourceSite": "Apple Support",
+    "category": "Hướng dẫn chẩn đoán iPhone",
+    "date": "2026-11-05",
+    "readTime": 4
+  },
+  {
+    "id": "iphone-mat-song-khong-co-dich-vu-chan-doan",
+    "title": "iPhone mất sóng, Không có dịch vụ: kiểm tra trước khi sửa phần cứng",
+    "description": "Khoanh vùng lỗi mạng, tài khoản và thiết bị trước khi kết luận hỏng SIM hoặc mạch sóng.",
+    "sourceDate": "2026-07-06",
+    "image": "./assets/editorial/iphone-settings.svg",
+    "imageAlt": "Minh họa cài đặt và chẩn đoán iPhone của MRSTUDY",
+    "tags": [
+      "iPhone",
+      "SIM",
+      "sóng",
+      "Không có dịch vụ",
+      "chẩn đoán"
+    ],
+    "sources": [
+      {
+        "title": "Apple Support · SOS, No Service hoặc Searching · 06/07/2026",
+        "url": "https://support.apple.com/en-in/120000"
+      }
+    ],
+    "body": "<h2>Đọc đúng triệu chứng</h2><p>Thông báo Không có dịch vụ hoặc Đang tìm kiếm nghĩa là thiết bị chưa kết nối được mạng di động. Chỉ từ thông báo này chưa thể xác định linh kiện cần thay. Nên xử lý theo từng nhóm nguyên nhân để tránh sửa nhầm.</p><h2>Thử kết nối lại</h2><ol><li>Bật Chế độ máy bay trong ít nhất 15 giây rồi tắt.</li><li>Khởi động lại iPhone và kiểm tra lại kết nối.</li><li>Nếu vẫn mất dịch vụ, liên hệ nhà mạng để xác nhận vùng phủ sóng, sự cố khu vực và trạng thái tài khoản.</li></ol><h2>Hỏi nhà mạng những gì?</h2><p>Nhờ kiểm tra thuê bao còn hoạt động, gói cước phù hợp và thiết bị có bị chặn dịch vụ hay không. Với máy mua từ quốc gia khác, hỏi yêu cầu đăng ký IMEI tại nơi sử dụng nếu có. Nhà mạng mới có quyền truy cập đầy đủ thông tin tài khoản thuê bao.</p><h2>Công cụ và thời điểm mang máy đi kiểm tra</h2><p>Trên iPhone chạy iOS 18 trở lên, ứng dụng Apple Support có thể cung cấp chẩn đoán bổ sung. Nếu nhà mạng xác nhận tài khoản và mạng bình thường mà lỗi vẫn còn, cần kiểm tra thiết bị. Ghi rõ máy mất sóng ở đâu và thao tác nào đã thử để kỹ thuật viên tiếp nhận dễ hơn. Bài này hướng dẫn khoanh vùng trước sửa chữa, không thay thế quy trình đo kiểm hoặc tháo máy.</p>",
+    "type": "repair",
+    "sourceSite": "Apple Support",
+    "category": "Hướng dẫn chẩn đoán iPhone",
+    "date": "2026-11-05",
+    "readTime": 4
+  }
+]);
