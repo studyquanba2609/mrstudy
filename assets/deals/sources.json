@@ -38,5 +38,17 @@
         696
       ]
     }
+  },
+  "6761135453": {
+    "icon": {
+      "path": "./assets/deals/6761135453-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/23/1e/6a231eee-12e8-ff91-41e1-f8037865c074/Horizon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "size": 47049
+    },
+    "screen": {
+      "path": "./assets/deals/6761135453-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/de/ea/51deea00-e3a1-4ef9-4102-a34c068f4bbc/iphone-01-dashboard.png/320x480bb.jpg",
+      "size": 30241
+    }
   }
 }

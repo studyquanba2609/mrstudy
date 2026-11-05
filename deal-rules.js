@@ -1,7 +1,7 @@
 (function(root){'use strict';
 const iso=s=>typeof s==='string'&&Number.isFinite(Date.parse(s));
 const https=s=>{try{const u=new URL(s);return u.protocol==='https:'&&!u.username&&!u.password?u:null}catch{return null}};
-const source=s=>{const u=https(s);return u&&(u.hostname==='appraven.net'&&/^\/app\/\d+\/?$/.test(u.pathname)||u.hostname==='t.me'&&/^\/(?:s\/)?dealraven\/\d+\/?$/i.test(u.pathname))};
+const source=s=>{const u=https(s);return u&&(u.hostname==='appraven.net'&&/^\/app\/\d+\/?$/.test(u.pathname)||u.hostname==='t.me'&&/^\/(?:s\/)?dealraven\/\d+\/?$/i.test(u.pathname)||['www.reddit.com','reddit.com'].includes(u.hostname)&&/^\/r\/AppHookup\/comments\/[a-z0-9]+\/[^/]+\/?$/i.test(u.pathname)||u.hostname==='apphunt.app'&&/^\/app\/[a-z0-9-]+\/?$/i.test(u.pathname)||u.hostname==='appdrop.rs'&&/^\/en\/.+/.test(u.pathname))};
 function valid(d,now=Date.now()){
  if(!d||!/^deal-[a-z0-9-]+$/.test(d.id)||!['download','upgrade'].includes(d.kind)||!source(d.sourceUrl)||!iso(d.checkedAt)||now-Date.parse(d.checkedAt)>172800000||Date.parse(d.checkedAt)>now+300000)return false;
  if(d.expiresAt&&(!iso(d.expiresAt)||Date.parse(d.expiresAt)<=now))return false;
