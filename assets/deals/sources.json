@@ -62,5 +62,17 @@
       "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/db/8a/68/db8a6852-f3c8-caf1-d314-9b51606cf304/pr_source.png/392x696bb.jpg",
       "size": 36462
     }
+  },
+  "1515294700": {
+    "icon": {
+      "path": "./assets/deals/1515294700-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/4d/9c/884d9cf5-255a-e901-f437-b12d9f9eb32d/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "size": 18586
+    },
+    "screen": {
+      "path": "./assets/deals/1515294700-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/6e/2f/fc6e2f99-47ce-14ad-be30-ed41bb64571d/iPhone_17_Pro_Max_-_01Mouse_68887f06-8e3a-456e-9b2f-4f890a78d365_framed.jpg/320x480bb.jpg",
+      "size": 19103
+    }
   }
 }
