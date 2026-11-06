@@ -134,5 +134,25 @@
         480
       ]
     }
+  },
+  "6818187290": {
+    "icon": {
+      "path": "./assets/deals/6818187290-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/26/c5/7e26c54a-efe4-39b2-65bb-ac32688a6bb2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "size": 17942,
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "screen": {
+      "path": "./assets/deals/6818187290-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/13/c6/c313c6e4-a44a-3ff6-1de1-83f27bfc7865/iphone-01-sounds.png/320x480bb.jpg",
+      "size": 26749,
+      "dimensions": [
+        221,
+        480
+      ]
+    }
   }
 }

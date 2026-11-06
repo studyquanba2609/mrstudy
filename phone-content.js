@@ -1,4 +1,62 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
+window.MRSTUDY_DATA.articles.unshift(...[
+  {
+    "id": "iphone-duo-khao-sat-nep-gap-camera",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "Tin iPhone",
+    "title": "Apple hỏi người mua iPhone Duo về nếp gấp và camera",
+    "description": "Khảo sát gửi tới một số người mua, tập trung vào màn hình và camera dưới màn hình.",
+    "date": "2026-11-05",
+    "sourceDate": "2026-11-05",
+    "readTime": 2,
+    "image": "./assets/topics/iphone-duo.webp",
+    "imageAlt": "Ảnh Apple minh họa iPhone Duo",
+    "tags": [
+      "iPhone Duo",
+      "khảo sát",
+      "màn hình",
+      "camera"
+    ],
+    "body": "<p>MacRumors ngày 5/11 cho biết Apple đang gửi email khảo sát một số người mua iPhone Duo, khoảng hai tuần sau ngày mở bán. Hãng hỏi lý do chọn máy, cảm nhận về màn hình ngoài, mức độ dễ thấy của nếp gấp và chất lượng camera dưới màn hình. Người nhận cũng có thể viết điều muốn bổ sung hoặc thay đổi.</p><p>Những câu hỏi này phản ánh các điểm Apple muốn thu thập ý kiến, chưa phải thông báo nâng cấp hay cam kết sửa đổi sản phẩm. MacRumors ghi nhận bảng khảo sát được chia sẻ không hỏi về Touch ID hoặc ứng dụng chưa tối ưu.</p><p>Với người đang dùng Duo, khảo sát là dịp phản hồi trải nghiệm thực tế; bài nguồn chưa công bố kết quả tổng hợp.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Juli Clover · 05/11/2026",
+        "url": "https://www.macrumors.com/2026/11/05/apple-iphone-duo-survey/"
+      }
+    ]
+  },
+  {
+    "id": "ios-27-3-public-beta-dau-tien",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "Tin iPhone",
+    "title": "iOS 27.3 mở bản beta công khai đầu tiên",
+    "description": "Người tham gia chương trình beta có thể thử các thay đổi mới trên iPhone.",
+    "date": "2026-11-05",
+    "sourceDate": "2026-11-05",
+    "readTime": 2,
+    "image": "./assets/topics/ios.webp",
+    "imageAlt": "Ảnh Apple minh họa giao diện iOS trên iPhone",
+    "tags": [
+      "iPhone",
+      "iOS 27.3",
+      "public beta",
+      "Safari"
+    ],
+    "body": "<p>Apple đã phát hành bản beta công khai đầu tiên của iOS 27.3, sau bản dành cho nhà phát triển hai ngày, theo MacRumors ngày 5/11. Người tham gia chương trình Apple Beta Software Program có thể đăng ký thiết bị và tìm bản thử nghiệm trong phần Cập nhật phần mềm.</p><p>Các thay đổi đáng chú ý trên iPhone gồm tùy chọn tab dọc và chế độ tối thích ứng trong Safari, Siri AI thực hiện thêm tác vụ trong ứng dụng, cùng giao diện Sức khỏe thiết kế lại. iPhone Duo có thêm Reachability; Apple Music có tính năng Selfie Sing.</p><p>Đây vẫn là phần mềm thử nghiệm, chưa phải bản phát hành ổn định. MacRumors dự kiến bản chính thức vào tháng 12, nhưng đó là dự báo của trang tin.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Juli Clover · 05/11/2026",
+        "url": "https://www.macrumors.com/2026/11/05/ios-27-3-public-beta/"
+      },
+      {
+        "title": "Apple Beta Software Program",
+        "url": "https://beta.apple.com/"
+      }
+    ]
+  }
+]);
 window.MRSTUDY_DATA.articles.unshift({
   "id": "siri-ai-danh-sach-cho-luc-nhu-cau-cao",
   "type": "news",
