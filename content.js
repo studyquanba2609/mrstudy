@@ -7,6 +7,60 @@ window.MRSTUDY_DATA = {
     { id:'vlc', name:'VLC media player', category:'photo', categoryLabel:'Ảnh & video', description:'Xem video, nghe nhạc và mở nhiều định dạng mà không cần chuyển đổi.', icon:'./assets/vlc.png', platforms:'iPhone · iPad · Apple TV', price:0, iap:false, limited:false, checkedDate:'2026-11-02', url:'https://apps.apple.com/vn/app/vlc-media-player/id650377962?l=vi', developer:'VideoLAN', details:'VLC là trình phát đa phương tiện mã nguồn mở của VideoLAN. Theo mô tả trên App Store, ứng dụng phát được nhiều định dạng video và âm thanh, có hỗ trợ phụ đề và chia sẻ tệp qua Wi-Fi.', tips:['Mở video từ ứng dụng Tệp bằng menu chia sẻ.','Kiểm tra tên tệp phụ đề nếu phụ đề chưa được nhận diện.','Điều chỉnh tốc độ phát theo nhu cầu xem hoặc nghe của bạn.'] }
   ],
   articles:[
+    {
+      "type": "knowledge",
+      "date": "2026-11-11",
+      "readTime": 3,
+      "id": "chon-apple-pencil-dung-doi-ipad",
+      "category": "iPad",
+      "title": "Chọn Apple Pencil cho iPad: xem đời máy trước khi mua",
+      "description": "Đối chiếu đúng model rồi chọn theo nhu cầu ghi chú, vẽ và cách sạc.",
+      "image": "./assets/editorial/ipad-pencil-compatibility.svg",
+      "imageAlt": "Minh họa gốc MRSTUDY về iPad và bút cảm ứng",
+      "tags": [
+        "iPad",
+        "Apple Pencil",
+        "mua phụ kiện"
+      ],
+      "sources": [
+        {
+          "title": "Apple Support · Bảng tương thích Apple Pencil · 05/11/2026",
+          "url": "https://support.apple.com/en-us/108937"
+        },
+        {
+          "title": "Apple · So sánh tính năng Apple Pencil · đối chiếu 11/11/2026",
+          "url": "https://www.apple.com/apple-pencil/"
+        }
+      ],
+      "body": "<p>Trước khi mua bút, mở Cài đặt → Cài đặt chung → Giới thiệu để ghi lại tên model iPad, rồi tra đúng dòng trong bảng tương thích của Apple. Tên gọi “iPad Air” hoặc “iPad Pro 11 inch” có thể chỉ nhiều thế hệ dùng các loại bút khác nhau.</p>\n<h2>Ba trường hợp dễ nhầm</h2>\n<ul><li>iPad Air thế hệ 4 và 5 hỗ trợ Pencil thế hệ 2 và Pencil USB-C. Air M2, M3 và M4 hỗ trợ Pencil Pro và Pencil USB-C.</li><li>iPad thế hệ 10 và iPad A16 hỗ trợ Pencil USB-C hoặc Pencil thế hệ 1. Với bút thế hệ 1, cần bộ tiếp hợp USB-C sang Apple Pencil để ghép đôi và sạc.</li><li>iPad Pro 11 inch thế hệ 1 đến 4 hỗ trợ Pencil thế hệ 2. Các bản 11 inch M4 và M5 dùng Pencil Pro nếu cần ghép đôi và sạc từ cạnh máy. Cả hai nhóm đều có lựa chọn Pencil USB-C.</li></ul>\n<h2>Chọn theo việc bạn làm</h2>\n<p>Nếu chủ yếu ghi chú và đánh dấu PDF, Pencil USB-C là lựa chọn dễ cân nhắc khi iPad hỗ trợ. Bút nhận độ nghiêng nhưng thiếu cảm biến lực nhấn. Nam châm giữ bút trên cạnh máy, còn ghép đôi và sạc dùng cáp USB-C. Nếu bạn vẽ nét thay đổi theo lực tay, hãy kiểm tra khả năng nhận lực trước khi mua. Pencil Pro nhận lực, có thao tác bóp và xoay thân bút, đồng thời ghép đôi và sạc qua cạnh từ tính trên iPad tương thích.</p>\n<h2>Thử bút cũ trên chính iPad của bạn</h2>\n<p>Ghép đôi, kiểm tra máy có báo sạc, rồi viết vài nét trong Ghi chú. Nếu mua để vẽ, hãy thử lực nhấn và thao tác đổi công cụ ngay trong ứng dụng bạn định dùng. Một lần thử ngắn xác nhận bút hoạt động với máy tại thời điểm mua. Để đánh giá pin bút, cần dùng lâu hơn.</p>"
+    },
+    {
+      "type": "knowledge",
+      "date": "2026-11-11",
+      "readTime": 3,
+      "id": "doc-chu-ky-pin-macbook-cu",
+      "category": "MacBook",
+      "title": "Mua MacBook cũ: đọc số chu kỳ và tình trạng pin",
+      "description": "Xem ba dữ kiện cùng nhau trước khi đánh giá pin MacBook cũ.",
+      "image": "./assets/editorial/macbook-battery-cycles.svg",
+      "imageAlt": "Minh họa gốc MRSTUDY về MacBook, pin và chu kỳ sạc",
+      "tags": [
+        "MacBook",
+        "pin",
+        "mua máy cũ"
+      ],
+      "sources": [
+        {
+          "title": "Apple Support · Số chu kỳ pin laptop Mac · 05/11/2026",
+          "url": "https://support.apple.com/en-us/102888"
+        },
+        {
+          "title": "Apple · Hướng dẫn kiểm tra tình trạng pin Mac · đối chiếu 11/11/2026",
+          "url": "https://support.apple.com/guide/mac-help/check-the-condition-of-your-computers-battery-mh20865/mac"
+        }
+      ],
+      "body": "<p>Một chu kỳ được tính khi lượng điện đã dùng cộng dồn tương đương 100% dung lượng pin. Dùng 50% hôm nay, sạc lại rồi dùng 50% ngày mai thì tổng cộng khoảng một chu kỳ. Vì vậy, số lần cắm sạc và số chu kỳ là hai dữ kiện khác nhau.</p>\n<h2>Xem chu kỳ, dung lượng và tình trạng</h2>\n<ol><li>Giữ phím Option, mở menu Apple  → Thông tin hệ thống → Nguồn điện. Ghi số chu kỳ và đối chiếu với bảng giới hạn của đúng model Apple công bố.</li><li>Trong Cài đặt hệ thống → Pin, mở Tình trạng pin. Ghi trạng thái và dung lượng tối đa nếu macOS hiển thị. Dung lượng tối đa là phần dung lượng còn giữ được so với khi pin mới.</li><li>Rút sạc và thử tác vụ bạn hay dùng như duyệt web hoặc gọi video. Quan sát phần trăm pin và xem máy có tắt bất thường hay không. Thử nhanh tại chỗ giúp phát hiện bất thường rõ rệt, còn thời lượng cả buổi cần một lần thử dài hơn.</li></ol>\n<h2>Đọc kết quả trước khi quyết định</h2>\n<p>Apple công bố giới hạn 1.000 chu kỳ cho nhiều đời, chẳng hạn MacBook Air M1 2020. Giới hạn thay đổi theo model. Mốc dung lượng 80% tại giới hạn chu kỳ là thông số thiết kế theo điều kiện thử của Apple. Mức hao mòn thực tế còn phụ thuộc cách sử dụng và sạc.</p>\n<p>Khi xem máy tại cửa hàng, tôi sẽ ưu tiên đọc trạng thái macOS cùng với số chu kỳ. Máy có ít chu kỳ mà hiện “Khuyến nghị bảo trì” vẫn cần được kiểm tra. Với máy từng thay pin, hỏi người bán về lịch sử thay và giấy tờ nếu có. Số chu kỳ trên màn hình mô tả pin đang lắp, nên cần thông tin riêng để biết lịch sử sử dụng cả chiếc máy.</p>"
+    },
     {id:'icloud-va-bo-nho-iphone',type:'knowledge',category:'iPhone & iCloud',title:'Bộ nhớ iPhone và iCloud: hai thứ thường bị nhầm',description:'Mua thêm iCloud có làm iPhone rộng hơn? Hiểu đúng trước khi dọn bộ nhớ.',date:'2026-11-02',readTime:4,art:'icloud',tags:['iPhone','iCloud','bộ nhớ','ảnh','thủ thuật'],body:`<p>Thông báo “iPhone đầy bộ nhớ” và “Dung lượng iCloud đã đầy” nói về hai nơi lưu trữ khác nhau. Biết mình đang thiếu chỗ ở đâu giúp bạn chọn cách xử lý phù hợp.</p><h2>Hai chiếc tủ, hai nhiệm vụ</h2><p>Bộ nhớ iPhone là nơi lưu ứng dụng và dữ liệu trên máy. iCloud lưu dữ liệu trên đám mây và có thể đồng bộ giữa các thiết bị. Mua thêm iCloud không thay đổi dung lượng vật lý của điện thoại.</p><h2>Bắt đầu bằng việc kiểm tra</h2><ol><li>Xem dung lượng thiết bị trong phần cài đặt bộ nhớ iPhone.</li><li>Xem dung lượng iCloud trong phần Tài khoản Apple.</li><li>Nhận diện nhóm dữ liệu chiếm nhiều chỗ trước khi xóa hoặc mua thêm dung lượng.</li></ol><blockquote>Đồng bộ và sao lưu là hai khái niệm khác nhau. Đừng xem một thư viện đang đồng bộ là một bản lưu độc lập.</blockquote><h2>Vì sao cần cẩn thận với ảnh?</h2><p>Khi dùng Ảnh iCloud, thao tác xóa được đồng bộ. Trước khi dọn ảnh, hãy đọc hướng dẫn của Apple và giữ bản sao độc lập của những dữ liệu quan trọng.</p><p>Đường dẫn cài đặt có thể khác giữa các phiên bản hệ điều hành. Nguồn bên dưới giúp bạn tìm đúng hướng dẫn cho thiết bị của mình.</p>`,sources:[{title:'Apple: Sự khác biệt giữa dung lượng iCloud và thiết bị',url:'https://support.apple.com/vi-vn/102670'},{title:'Apple: iCloud sao lưu những gì?',url:'https://support.apple.com/vi-vn/108770'}]},
     {id:'chuyen-file-voi-localsend',type:'knowledge',category:'Thủ thuật',title:'Chuyển file iPhone ↔ Windows bằng LocalSend',description:'Một cách chia sẻ qua mạng nội bộ, không cần gửi tệp vòng qua ứng dụng nhắn tin.',date:'2026-11-02',readTime:3,art:'localsend',tags:['iPhone','Windows','LocalSend','ứng dụng','truyền file','thủ thuật'],body:`<p>Bạn có ảnh trên điện thoại và muốn đưa sang máy tính. LocalSend là một lựa chọn để chuyển trực tiếp giữa các thiết bị trong mạng nội bộ.</p><h2>Chuẩn bị hai thiết bị</h2><p>Cài LocalSend trên iPhone và máy tính từ các liên kết chính thức. Kết nối hai thiết bị vào cùng một mạng Wi-Fi hoặc mạng nội bộ.</p><h2>Gửi một tệp đầu tiên</h2><ol><li>Mở LocalSend trên cả hai thiết bị.</li><li>Trên thiết bị gửi, chọn tệp hoặc ảnh cần chuyển.</li><li>Chọn đúng thiết bị nhận trong danh sách tìm thấy.</li><li>Kiểm tra và chấp nhận yêu cầu trên máy nhận.</li></ol><h2>Nếu không thấy máy bên kia</h2><p>Kiểm tra quyền truy cập mạng nội bộ trên điện thoại. Đảm bảo tường lửa trên máy tính cho phép ứng dụng hoạt động trong mạng riêng. Một số Wi-Fi công cộng cô lập thiết bị nên việc tìm thấy nhau có thể không hoạt động.</p><blockquote>Chỉ nhận tệp từ thiết bị bạn nhận diện được. Hãy dùng mạng nội bộ đáng tin cậy.</blockquote><p>LocalSend hỗ trợ Windows, macOS, Linux, Android và iOS; tính năng và giao diện có thể khác tùy nền tảng.</p>`,sources:[{title:'LocalSend: Trang chính thức và hướng dẫn sử dụng',url:'https://localsend.org/vi'},{title:'LocalSend trên App Store Việt Nam',url:'https://apps.apple.com/vn/app/localsend/id1661733229?l=vi'}]},
     {id:'github-la-gi',type:'knowledge',category:'Công nghệ căn bản',title:'GitHub là gì? Hiểu từ ví dụ một trang web',description:'Repository, commit và GitHub Pages — những khái niệm đầu tiên, giải thích thật gọn.',date:'2026-11-02',readTime:4,art:'github',tags:['GitHub','website','lập trình','công nghệ'],body:`<p>Hãy hình dung bạn có một thư mục chứa toàn bộ mã nguồn website. GitHub giúp lưu trữ và cộng tác với thư mục đó qua Git — một công cụ quản lý các phiên bản thay đổi.</p><h2>Ba từ bạn sẽ gặp nhiều nhất</h2><ul><li><strong>Repository:</strong> kho lưu mã nguồn, lịch sử và các tệp liên quan đến dự án.</li><li><strong>Commit:</strong> một mốc thay đổi đã được ghi lại, kèm lời mô tả.</li><li><strong>Branch:</strong> một nhánh làm việc để phát triển thay đổi.</li></ul><h2>GitHub Pages biến mã thành website</h2><p>Với một trang tĩnh gồm HTML, CSS và JavaScript, GitHub Pages có thể phục vụ các tệp đó trên web. Bạn cấu hình nguồn xuất bản từ nhánh hoặc từ quy trình GitHub Actions.</p><h2>Một vòng cập nhật đơn giản</h2><ol><li>Chỉnh nội dung hoặc giao diện trong kho mã nguồn.</li><li>Ghi lại thay đổi bằng một commit.</li><li>Đưa thay đổi lên nhánh dùng để xuất bản.</li><li>Chờ quy trình triển khai hoàn thành và kiểm tra trang.</li></ol><blockquote>Website chia sẻ kiến thức như MRSTUDY có thể bắt đầu bằng trang tĩnh: ít thành phần cần quản lý và dễ lưu lại lịch sử sửa đổi.</blockquote><p>GitHub Pages phục vụ nội dung tĩnh. Những tính năng cần máy chủ, như đăng nhập hay nhận đăng ký email, cần một dịch vụ bổ sung.</p>`,sources:[{title:'GitHub Docs: Cấu hình nguồn xuất bản GitHub Pages',url:'https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site'}]},
