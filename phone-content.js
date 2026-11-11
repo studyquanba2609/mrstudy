@@ -1,6 +1,40 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "huong-dan-thay-pin-iphone-14",
+    "type": "repair",
+    "sourceSite": "iFixit",
+    "category": "Sửa chữa · Pin",
+    "title": "iPhone 14 hao pin, sập nguồn: khi nào nên thay pin?",
+    "description": "Khoanh vùng lỗi trước khi mở máy và kiểm tra sạc, nhiệt độ, lịch sử linh kiện sau khi thay pin iPhone 14.",
+    "date": "2026-11-11",
+    "sourceDate": "2025-09-01",
+    "readTime": 3,
+    "image": "./assets/editorial/iphone-battery.svg?v=b9de2fb119",
+    "imageAlt": "Minh họa pin và dụng cụ sửa điện thoại do MRSTUDY vẽ",
+    "tags": [
+      "iPhone 14",
+      "pin",
+      "sập nguồn",
+      "sửa chữa"
+    ],
+    "body": "<p>Khi iPhone 14 phải sạc nhiều lần trong ngày hoặc tự tắt dù vẫn báo còn pin, hãy ghi lại mức pin và tác vụ đang chạy lúc máy tắt. Pin đã lão hóa có thể giảm dung lượng và không cấp đủ công suất tức thời. Nếu máy chỉ tụt pin nhanh sau khi cập nhật iOS, khi sóng yếu hoặc trong một ứng dụng nhất định, hãy khoanh vùng các yếu tố đó trước khi quyết định thay.</p>\n<h2>Kiểm tra trước khi mở máy</h2>\n<p>Vào Cài đặt → Pin để xem hoạt động theo ứng dụng và mục Tình trạng pin để xem dung lượng tối đa, khả năng hiệu năng đỉnh và thông báo bảo trì nếu có. Nếu máy sạc chập chờn, thử cáp Lightning và củ sạc đã biết hoạt động tốt. Nếu máy vẫn khởi động lại khi pin còn nhiều hoặc không sạc với bộ sạc tốt, cần chẩn đoán thêm đường sạc và nguồn. Dung lượng tối đa chỉ là một dữ kiện khi quyết định thay pin.</p>\n<h2>Chuẩn bị nếu cần thay pin</h2>\n<p>Sao lưu dữ liệu, xác nhận đúng iPhone 14 bản tiêu chuẩn và chuẩn bị pin cùng keo lắp lại phù hợp. Quy trình iFixit mở từ mặt lưng. Nếu pin có dấu hiệu phồng, mặt lưng bị đội hoặc máy nóng bất thường, dừng sạc và chuyển máy cho người có dụng cụ xử lý pin lithium. Tránh ép vỏ, chọc pin hoặc gia nhiệt trong tình huống này. Với pin không phồng, iFixit yêu cầu hạ mức pin xuống dưới 25% và tắt nguồn trước khi tháo. Kỹ thuật viên cần bảo vệ cáp mặt lưng và đầu nối, dùng keo mới khi lắp lại. Khả năng kháng nước sau sửa không được bảo đảm.</p>\n<p><a class=\"button button-dark\" href=\"https://www.ifixit.com/Guide/iPhone+14+Battery+Replacement/152966\" target=\"_blank\" rel=\"noopener noreferrer\">Xem quy trình thay pin iPhone 14 trên iFixit ↗</a></p>\n<h2>Hậu kiểm</h2>\n<p>Thử khởi động, sạc có dây và sạc không dây, theo dõi nhiệt và xem máy còn tắt đột ngột trong điều kiện từng gây lỗi hay không. Kiểm tra Cài đặt → Cài đặt chung → Giới thiệu → Lịch sử linh kiện và dịch vụ. Nếu hiện yêu cầu hoàn tất sửa chữa cho pin tương thích, dùng Trợ lý sửa chữa theo hướng dẫn Apple, với Wi-Fi, iOS mới nhất và mức pin trên 20%. Nếu máy vẫn không ổn định sau khi thay pin, cần chẩn đoán tiếp thay vì kết luận pin mới bị lỗi.</p>",
+    "sources": [
+      {
+        "title": "iFixit · Thay pin iPhone 14 · cập nhật 01/09/2025",
+        "url": "https://www.ifixit.com/Guide/iPhone+14+Battery+Replacement/152966"
+      },
+      {
+        "title": "Apple Support · Pin và hiệu năng iPhone · 01/06/2026",
+        "url": "https://support.apple.com/en-us/101575"
+      },
+      {
+        "title": "Apple Support · Trợ lý sửa chữa · 05/11/2026",
+        "url": "https://support.apple.com/en-us/120579"
+      }
+    ]
+  },
+  {
     "id": "iphone-duo-khao-sat-nep-gap-camera",
     "type": "news",
     "sourceSite": "MacRumors",
