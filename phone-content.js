@@ -1,6 +1,31 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "tin-don-iphone-ky-niem-20-nam-man-hinh-cong",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "Tin iPhone",
+    "title": "Tin đồn iPhone kỷ niệm 20 năm có màn hình cong bốn cạnh",
+    "description": "MacRumors tổng hợp các báo cáo về thiết kế mặt trước, Face ID và camera dưới màn hình cho mẫu iPhone dự kiến năm 2027.",
+    "date": "2026-11-10",
+    "sourceDate": "2026-11-10",
+    "readTime": 2,
+    "image": "./assets/editorial/iphone-screen.svg?v=584cee0b22",
+    "imageAlt": "Minh họa màn hình iPhone do MRSTUDY vẽ",
+    "tags": [
+      "iPhone",
+      "tin đồn",
+      "màn hình"
+    ],
+    "body": "<p>Trong bài ngày 10/11/2026, MacRumors tổng hợp các báo cáo về mẫu iPhone kỷ niệm 20 năm, dự kiến xuất hiện vào mùa thu 2027. Một phương án được nhắc đến là kính cong ở cả bốn cạnh, che bớt khung kim loại khi nhìn chính diện. Apple được cho là đang thử đưa Face ID và camera trước xuống dưới màn hình để giảm phần khoét.</p><p>Khả năng trang bị tấm nền OLED mỏng hơn vẫn còn bỏ ngỏ. MacRumors dẫn một báo cáo ngành cho rằng công nghệ này có thể đến muộn hơn đời máy kỷ niệm. Apple chưa công bố tên sản phẩm, lịch ra mắt hay thông số, nên các chi tiết thiết kế hiện vẫn là tin đồn.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Tim Hardwick · 10/11/2026",
+        "url": "https://www.macrumors.com/2026/11/10/iphone-20-pro-rumors-ten-big-changes/"
+      }
+    ]
+  },
+  {
     "id": "ios-27-2-1-phat-hanh-chinh-thuc",
     "type": "news",
     "sourceSite": "MacRumors",
