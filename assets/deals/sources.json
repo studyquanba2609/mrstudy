@@ -1,22 +1,14 @@
 {
-  "1574131062": {
+  "884547063": {
     "icon": {
-      "path": "./assets/deals/1574131062-icon.jpg",
-      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/bf/df/0e/bfdf0ee9-ee23-8a86-0162-1d8304db6046/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "size": 8491,
-      "dimensions": [
-        240,
-        240
-      ]
+      "path": "./assets/deals/884547063-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c3/fc/fb/c3fcfb22-38e2-1ef1-8010-79f22048fd3f/AppIcon-1x_U007epad-85-220.png/512x512bb.jpg",
+      "size": 22467
     },
     "screen": {
-      "path": "./assets/deals/1574131062-screen.jpg",
-      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/04/52/e0/0452e0c8-ae35-7250-2cd6-257a30a8355b/ae932847-6ba2-40e6-a0db-c13f9dc26a81_1242x2208_01.jpg/392x696bb.jpg",
-      "size": 26295,
-      "dimensions": [
-        392,
-        696
-      ]
+      "path": "./assets/deals/884547063-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/db/8a/68/db8a6852-f3c8-caf1-d314-9b51606cf304/pr_source.png/392x696bb.jpg",
+      "size": 36462
     }
   },
   "920583100": {
@@ -39,30 +31,6 @@
       ]
     }
   },
-  "6761135453": {
-    "icon": {
-      "path": "./assets/deals/6761135453-icon.jpg",
-      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/23/1e/6a231eee-12e8-ff91-41e1-f8037865c074/Horizon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "size": 47049
-    },
-    "screen": {
-      "path": "./assets/deals/6761135453-screen.jpg",
-      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/de/ea/51deea00-e3a1-4ef9-4102-a34c068f4bbc/iphone-01-dashboard.png/320x480bb.jpg",
-      "size": 30241
-    }
-  },
-  "884547063": {
-    "icon": {
-      "path": "./assets/deals/884547063-icon.jpg",
-      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c3/fc/fb/c3fcfb22-38e2-1ef1-8010-79f22048fd3f/AppIcon-1x_U007epad-85-220.png/512x512bb.jpg",
-      "size": 22467
-    },
-    "screen": {
-      "path": "./assets/deals/884547063-screen.jpg",
-      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/db/8a/68/db8a6852-f3c8-caf1-d314-9b51606cf304/pr_source.png/392x696bb.jpg",
-      "size": 36462
-    }
-  },
   "1515294700": {
     "icon": {
       "path": "./assets/deals/1515294700-icon.jpg",
@@ -73,6 +41,38 @@
       "path": "./assets/deals/1515294700-screen.jpg",
       "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/6e/2f/fc6e2f99-47ce-14ad-be30-ed41bb64571d/iPhone_17_Pro_Max_-_01Mouse_68887f06-8e3a-456e-9b2f-4f890a78d365_framed.jpg/320x480bb.jpg",
       "size": 19103
+    }
+  },
+  "1574131062": {
+    "icon": {
+      "path": "./assets/deals/1574131062-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/bf/df/0e/bfdf0ee9-ee23-8a86-0162-1d8304db6046/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "size": 8491,
+      "dimensions": [
+        240,
+        240
+      ]
+    },
+    "screen": {
+      "path": "./assets/deals/1574131062-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/04/52/e0/0452e0c8-ae35-7250-2cd6-257a30a8355b/ae932847-6ba2-40e6-a0db-c13f9dc26a81_1242x2208_01.jpg/392x696bb.jpg",
+      "size": 26295,
+      "dimensions": [
+        392,
+        696
+      ]
+    }
+  },
+  "6761135453": {
+    "icon": {
+      "path": "./assets/deals/6761135453-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/23/1e/6a231eee-12e8-ff91-41e1-f8037865c074/Horizon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "size": 47049
+    },
+    "screen": {
+      "path": "./assets/deals/6761135453-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/de/ea/51deea00-e3a1-4ef9-4102-a34c068f4bbc/iphone-01-dashboard.png/320x480bb.jpg",
+      "size": 30241
     }
   },
   "6813558062": {
@@ -151,6 +151,26 @@
       "size": 26749,
       "dimensions": [
         221,
+        480
+      ]
+    }
+  },
+  "6758349989": {
+    "icon": {
+      "path": "./assets/deals/6758349989-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/6f/8b/7f6f8b05-db45-5121-e3b1-8bf9061f4b9b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "size": 9043,
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "screen": {
+      "path": "./assets/deals/6758349989-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/78/5c/22785ce1-2091-5ed3-5d26-ff727546ebc4/IMG_6700.PNG/320x480bb.jpg",
+      "size": 26040,
+      "dimensions": [
+        222,
         480
       ]
     }

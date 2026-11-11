@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T01:21:45.089666+00:00",
+  "updatedAt": "2026-11-11T03:02:20.244337+00:00",
   "items": [
     {
       "id": "deal-1574131062-download",
@@ -279,6 +279,35 @@
       ],
       "icon": "./assets/deals/6818187290-icon.jpg",
       "image": "./assets/deals/6818187290-screen.jpg"
+    },
+    {
+      "id": "deal-6758349989-download",
+      "topicDate": "2026-11-11",
+      "name": "Typin",
+      "kind": "download",
+      "summary": "Ghi chú dạng văn bản hoặc Markdown, xem trước định dạng và tiếp tục chỉnh sửa từ trình duyệt máy tính qua mạng nội bộ. Hợp với người hay ghi ý tưởng hoặc soạn bản nháp trên iPhone, iPad. Cần iOS hoặc iPadOS 15 trở lên.",
+      "sourceUrl": "https://appdrop.rs/en/deal/typin-a-minimal-input-app-6758349989",
+      "checkedAt": "2026-11-11T03:02:20.244337+00:00",
+      "regions": [
+        {
+          "code": "vn",
+          "name": "Việt Nam",
+          "url": "https://apps.apple.com/vn/app/typin-a-minimal-input-app/id6758349989?uo=4",
+          "downloadPrice": 0,
+          "currency": "VND",
+          "checkedAt": "2026-11-11T03:02:16.708419+00:00"
+        },
+        {
+          "code": "us",
+          "name": "Mỹ",
+          "url": "https://apps.apple.com/us/app/typin-a-minimal-input-app/id6758349989?uo=4",
+          "downloadPrice": 0,
+          "currency": "USD",
+          "checkedAt": "2026-11-11T03:02:20.244337+00:00"
+        }
+      ],
+      "icon": "./assets/deals/6758349989-icon.jpg",
+      "image": "./assets/deals/6758349989-screen.jpg"
     }
   ],
   "reportedOffers": [

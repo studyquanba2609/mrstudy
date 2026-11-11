@@ -1,6 +1,35 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "ios-27-2-1-phat-hanh-chinh-thuc",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "Tin iPhone",
+    "title": "Apple phát hành iOS 27.2.1 với bản vá bảo mật",
+    "description": "Bản cập nhật chính thức ngày 09/11 dành cho iPhone tương thích iOS 27.",
+    "date": "2026-11-09",
+    "sourceDate": "2026-11-09",
+    "readTime": 2,
+    "image": "./assets/topics/ios.webp",
+    "imageAlt": "Ảnh Apple minh họa iOS trên iPhone",
+    "tags": [
+      "iPhone",
+      "iOS 27.2.1",
+      "cập nhật"
+    ],
+    "body": "<p>Apple phát hành iOS 27.2.1 ngày 9/11/2026, khoảng hai tuần sau iOS 27.2. MacRumors ghi nhận đây là bản cập nhật chính thức dành cho iPhone, tập trung vào sửa lỗi và bảo mật. Tài liệu Apple nêu các bản vá cho AirPlay, App Intents và Bluetooth trên iPhone 11 trở lên.</p><p>Người dùng có thể mở Cài đặt → Cài đặt chung → Cập nhật phần mềm để xem phiên bản được cung cấp cho máy. Cùng ngày, MacRumors ghi nhận Apple phát hành iOS 26.7.3 và iOS 18.7.12 cho những thiết bị chạy các nhánh hệ điều hành tương ứng. Hãy xem số phiên bản trên màn hình cập nhật để biết máy đang được cung cấp bản nào.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Juli Clover · 09/11/2026",
+        "url": "https://www.macrumors.com/2026/11/09/apple-releases-ios-27-2-1-with-bug-fixes/"
+      },
+      {
+        "title": "Apple Support · Nội dung bảo mật iOS 27.2.1 · 09/11/2026",
+        "url": "https://support.apple.com/en-hk/149715"
+      }
+    ]
+  },
+  {
     "id": "huong-dan-thay-pin-iphone-14",
     "type": "repair",
     "sourceSite": "iFixit",
