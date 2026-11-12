@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title">
+  <title id="title">Minh họa MRSTUDY về kính lưng iPhone 14 bị nứt</title>
+  <rect width="800" height="450" fill="#1e1b4b"/>
+  <circle cx="550" cy="220" r="174" fill="none" stroke="#6366f1" stroke-width="2"/>
+  <rect x="466" y="58" width="168" height="324" rx="28" fill="#c7d2fe" stroke="#eef2ff" stroke-width="3"/>
+  <rect x="479" y="72" width="70" height="70" rx="17" fill="#a5b4fc"/>
+  <circle cx="498" cy="92" r="12" fill="#1e1b4b"/>
+  <circle cx="530" cy="122" r="12" fill="#1e1b4b"/>
+  <circle cx="530" cy="91" r="5" fill="#eef2ff"/>
+  <path d="M634 260l-60-18-36 16-25-34-47-9m108 27l12-45 48-25m-96 86l-21 42 19 28-10 54m48-140l21 53 39 18m-117-13l-33 19-18-5" fill="none" stroke="#4338ca" stroke-width="3"/>
+  <text x="78" y="185" fill="#a5b4fc" font-family="system-ui,sans-serif" font-size="22">iPhone 14</text>
+  <text x="78" y="234" fill="#fff" font-family="system-ui,sans-serif" font-size="38" font-weight="700">Kính lưng vỡ</text>
+  <text x="78" y="276" fill="#c7d2fe" font-family="system-ui,sans-serif" font-size="18">Minh họa MRSTUDY</text>
+</svg>

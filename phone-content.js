@@ -1,6 +1,39 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-14-vo-kinh-lung-thay-cum",
+    "type": "repair",
+    "sourceSite": "iFixit",
+    "category": "Hướng dẫn sửa chữa iPhone",
+    "title": "iPhone 14 vỡ kính lưng: khi nào cần thay cả cụm?",
+    "description": "Cách khoanh vùng hư hỏng sau va đập và kiểm tra sạc không dây, mic sau khi thay cụm lưng.",
+    "date": "2026-11-12",
+    "sourceDate": "2026-05-12",
+    "readTime": 3,
+    "image": "./assets/editorial/iphone-14-vo-kinh-lung-thay-cum.svg",
+    "imageAlt": "Minh họa gốc MRSTUDY về kính lưng iPhone 14 bị nứt",
+    "tags": [
+      "iPhone 14",
+      "kính lưng",
+      "sạc không dây"
+    ],
+    "body": "<p>Cụm kính lưng iPhone 14 mang cuộn sạc không dây và mic hướng ra sau. Nếu sau cú rơi máy vừa nứt lưng, vừa sạc không dây chập chờn hoặc quay video bằng camera sau bị mất tiếng, hãy báo cả hai triệu chứng khi mang máy đi kiểm tra. Bài này áp dụng cho iPhone 14 bản thường. iFixit minh họa quy trình trên mẫu A2882.</p>\n<h2>Kiểm tra an toàn trước khi sửa</h2>\n<p>Quan sát vết nứt ở mặt lưng, kính bảo vệ camera và độ phẳng của viền. Nếu lưng bị đội lên, máy nóng bất thường hoặc nghi pin hư sau va đập, hãy ngừng sử dụng và sạc. Tránh ép lưng xuống, chạm vào cạnh kính vỡ hoặc tự mở máy trong tình trạng này. Nếu máy ổn định, hãy sao lưu dữ liệu, thử bộ sạc không dây đang hoạt động tốt và quay một đoạn video ngắn để ghi nhận lỗi trước khi sửa.</p>\n<h2>Chọn phương án xử lý</h2>\n<p>Nếu kính lưng vỡ và khung còn thẳng, kỹ thuật viên có thể thay cụm lưng. Khung cong hoặc kính camera hỏng cần được kiểm tra riêng. Xác nhận cụm thay thế có sẵn cuộn sạc và mic hay cần chuyển bộ phận từ cụm cũ. Khi chuẩn bị tháo máy với pin bình thường, iFixit yêu cầu tắt nguồn, hạ pin xuống dưới 25%, che kính vỡ để giữ mảnh kính và đeo kính bảo hộ. Khi nhấc lưng, cần đỡ cụm để tránh kéo căng cáp cuộn sạc và ngắt pin trước khi tháo đầu nối cụm lưng. Pin nghi phồng hoặc hư cần kỹ thuật viên có thiết bị xử lý phù hợp.</p>\n<p><a class=\"button button-dark\" href=\"https://www.ifixit.com/Guide/iPhone+14+Rear+Glass+Replacement/153210\" target=\"_blank\" rel=\"noopener noreferrer\">Xem quy trình thay cụm kính lưng đầy đủ trên iFixit ↗</a></p>\n<h2>Kiểm tra sau khi lắp</h2>\n<p>Kiểm tra khe quanh viền, thử sạc không dây và nghe lại video quay bằng camera sau. Nếu máy yêu cầu hoàn tất sửa chữa cho linh kiện tương thích, mở Cài đặt → Cài đặt chung → Giới thiệu → Lịch sử linh kiện và dịch vụ để dùng Trợ lý sửa chữa. Keo viền mới không bảo đảm khôi phục khả năng kháng nước ban đầu. Tránh dùng nước để thử độ kín.</p>",
+    "sources": [
+      {
+        "title": "iFixit · Thay cụm kính lưng iPhone 14 · cập nhật 12/05/2026",
+        "url": "https://www.ifixit.com/Guide/iPhone+14+Rear+Glass+Replacement/153210"
+      },
+      {
+        "title": "Apple Support · Sổ tay sửa chữa iPhone 14 · 20/01/2026",
+        "url": "https://support.apple.com/en-ie/100308"
+      },
+      {
+        "title": "Apple Support · Trợ lý sửa chữa · 22/10/2026",
+        "url": "https://support.apple.com/en-vn/120579"
+      }
+    ]
+  },
+  {
     "id": "tin-don-iphone-ky-niem-20-nam-man-hinh-cong",
     "type": "news",
     "sourceSite": "MacRumors",
