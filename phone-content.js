@@ -1,6 +1,31 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "apple-invites-them-binh-chon-emoji",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "Tin iPhone",
+    "title": "Apple Invites trên iPhone thêm bình chọn và hiệu ứng emoji",
+    "description": "Chủ tiệc có thể hỏi ý kiến khách ngay trong thư mời và thêm hiệu ứng động.",
+    "date": "2026-11-11",
+    "sourceDate": "2026-11-11",
+    "readTime": 2,
+    "image": "./assets/editorial/iphone-apps.svg?v=d1956e8f49",
+    "imageAlt": "Minh họa ứng dụng iPhone do MRSTUDY vẽ",
+    "tags": [
+      "iPhone",
+      "Apple Invites",
+      "ứng dụng Apple"
+    ],
+    "body": "<p>MacRumors ngày 11/11/2026 đưa tin Apple đã cập nhật Apple Invites trên iPhone với hai tính năng. Chủ sự kiện có thể đặt câu hỏi ngay trong lời mời để khách bình chọn, chẳng hạn chọn chủ đề bữa tiệc hoặc món ăn. Bản cập nhật cũng thêm hiệu ứng emoji chuyển động để trang trí lời mời.</p><p>Apple Invites dùng để gửi lời mời và nhận phản hồi cho các dịp như sinh nhật hay họp mặt. Việc tạo sự kiện cần gói iCloud+. Người nhận có thể mở liên kết và phản hồi miễn phí, kể cả khi dùng thiết bị khác iPhone. Bình chọn hữu ích khi chủ tiệc muốn chốt một lựa chọn chung trước ngày diễn ra.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Apple Invites thêm hai tính năng · 11/11/2026",
+        "url": "https://www.macrumors.com/2026/11/11/apple-invites-gets-two-new-features/"
+      }
+    ]
+  },
+  {
     "id": "iphone-18-pro-max-thu-pin-cnet",
     "type": "news",
     "sourceSite": "MacRumors",

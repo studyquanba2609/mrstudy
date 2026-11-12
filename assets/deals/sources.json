@@ -214,5 +214,25 @@
         480
       ]
     }
+  },
+  "1237470522": {
+    "icon": {
+      "path": "./assets/deals/1237470522-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/f1/1a/c5f11a31-6dd9-6cff-061e-7746d66fb08f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "size": 54790,
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "screen": {
+      "path": "./assets/deals/1237470522-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1c/5d/9e/1c5d9ec0-29c6-0efa-10fe-2dee6dc76659/mzl.rhdnjjsp.jpg/406x228bb.jpg",
+      "size": 17593,
+      "dimensions": [
+        405,
+        228
+      ]
+    }
   }
 }
