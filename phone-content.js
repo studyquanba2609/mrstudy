@@ -1,6 +1,31 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-18-pro-max-thu-pin-cnet",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "Tin iPhone",
+    "title": "iPhone 18 Pro Max đứng đầu bài thử pin của CNET",
+    "description": "CNET so sánh 32 điện thoại qua hai bài đo. iPhone 18 Pro dẫn riêng phần xem video qua Wi-Fi.",
+    "date": "2026-11-11",
+    "sourceDate": "2026-11-11",
+    "readTime": 2,
+    "image": "./assets/editorial/iphone-battery.svg?v=b9de2fb119",
+    "imageAlt": "Minh họa pin iPhone do MRSTUDY vẽ",
+    "tags": [
+      "iPhone",
+      "pin",
+      "CNET"
+    ],
+    "body": "<p>Ngày 11/11/2026, MacRumors đưa tin iPhone 18 Pro Max xếp đầu trong bài so sánh pin của CNET với 32 điện thoại. CNET sạc đầy từng máy trước hai bài đo, gồm ba giờ xem video qua Wi-Fi ở độ sáng tối đa và 45 phút dùng hỗn hợp với video, cuộc gọi hình ảnh, trò chơi và mạng xã hội.</p><p>iPhone 18 Pro Max và iPhone Duo cùng còn 99% pin sau bài hỗn hợp. Ở bài xem video, iPhone 18 Pro dẫn đầu với 94% còn lại. Bảng xếp hạng chung lấy trung bình hai kết quả, nên máy dẫn một bài có thể đứng thấp hơn khi tính cả hai. Các con số phản ánh điều kiện thử của CNET. Thời lượng thực tế sẽ thay đổi theo cách dùng.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Bài thử pin CNET · 11/11/2026",
+        "url": "https://www.macrumors.com/2026/11/11/iphone-18-pro-max-wins-battery-test/"
+      }
+    ]
+  },
+  {
     "id": "iphone-14-vo-kinh-lung-thay-cum",
     "type": "repair",
     "sourceSite": "iFixit",
