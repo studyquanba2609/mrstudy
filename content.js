@@ -8,6 +8,64 @@ window.MRSTUDY_DATA = {
   ],
   articles:[
     {
+      "id": "mua-iphone-ipad-cu-kiem-tra-khoa",
+      "type": "knowledge",
+      "date": "2026-11-12",
+      "readTime": 3,
+      "category": "iPhone & iPad",
+      "title": "Mua iPhone, iPad cũ: kiểm tra Khóa kích hoạt và quản lý từ xa",
+      "description": "Hai kiểm tra trước khi thanh toán, nhất là với máy từng thuộc công ty hoặc trường học.",
+      "image": "./assets/editorial/mua-iphone-ipad-cu-kiem-tra-khoa.svg",
+      "imageAlt": "Minh họa gốc MRSTUDY về khóa & quản lý",
+      "tags": [
+        "máy cũ",
+        "Khóa kích hoạt",
+        "MDM"
+      ],
+      "sources": [
+        {
+          "title": "Apple Support · Khóa kích hoạt trên iPhone và iPad · đối chiếu 12/11/2026",
+          "url": "https://support.apple.com/vi-vn/108794"
+        },
+        {
+          "title": "Apple Support · Nhận biết thiết bị được giám sát · 11/12/2024",
+          "url": "https://support.apple.com/en-vn/guide/deployment/dep1d89f0bff/web"
+        },
+        {
+          "title": "Apple Support · Giải phóng thiết bị khỏi Apple Business · 14/04/2026",
+          "url": "https://support.apple.com/en-gb/guide/business/axmec4d28461/1/web/1"
+        }
+      ],
+      "body": "<p>Một chiếc iPhone hoặc iPad cũ có thể mở vào màn hình chính để thử, nhưng đến khi xóa máy và thiết lập lại mới hiện yêu cầu đăng nhập của chủ cũ hoặc màn hình Quản lý từ xa. Hai dấu hiệu này cần được kiểm tra riêng trước khi thanh toán.</p>\n<h2>Khóa kích hoạt gắn với tài khoản chủ cũ</h2>\n<p>Khi bật Tìm, Apple liên kết thiết bị với Tài khoản Apple để kiểm tra khi máy được kích hoạt hoặc khôi phục. Nếu lúc thiết lập xuất hiện thông báo thiết bị bị khóa với chủ sở hữu hoặc yêu cầu tài khoản đã liên kết trước đó, hãy đề nghị người bán xử lý bằng tài khoản hợp lệ của họ. Apple khuyên chỉ nhận máy khi máy đã được xóa và gỡ liên kết với chủ trước.</p>\n<h2>Quản lý từ xa gắn với tổ chức</h2>\n<p>MDM là hệ thống quản lý thiết bị mà công ty hoặc trường học có thể dùng để áp cấu hình và giới hạn. Với máy đang sử dụng, xem phần đầu trang Cài đặt để tìm thông báo giám sát. Khi thiết lập qua mạng, nếu máy yêu cầu đăng ký Quản lý từ xa, hãy yêu cầu người bán làm việc với tổ chức có quyền quản lý. Theo Apple, sau khi thiết bị được giải phóng khỏi Apple Business, thiết bị cần được xóa và khôi phục.</p>\n<h2>Thử máy trước khi thanh toán</h2>\n<p>MRSTUDY đề xuất để người bán sao lưu rồi tự xóa máy, sau đó cùng kết nối Wi-Fi và đi qua các bước kích hoạt. Kiểm tra cả yêu cầu tài khoản chủ cũ lẫn màn hình đăng ký quản lý của tổ chức. Nếu một trong hai xuất hiện, hoãn giao dịch đến khi người có quyền xử lý xong và hai bên thử lại.</p>"
+    },
+    {
+      "id": "time-machine-macbook-sao-luu-khoi-phuc",
+      "type": "knowledge",
+      "date": "2026-11-12",
+      "readTime": 3,
+      "category": "MacBook",
+      "title": "Time Machine trên MacBook: sao lưu và thử khôi phục một tệp",
+      "description": "Cách chọn ổ sao lưu, hoàn tất bản đầu tiên và kiểm tra xem tệp có phục hồi được.",
+      "image": "./assets/editorial/time-machine-macbook-sao-luu-khoi-phuc.svg",
+      "imageAlt": "Minh họa gốc MRSTUDY về sao lưu macbook",
+      "tags": [
+        "MacBook",
+        "Time Machine",
+        "sao lưu"
+      ],
+      "sources": [
+        {
+          "title": "Apple Support · Sao lưu Mac với Time Machine · 17/10/2026",
+          "url": "https://support.apple.com/en-sg/104984"
+        },
+        {
+          "title": "Apple · Khôi phục tệp với Time Machine · đối chiếu 12/11/2026",
+          "url": "https://support.apple.com/en-ie/guide/mac-help/mh15136/mac"
+        }
+      ],
+      "body": "<p>Time Machine giữ các bản sao theo thời điểm. Bạn có thể lấy lại một tài liệu đã xóa hoặc phiên bản trước khi chỉnh sửa, miễn là tệp đó có trong bản sao lưu. Điều này hữu ích trước khi giao MacBook đi sửa, chuyển máy hoặc dọn ổ.</p>\n<h2>Chọn ổ và tạo bản sao đầu tiên</h2>\n<p>Apple khuyến nghị ổ sao lưu có dung lượng ít nhất gấp đôi dung lượng lưu trữ của Mac. Chẳng hạn, với MacBook 512 GB, ổ 2 TB đáp ứng mức khuyến nghị và có thêm chỗ giữ các phiên bản cũ. Nếu ổ ngoài đang chứa dữ liệu, hãy chép dữ liệu sang nơi an toàn trước khi đồng ý xóa hay định dạng ổ.</p>\n<p>Trên macOS dùng Cài đặt hệ thống, mở Cài đặt hệ thống → Cài đặt chung → Time Machine và thêm ổ sao lưu. Nếu bật mã hóa, lưu mật khẩu ở nơi riêng để có thể dùng khi cần phục hồi. Bản đầu có thể mất nhiều thời gian. Chờ mục Time Machine báo đã hoàn tất và kiểm tra ngày giờ của bản gần nhất trước khi tháo ổ.</p>\n<h2>Thử lấy lại một tệp</h2>\n<p>Tạo một tệp thử trong thư mục Tài liệu và chờ nó được đưa vào bản sao lưu. Sau đó bỏ tệp thử khỏi thư mục, mở thư mục đó trong Finder, vào Time Machine, chọn mốc có tệp rồi bấm Khôi phục. Mở lại tệp để kiểm tra nội dung. Với dữ liệu quan trọng, MRSTUDY đề xuất giữ thêm một bản ở nơi khác để vẫn có đường phục hồi nếu cả máy lẫn ổ sao lưu cùng bị mất.</p>"
+    },
+    {
       "type": "knowledge",
       "date": "2026-11-11",
       "readTime": 3,
