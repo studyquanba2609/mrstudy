@@ -8,6 +8,56 @@ window.MRSTUDY_DATA = {
   ],
   articles:[
     {
+      "id": "doc-lich-su-linh-kien-iphone-cu",
+      "category": "iPhone",
+      "title": "Mua iPhone cũ: đọc Lịch sử linh kiện và dịch vụ",
+      "description": "Cách đọc các nhãn Chính hãng, Đã qua sử dụng, Không xác định và Hoàn tất sửa chữa trước khi mua.",
+      "tags": [
+        "iPhone",
+        "máy cũ",
+        "linh kiện"
+      ],
+      "sources": [
+        {
+          "title": "Apple Support · Lịch sử linh kiện và dịch vụ iPhone · 22/10/2026",
+          "url": "https://support.apple.com/en-us/102658"
+        }
+      ],
+      "body": "<p>Khi xem iPhone cũ, mở Cài đặt → Cài đặt chung → Giới thiệu và tìm Lịch sử linh kiện và dịch vụ. Từ iOS 15.2, thông tin hiển thị phụ thuộc đời máy. Ví dụ, iPhone 11 có thể báo lịch sử pin và màn hình, còn dòng iPhone 12 trở lên có thêm bo mạch, camera trước và camera sau trong bảng của Apple.</p>\n<h2>Đọc nhãn cạnh từng linh kiện</h2>\n<ul><li><strong>Chính hãng (Genuine)</strong> cho biết linh kiện và quy trình sửa chữa đáp ứng điều kiện Apple ghi nhận.</li><li><strong>Đã qua sử dụng (Used)</strong> cho biết linh kiện từng được dùng hoặc lắp trên iPhone khác.</li><li><strong>Không xác định (Unknown)</strong> có thể xuất hiện vì linh kiện không chính hãng, hoạt động bất thường hoặc chưa được xác minh và liên kết với máy.</li><li><strong>Hoàn tất sửa chữa (Finish Repair)</strong> cho biết quy trình với Trợ lý sửa chữa còn dang dở.</li></ul>\n<h2>Đối chiếu với máy đang cầm</h2>\n<p>Apple cho biết hệ thống chỉ hiển thị lần sửa gần nhất của từng linh kiện nếu linh kiện đó được sửa nhiều lần. Nếu không thấy mục lịch sử, vẫn cần xem đời máy, phiên bản iOS và chức năng thực tế trước khi kết luận về tình trạng máy.</p>\n<p>MRSTUDY đề xuất thử linh kiện liên quan ngay tại chỗ. Với màn hình, thử chạm ở các góc và cuộn qua nhiều vùng. Với camera, chụp và quay bằng cả hai phía. Nếu có thông báo chưa hoàn tất, hãy nhờ người bán giải thích và xử lý theo quy trình Apple trước khi giao dịch.</p>",
+      "type": "knowledge",
+      "date": "2026-11-13",
+      "readTime": 3,
+      "image": "./assets/editorial/doc-lich-su-linh-kien-iphone-cu.svg",
+      "imageAlt": "Minh họa gốc MRSTUDY về lịch sử linh kiện"
+    },
+    {
+      "id": "ipad-khong-nhan-usb-the-sd",
+      "category": "iPad",
+      "title": "iPad không thấy USB hoặc thẻ SD trong Tệp: kiểm tra gì trước?",
+      "description": "Khoanh vùng cổng, bộ tiếp hợp, nguồn điện và định dạng ổ trước khi xóa dữ liệu.",
+      "tags": [
+        "iPad",
+        "USB",
+        "lưu trữ"
+      ],
+      "sources": [
+        {
+          "title": "Apple · Kết nối thiết bị lưu trữ bên ngoài với iPad · đối chiếu 13/11/2026",
+          "url": "https://support.apple.com/vi-vn/guide/ipad/ipad75b7b23f/27/ipados/27"
+        },
+        {
+          "title": "Apple · Chuyển tệp từ iPad sang thiết bị lưu trữ · đối chiếu 13/11/2026",
+          "url": "https://support.apple.com/sr-rs/guide/ipad/ipad8139864c/27/ipados/27"
+        }
+      ],
+      "body": "<p>Sau khi cắm ổ USB hoặc đầu đọc thẻ SD, mở ứng dụng Tệp → Duyệt → Vị trí. Nếu phần Vị trí đang ẩn, chạm Duyệt thêm một lần. Khi ổ không xuất hiện, hãy kiểm tra kết nối, nguồn điện và định dạng theo thứ tự này.</p>\n<h2>Kiểm tra cổng và nguồn</h2>\n<p>Chọn đầu đọc hoặc bộ tiếp hợp tương thích với cổng USB-C hay Lightning của iPad. Ổ cứng gắn ngoài có thể cần thêm nguồn. Apple nêu ví dụ dùng hub USB có nguồn cho mẫu hỗ trợ Thunderbolt/USB 4, hoặc cấp nguồn qua Bộ tiếp hợp camera USB 3 qua Lightning trên iPad cổng Lightning. Nếu có sẵn USB khác đang hoạt động, thử cùng bộ tiếp hợp để khoanh vùng ổ hay kết nối.</p>\n<h2>Kiểm tra phân vùng và định dạng</h2>\n<p>Apple yêu cầu ổ có một phân vùng dữ liệu. Các định dạng hỗ trợ gồm APFS, APFS mã hóa, macOS Extended, exFAT, FAT32 và FAT. Nếu ổ đang ở định dạng khác, hãy mở ổ trên máy tính và sao lưu trước khi định dạng lại. Với ổ trao đổi tệp giữa iPad và máy Windows, exFAT là một lựa chọn thực tế.</p>\n<h2>Thử sao chép trước khi dọn tệp gốc</h2>\n<p>Sao chép một tệp nhỏ sang ổ, mở lại tệp từ chính ổ trong Tệp và chờ mọi thao tác ghi hoàn tất trước khi rút. Với ảnh hoặc video quan trọng, giữ tệp gốc cho đến khi đã kiểm tra bản sao ở thiết bị đích.</p>",
+      "type": "knowledge",
+      "date": "2026-11-13",
+      "readTime": 3,
+      "image": "./assets/editorial/ipad-khong-nhan-usb-the-sd.svg",
+      "imageAlt": "Minh họa gốc MRSTUDY về ipad và ổ ngoài"
+    },
+    {
       "id": "mua-iphone-ipad-cu-kiem-tra-khoa",
       "type": "knowledge",
       "date": "2026-11-12",
