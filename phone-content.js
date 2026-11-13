@@ -1,6 +1,31 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-duo-mot-so-don-giao-som",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "Tin iPhone",
+    "title": "Một số đơn iPhone Duo được dời lịch giao sớm",
+    "description": "Khách đã đặt iPhone Duo báo ngày giao dự kiến chuyển từ tháng 1 sang tháng 12.",
+    "date": "2026-11-12",
+    "sourceDate": "2026-11-12",
+    "readTime": 2,
+    "image": "./assets/topics/iphone-duo.webp",
+    "imageAlt": "Ảnh iPhone Duo",
+    "tags": [
+      "iPhone Duo",
+      "Apple Store",
+      "giao hàng"
+    ],
+    "body": "<p>MacRumors ngày 12/11/2026 ghi nhận một số khách đã đặt iPhone Duo qua Apple thấy lịch giao dự kiến được rút ngắn. Các đơn từng hiển thị ngày 25/1 được chuyển sang khoảng 14–21/12. Một vài khách trên diễn đàn của MacRumors báo khung sớm hơn, từ 12 đến 14/12.</p><p>Những mốc này đến từ thông tin trên các đơn hàng cụ thể mà khách chia sẻ. Tại thời điểm MacRumors đăng bài, cửa hàng trực tuyến Apple mà trang này theo dõi vẫn hiển thị ngày 25/1 cho đơn đặt mới. Nếu đã đặt máy, bạn có thể xem ngày giao dự kiến trên trang chi tiết đơn của mình. Lịch giao ở từng thị trường và từng đơn có thể khác nhau.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Lịch giao iPhone Duo · 12/11/2026",
+        "url": "https://www.macrumors.com/2026/11/12/iphone-duo-delivery-dates-continue-to-move-up/"
+      }
+    ]
+  },
+  {
     "id": "iphone-13-camera-sau-mo-den",
     "type": "repair",
     "sourceSite": "iFixit",
