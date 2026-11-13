@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title">
+  <title id="title">Minh họa MRSTUDY về camera sau iPhone 13</title>
+  <rect width="800" height="450" fill="#102427"/>
+  <circle cx="563" cy="222" r="182" fill="#194347"/>
+  <rect x="478" y="52" width="172" height="340" rx="30" fill="#8ac7b7" stroke="#e3fff4" stroke-width="3"/>
+  <rect x="493" y="67" width="111" height="111" rx="25" fill="#4e8a80"/>
+  <g fill="#102427" stroke="#b9f5df" stroke-width="3"><circle cx="523" cy="97" r="20"/><circle cx="575" cy="149" r="20"/></g>
+  <g fill="#67dfcb"><circle cx="523" cy="97" r="7"/><circle cx="575" cy="149" r="7"/></g>
+  <circle cx="575" cy="96" r="6" fill="#e3fff4"/>
+  <text x="62" y="180" fill="#8ae8d1" font-family="system-ui,sans-serif" font-size="23">iPhone 13</text>
+  <text x="62" y="235" fill="#fff" font-family="system-ui,sans-serif" font-size="43" font-weight="700">Camera sau</text>
+  <text x="62" y="280" fill="#b9f5df" font-family="system-ui,sans-serif" font-size="19">Minh họa MRSTUDY</text>
+</svg>

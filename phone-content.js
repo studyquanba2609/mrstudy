@@ -1,6 +1,43 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-13-camera-sau-mo-den",
+    "type": "repair",
+    "sourceSite": "iFixit",
+    "category": "Hướng dẫn sửa chữa iPhone",
+    "title": "Camera sau iPhone 13 bị mờ hoặc đen: khi nào cần thay cụm?",
+    "description": "Cách thử riêng camera 0,5× và 1×, nhận biết lỗi còn lặp lại và hậu kiểm sau khi thay cụm.",
+    "date": "2026-11-13",
+    "sourceDate": "2024-09-30",
+    "readTime": 4,
+    "image": "./assets/editorial/iphone-13-camera-sau-mo-den.svg",
+    "imageAlt": "Minh họa gốc MRSTUDY về hai camera sau iPhone 13",
+    "tags": [
+      "iPhone 13",
+      "camera sau",
+      "sửa chữa"
+    ],
+    "body": "<p>Nếu camera sau iPhone 13 cho ảnh mờ, rung hoặc màn hình xem trước bị đen, hãy ghi lại lỗi xuất hiện ở chế độ nào. Bài này áp dụng cho iPhone 13 bản thường, có hai góc chụp sau 0,5× và 1×.</p>\n<h2>Khoanh vùng khi máy còn nguyên</h2>\n<p>Tháo ốp, kính bảo vệ camera hoặc phụ kiện từ tính, rồi lau nhẹ kính camera bằng khăn vi sợi. Mở ứng dụng Camera ở nơi đủ sáng, thử 0,5× và 1× trên cùng một cảnh, chụp ảnh và quay video ngắn. Thử camera trước để biết lỗi có xảy ra ở cả hai phía. Nếu lỗi chỉ xuất hiện trong một ứng dụng khác, hãy thử lại bằng Camera sau khi khởi động máy.</p>\n<p>Vết bẩn hoặc kính ngoài bị xước có thể làm ảnh mờ. Nếu lỗi lặp lại ở cùng một góc chụp sau khi đã bỏ phụ kiện, kỹ thuật viên có thể tập trung kiểm tra kính ngoài, cụm camera và đầu nối tương ứng. Một màn hình đen hoặc ảnh rung đơn lẻ chưa đủ để kết luận hỏng cụm camera.</p>\n<h2>Chuẩn bị khi cần thay cụm</h2>\n<p>Sao lưu dữ liệu trước khi giao máy. Với pin bình thường, iFixit hướng dẫn hạ pin xuống dưới 25% rồi tắt nguồn trước khi tháo. Nếu máy phồng, nóng bất thường hoặc nghi pin hư sau va đập, hãy ngừng sử dụng và sạc, rồi chuyển cho kỹ thuật viên có thiết bị phù hợp. Quy trình cần mở màn hình, ngắt pin và bảo vệ các cáp màn hình, cảm biến trước. Tránh kéo cáp hoặc làm hư cụm TrueDepth vì có thể ảnh hưởng Face ID.</p>\n<p><a class=\"button button-dark\" href=\"https://www.ifixit.com/Guide/iPhone+13+Rear-Facing+Camera+Replacement/146278\" target=\"_blank\" rel=\"noopener noreferrer\">Xem quy trình thay camera sau iPhone 13 đầy đủ trên iFixit ↗</a></p>\n<h2>Hậu kiểm trước khi nhận máy</h2>\n<p>Chụp và quay lại ở 0,5× và 1×, kiểm tra khả năng lấy nét ở 1× với vật gần và xa, rồi thử camera trước và Face ID. Nếu máy yêu cầu hoàn tất sửa chữa cho cụm tương thích, dùng Trợ lý sửa chữa theo hướng dẫn Apple. Kiểm tra khe viền màn hình bằng mắt. Keo viền mới không bảo đảm khôi phục khả năng kháng nước ban đầu. Nếu vẫn còn lỗi, cần kiểm tra tiếp đầu nối hoặc phần cứng liên quan.</p>",
+    "sources": [
+      {
+        "title": "iFixit · Thay camera sau iPhone 13 · cập nhật 30/09/2024",
+        "url": "https://www.ifixit.com/Guide/iPhone+13+Rear-Facing+Camera+Replacement/146278"
+      },
+      {
+        "title": "Apple Support · Sổ tay sửa chữa iPhone 13 · 12/01/2026",
+        "url": "https://support.apple.com/en-ph/100402"
+      },
+      {
+        "title": "Apple Support · Kiểm tra camera và đèn flash · đối chiếu 13/11/2026",
+        "url": "https://support.apple.com/vi-vn/102514"
+      },
+      {
+        "title": "Apple Support · Trợ lý sửa chữa · 22/10/2026",
+        "url": "https://support.apple.com/en-vn/120579"
+      }
+    ]
+  },
+  {
     "id": "apple-invites-them-binh-chon-emoji",
     "type": "news",
     "sourceSite": "MacRumors",
