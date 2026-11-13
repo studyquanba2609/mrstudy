@@ -1,6 +1,31 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "apple-sports-them-theo-doi-ufc",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "Tin iPhone",
+    "title": "Apple Sports trên iPhone thêm theo dõi UFC",
+    "description": "Bản cập nhật hiển thị lịch đấu, diễn biến từng hiệp và thống kê đòn đánh.",
+    "date": "2026-11-12",
+    "sourceDate": "2026-11-12",
+    "readTime": 2,
+    "image": "./assets/editorial/iphone-apps.svg?v=d1956e8f49",
+    "imageAlt": "Minh họa ứng dụng iPhone do MRSTUDY vẽ",
+    "tags": [
+      "iPhone",
+      "Apple Sports",
+      "UFC"
+    ],
+    "body": "<p>MacRumors ngày 12/11/2026 đưa tin Apple đã cập nhật ứng dụng Apple Sports trên iPhone để hỗ trợ UFC. Người xem có thể tra danh sách các trận nam và nữ của từng sự kiện, xem cập nhật theo hiệp và theo dõi thống kê trực tiếp. Ứng dụng còn có bản đồ nhiệt cho thấy vị trí các đòn đánh trong trận.</p><p>Những mục này giúp người hâm mộ nắm diễn biến khi muốn kiểm tra nhanh một trận hoặc đối chiếu số liệu giữa các hiệp. Apple Sports cũng bổ sung ba giải bóng đá trong cùng bản cập nhật, gồm giải vô địch Trung Quốc, Nga và Allsvenskan của Thụy Điển. Theo MacRumors, ứng dụng hiện dành cho iPhone.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Apple Sports bổ sung UFC · 12/11/2026",
+        "url": "https://www.macrumors.com/2026/11/12/apple-sports-app-ufc/"
+      }
+    ]
+  },
+  {
     "id": "iphone-duo-mot-so-don-giao-som",
     "type": "news",
     "sourceSite": "MacRumors",
@@ -780,6 +805,3 @@ window.MRSTUDY_DATA.articles.unshift(...[
     ]
   }
 ]);
-
-
-
