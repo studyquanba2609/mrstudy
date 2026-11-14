@@ -1,6 +1,31 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-duo-ban-le-thu-gap-cnet",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "Tin iPhone",
+    "title": "iPhone Duo vẫn hoạt động sau hơn 451.000 lần gập trong thử nghiệm CNET",
+    "description": "Bản lề đã lỏng hơn và máy thử không còn mở hết màn hình ở mỗi chu kỳ.",
+    "date": "2026-11-13",
+    "sourceDate": "2026-11-13",
+    "readTime": 2,
+    "image": "./assets/topics/iphone-duo.webp",
+    "imageAlt": "Ảnh iPhone Duo",
+    "tags": [
+      "iPhone Duo",
+      "bản lề",
+      "CNET"
+    ],
+    "body": "<p>MacRumors ngày 13/11/2026 dẫn thử nghiệm gập mở iPhone Duo do CNET phát trực tiếp. Sau hơn 451.000 lượt, chiếc máy thử vẫn hoạt động, nhưng bản lề có dấu hiệu mòn. CNET nhận thấy bản lề lỏng hơn từ khoảng 390.000 lượt. Đến khoảng 440.300 lượt, màn hình còn thiếu 5–10 độ khi máy thử chuyển sang lượt đóng tiếp theo. Người thử vẫn có thể mở phẳng bằng tay.</p><p>Khi MacRumors đăng bài, CNET vẫn tiếp tục chạy thử và chưa ghi nhận màn hình nứt hoặc tắt. Đây là kết quả trên một chiếc máy với thiết bị gập tự động. Apple chưa công bố số lượt gập dự kiến, nên khó dùng kết quả này để ước tính tuổi thọ trong điều kiện sử dụng hằng ngày.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Thử bản lề iPhone Duo của CNET · 13/11/2026",
+        "url": "https://www.macrumors.com/2026/11/13/iphone-duo-fold-testing/"
+      }
+    ]
+  },
+  {
     "id": "apple-sports-them-theo-doi-ufc",
     "type": "news",
     "sourceSite": "MacRumors",
