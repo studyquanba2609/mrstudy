@@ -1,6 +1,31 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "apple-thai-lan-canh-bao-gian-diep-iphone",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "Tin iPhone",
+    "title": "Apple trao đổi với giới chức Thái Lan về cảnh báo phần mềm gián điệp trên iPhone",
+    "description": "Cảnh báo cho biết người dùng có thể đã bị nhắm mục tiêu. Giới chức Thái Lan chưa xác nhận thiết bị bị xâm nhập.",
+    "date": "2026-11-13",
+    "sourceDate": "2026-11-13",
+    "readTime": 2,
+    "image": "./assets/editorial/iphone-settings.svg",
+    "imageAlt": "Minh họa cài đặt iPhone của MRSTUDY",
+    "tags": [
+      "iPhone",
+      "bảo mật",
+      "Thái Lan"
+    ],
+    "body": "<p>MacRumors ngày 13/11/2026 dẫn Bloomberg cho biết Apple đã gặp giới chức Thái Lan để trao đổi về các cảnh báo phần mềm gián điệp mà một số chính trị gia và người dùng nhận được. Đợt thông báo ngày 29/10 đã tới người dùng ở 99 quốc gia. Apple cho biết hoạt động quan sát được phù hợp với các cuộc tấn công bằng phần mềm gián điệp đánh thuê.</p><p>Bộ trưởng phụ trách kinh tế số của Thái Lan nói cảnh báo chưa đủ để kết luận thiết bị đã bị xâm nhập. Nhà chức trách cũng chưa có bằng chứng liên hệ vụ việc với Pegasus. Người nhận có thể đăng nhập trực tiếp vào account.apple.com để kiểm tra cảnh báo và tìm hỗ trợ chuyên môn theo hướng dẫn Apple.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Cảnh báo phần mềm gián điệp tại Thái Lan · 13/11/2026",
+        "url": "https://www.macrumors.com/2026/11/13/apple-thailand-spyware-warnings/"
+      }
+    ]
+  },
+  {
     "id": "iphone-duo-ban-le-thu-gap-cnet",
     "type": "news",
     "sourceSite": "MacRumors",
