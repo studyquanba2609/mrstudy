@@ -8,6 +8,52 @@ window.MRSTUDY_DATA = {
   ],
   articles:[
     {
+      "id": "kiem-tra-khoa-nha-mang-iphone-cu",
+      "category": "iPhone",
+      "title": "Mua iPhone cũ: kiểm tra khóa nhà mạng trước khi trả tiền",
+      "description": "Cách đọc trạng thái SIM và thử đúng nhà mạng sẽ dùng.",
+      "tags": [
+        "iPhone",
+        "SIM",
+        "máy cũ"
+      ],
+      "sources": [
+        {
+          "title": "Apple Support · Mở khóa iPhone để dùng nhà mạng khác · 26/01/2026",
+          "url": "https://support.apple.com/en-ie/109316"
+        }
+      ],
+      "body": "<p>Khóa nhà mạng giới hạn các nhà mạng mà iPhone có thể dùng. Trước khi mua máy cũ, mở <strong>Cài đặt → Cài đặt chung → Giới thiệu</strong> và tìm mục Khóa nhà cung cấp mạng (Carrier Lock hoặc Network Provider Lock). Theo Apple, nếu mục này hiện “Không giới hạn SIM” (No SIM restrictions), iPhone đã được mở khóa nhà mạng.</p>\n<h2>Thử với thuê bao bạn sẽ dùng</h2><p>MRSTUDY đề xuất dùng SIM đang hoạt động của nhà mạng bạn định sử dụng, hoặc nhờ người bán hỗ trợ kích hoạt eSIM nếu đó là cách bạn sẽ dùng máy. Thử gọi và tắt Wi-Fi để kiểm tra dữ liệu di động. Máy nhận một SIM của người bán chỉ cho biết SIM đó hoạt động trong lần thử. Trạng thái khóa nhà mạng cũng độc lập với Khóa kích hoạt và quản lý từ xa.</p>\n<h2>Nếu máy còn khóa</h2><p>Apple cho biết việc mở khóa do nhà mạng đang khóa máy xử lý. Hãy để người bán liên hệ nhà mạng đó và chờ xác nhận. Kiểm tra lại mục Giới thiệu và thử thuê bao của mình trước khi thanh toán.</p>",
+      "type": "knowledge",
+      "date": "2026-11-14",
+      "readTime": 3,
+      "image": "./assets/editorial/kiem-tra-khoa-nha-mang-iphone-cu.svg",
+      "imageAlt": "Minh họa gốc MRSTUDY về khóa nhà mạng"
+    },
+    {
+      "id": "apple-diagnostics-kiem-tra-macbook",
+      "category": "MacBook",
+      "title": "Apple Diagnostics trên MacBook: chạy đúng cách và đọc mã lỗi",
+      "description": "Cách vào chẩn đoán trên Mac dùng chip Apple hoặc Intel và ghi lại kết quả.",
+      "tags": [
+        "MacBook",
+        "macOS",
+        "chẩn đoán"
+      ],
+      "sources": [
+        {
+          "title": "Apple Support · Dùng Apple Diagnostics để kiểm tra máy Mac · 24/12/2025",
+          "url": "https://support.apple.com/en-ie/102550"
+        }
+      ],
+      "body": "<p>Apple Diagnostics giúp kiểm tra phần cứng khi MacBook có lỗi lặp lại. Trước khi chạy, vào menu Apple → Giới thiệu về máy Mac này để xác định máy dùng chip Apple hay bộ xử lý Intel. Tắt máy, đặt trên mặt phẳng thoáng và rút thiết bị ngoại vi không cần thiết. Có thể giữ kết nối nguồn và bàn phím, chuột, màn hình hoặc Ethernet nếu cần.</p>\n<h2>Cách khởi động chẩn đoán</h2><ul><li><strong>Mac dùng chip Apple:</strong> nhấn giữ nút nguồn đến khi hiện tùy chọn khởi động, thả nút rồi nhấn giữ ⌘–D đến khi máy khởi động lại.</li><li><strong>Mac Intel:</strong> bật máy và nhấn giữ D ngay. Nếu cách này không hoạt động, thử Option–D.</li></ul><p>Làm theo màn hình. Tùy phiên bản macOS, máy có thể yêu cầu chọn bài kiểm tra cho bộ phận cụ thể.</p>\n<h2>Ghi lại mã và triệu chứng</h2><p>Nếu có mã tham chiếu, chụp lại màn hình và ghi rõ lỗi xảy ra khi dùng pin, cắm sạc hay gắn phụ kiện. Đưa cả mã lẫn mô tả cho kỹ thuật viên. Nếu công cụ không phát hiện lỗi nhưng triệu chứng vẫn xuất hiện, MRSTUDY đề xuất tái hiện trong điều kiện gây lỗi và ghi lại thời điểm. Một lượt chẩn đoán có thể bỏ sót lỗi chập chờn.</p>",
+      "type": "knowledge",
+      "date": "2026-11-14",
+      "readTime": 3,
+      "image": "./assets/editorial/apple-diagnostics-kiem-tra-macbook.svg",
+      "imageAlt": "Minh họa gốc MRSTUDY về chẩn đoán macbook"
+    },
+    {
       "id": "doc-lich-su-linh-kien-iphone-cu",
       "category": "iPhone",
       "title": "Mua iPhone cũ: đọc Lịch sử linh kiện và dịch vụ",
