@@ -1,6 +1,39 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-14-loa-thoai-nghe-nho-re",
+    "type": "repair",
+    "sourceSite": "iFixit",
+    "category": "Hướng dẫn sửa chữa iPhone",
+    "title": "Loa thoại iPhone 14 nghe nhỏ hoặc rè: kiểm tra gì trước khi thay?",
+    "description": "So sánh âm thanh khi áp tai và bật loa ngoài, kiểm tra khe loa và thử lại sau khi sửa.",
+    "date": "2026-11-15",
+    "sourceDate": "2026-07-20",
+    "readTime": 3,
+    "image": "./assets/editorial/iphone-14-loa-thoai-nghe-nho-re.svg",
+    "imageAlt": "Minh họa MRSTUDY về vị trí khe loa thoại trên iPhone",
+    "tags": [
+      "iPhone 14",
+      "loa thoại",
+      "âm thanh"
+    ],
+    "body": "<p>Khi nghe cuộc gọi trên iPhone 14 bản thường, tiếng nhỏ hoặc rè có thể do khe loa bị che, âm thanh đang chuyển sang phụ kiện Bluetooth hoặc chất lượng cuộc gọi kém. Nếu lỗi lặp lại chủ yếu khi áp tai, cụm loa thoại là một bộ phận cần kiểm tra.</p>\n<h2>Thử trước khi mở máy</h2>\n<p>Tháo ốp hoặc miếng dán nếu chúng che khe loa trên. Quan sát khe dưới ánh sáng tốt. Nếu thấy bụi, Apple hướng dẫn dùng bàn chải nhỏ, lông mềm, sạch và khô. Tránh chọc vật nhọn hoặc nhỏ dung dịch vào khe. Gọi thử ở nơi sóng ổn định, tăng âm lượng trong cuộc gọi và kiểm tra đầu ra âm thanh. Sau đó bật loa ngoài để so sánh ngay trong cùng cuộc gọi.</p>\n<p>Nếu tiếng rè xảy ra ở cả hai chế độ, thử gọi một người khác hoặc đổi vị trí. Nếu lỗi vẫn lặp lại khi áp tai trong nhiều cuộc gọi còn loa ngoài nghe rõ, hãy nhờ kỹ thuật viên kiểm tra khe loa, cụm loa và kết nối trước khi quyết định thay.</p>\n<h2>Khi cần thay loa thoại</h2>\n<p>Sao lưu dữ liệu trước khi giao máy. Hướng dẫn iFixit dành cho iPhone 14 thường và minh họa trên mẫu A2882. Khi mở máy cần tắt nguồn, tuân theo phần an toàn pin của Apple và ngắt kết nối pin theo trình tự trong hướng dẫn. Nếu nghi pin phồng hoặc bị hư, ngừng sử dụng và sạc, rồi chuyển máy cho nơi có thiết bị xử lý phù hợp. Khi thao tác, bảo vệ cáp và cụm cảm biến trước. Dùng keo viền thay thế đúng vị trí khi lắp lại.</p>\n<p><a class=\"button button-dark\" href=\"https://www.ifixit.com/Guide/iPhone+14+Earpiece+Speaker+Replacement/153349\" target=\"_blank\" rel=\"noopener noreferrer\">Xem quy trình thay loa thoại đầy đủ trên iFixit ↗</a></p>\n<h2>Hậu kiểm trước khi nhận máy</h2>\n<p>Gọi thử, đổi giữa chế độ áp tai và loa ngoài, rồi kiểm tra Face ID và xem màn hình có tắt khi áp tai trong cuộc gọi hay không. Nếu tiếng rè vẫn còn, ghi lại điều kiện gây lỗi để kiểm tra tiếp. Keo mới không bảo đảm khôi phục khả năng kháng nước ban đầu.</p>",
+    "sources": [
+      {
+        "title": "iFixit · Thay loa thoại iPhone 14 · cập nhật 20/07/2026",
+        "url": "https://www.ifixit.com/Guide/iPhone+14+Earpiece+Speaker+Replacement/153349"
+      },
+      {
+        "title": "Apple Support · Loa không phát tiếng hoặc âm thanh bị méo · 30/03/2026",
+        "url": "https://support.apple.com/en-sg/118432"
+      },
+      {
+        "title": "Apple Support · Sổ tay sửa chữa iPhone 14 · 20/01/2026",
+        "url": "https://support.apple.com/en-gb/100308"
+      }
+    ]
+  },
+  {
     "id": "apple-thai-lan-canh-bao-gian-diep-iphone",
     "type": "news",
     "sourceSite": "MacRumors",
