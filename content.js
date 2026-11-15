@@ -8,6 +8,54 @@ window.MRSTUDY_DATA = {
   ],
   articles:[
     {
+      "id": "ipad-doc-tinh-trang-pin",
+      "type": "knowledge",
+      "category": "iPad",
+      "title": "Đọc tình trạng pin và số chu kỳ trên iPad",
+      "description": "Cách xem dung lượng tối đa, số chu kỳ và xác định iPad có hỗ trợ mục Tình trạng pin.",
+      "date": "2026-11-15",
+      "readTime": 3,
+      "image": "./assets/editorial/ipad-doc-tinh-trang-pin.svg",
+      "imageAlt": "Minh họa gốc MRSTUDY về pin ipad",
+      "tags": [
+        "iPad",
+        "pin"
+      ],
+      "sources": [
+        {
+          "title": "Apple Support · Pin iPad · 10/03/2026",
+          "url": "https://support.apple.com/en-gb/117759"
+        }
+      ],
+      "body": "<p>Mở <strong>Cài đặt → Pin → Tình trạng pin</strong> để xem dung lượng tối đa, số chu kỳ, ngày sản xuất và ngày sử dụng lần đầu của pin. Theo tài liệu Apple, mục này có trên iPad Pro M4 và M5, iPad Air M2, M3 và M4, iPad mini A17 Pro và iPad A16. Nếu không thấy mục này, hãy đối chiếu tên model trong Cài đặt → Cài đặt chung → Giới thiệu với danh sách của Apple.</p><h2>Hai con số cho biết gì?</h2><p>Dung lượng tối đa cho biết pin hiện chứa được bao nhiêu so với khi mới. Một chu kỳ được tính khi tổng lượng pin đã dùng tương đương một lần đầy. Ví dụ, dùng khoảng nửa pin rồi sạc lại trong hai ngày liên tiếp sẽ cộng dồn khoảng một chu kỳ. Vì thế số lần cắm sạc có thể lớn hơn số chu kỳ.</p><h2>Khi kiểm tra iPad cũ</h2><p>MRSTUDY đề xuất xem cả hai số cùng tình trạng pin mà máy báo. Nếu có thể, hãy thử thêm một tác vụ bạn thường dùng như xem video hoặc ghi chú. Một lần thử ngắn giúp phát hiện lỗi rõ rệt, chẳng hạn máy tắt đột ngột, nhưng thời lượng pin còn phụ thuộc độ sáng, kết nối và ứng dụng đang chạy.</p>"
+    },
+    {
+      "id": "macbook-doc-ap-luc-bo-nho",
+      "type": "knowledge",
+      "category": "MacBook",
+      "title": "MacBook chậm khi mở nhiều app: cách đọc Áp lực bộ nhớ",
+      "description": "Xem biểu đồ bộ nhớ và Swap Used trong Activity Monitor khi máy đang chậm.",
+      "date": "2026-11-15",
+      "readTime": 3,
+      "image": "./assets/editorial/macbook-doc-ap-luc-bo-nho.svg",
+      "imageAlt": "Minh họa gốc MRSTUDY về bộ nhớ macbook",
+      "tags": [
+        "MacBook",
+        "bộ nhớ"
+      ],
+      "sources": [
+        {
+          "title": "Apple Support · Bộ nhớ MacBook · đối chiếu 15/11/2026",
+          "url": "https://support.apple.com/en-gb/guide/activity-monitor/actmntr1004/10.14/mac/15.0"
+        },
+        {
+          "title": "Apple Support · Đọc màu biểu đồ Memory Pressure · đối chiếu 15/11/2026",
+          "url": "https://support.apple.com/en-asia/guide/activity-monitor/actmntr34865/10.14/mac/15.0"
+        }
+      ],
+      "body": "<p>Khi MacBook chậm lúc mở nhiều ứng dụng, mở <strong>Activity Monitor → Memory</strong> và xem biểu đồ <strong>Memory Pressure</strong> ở cuối cửa sổ. Apple dùng nhiều chỉ số để vẽ biểu đồ này, gồm bộ nhớ khả dụng và mức trao đổi dữ liệu giữa RAM với ổ khởi động.</p><h2>Đọc biểu đồ cùng mức swap</h2><p>Màu xanh cho thấy macOS đang đáp ứng tốt nhu cầu bộ nhớ. Nếu biểu đồ chuyển vàng hoặc đỏ và máy chậm cùng lúc, hãy xem ứng dụng nào đang dùng nhiều bộ nhớ. Swap Used là dung lượng trên ổ khởi động đang được dùng để trao đổi dữ liệu với RAM. macOS cũng dùng RAM trống để lưu bộ đệm, vì vậy hãy xem biểu đồ cùng triệu chứng thay vì kết luận từ riêng số RAM đã dùng.</p><h2>Thử lại với công việc thực tế</h2><p>MRSTUDY đề xuất lưu công việc rồi đóng từng ứng dụng nặng hoặc nhóm tab ít dùng. Sau mỗi lần, quan sát xem biểu đồ và độ trễ có giảm cùng nhau không. Nếu máy vẫn chậm khi biểu đồ xanh, kiểm tra thêm tải CPU hoặc tác vụ ghi đĩa trước khi quy lỗi cho bộ nhớ.</p>"
+    },
+    {
       "id": "kiem-tra-khoa-nha-mang-iphone-cu",
       "category": "iPhone",
       "title": "Mua iPhone cũ: kiểm tra khóa nhà mạng trước khi trả tiền",
