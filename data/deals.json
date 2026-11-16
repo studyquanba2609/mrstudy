@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T03:04:27.867501+00:00",
+  "updatedAt": "2026-11-16T07:02:31Z",
   "items": [
     {
       "id": "deal-1574131062-download",
@@ -474,6 +474,56 @@
       ],
       "icon": "./assets/deals/431033044-icon.jpg",
       "image": "./assets/deals/431033044-screen.jpg"
+    },
+    {
+      "id": "deal-1012363691-download",
+      "topicDate": "2026-11-16",
+      "name": "Snap Markup",
+      "kind": "download",
+      "summary": "Chú thích ảnh chụp màn hình bằng chữ, mũi tên và nét vẽ, hoặc làm mờ vùng có thông tin riêng tư trước khi gửi. Hợp với người hay gửi ảnh giải thích lỗi hay hướng dẫn thao tác. Cần iOS hoặc iPadOS 15 trở lên.",
+      "sourceUrl": "https://appdrop.rs/en/deal/snap-markup-outil-d-annotation-1012363691",
+      "checkedAt": "2026-11-16T07:02:31Z",
+      "regions": [
+        {
+          "code": "us",
+          "name": "Mỹ",
+          "url": "https://apps.apple.com/us/app/snap-markup-annotation-tool/id1012363691?uo=4",
+          "downloadPrice": 0,
+          "currency": "USD",
+          "checkedAt": "2026-11-16T07:02:31Z"
+        }
+      ],
+      "icon": "./assets/deals/1012363691-icon.jpg",
+      "image": "./assets/deals/1012363691-screen.jpg"
+    },
+    {
+      "id": "deal-6773982595-download",
+      "topicDate": "2026-11-16",
+      "name": "Droppp",
+      "kind": "download",
+      "summary": "Chuyển tệp giữa iPhone, iPad và các thiết bị có trình duyệt qua Wi-Fi nội bộ hoặc điểm phát sóng cá nhân. Có thể tải tệp lên và lấy tệp xuống từ trang chia sẻ trên mạng cục bộ. Hợp khi cần gửi tài liệu sang máy tính không dùng AirDrop. Cần iOS hoặc iPadOS 18 trở lên.",
+      "sourceUrl": "https://appdrop.rs/en/deal/droppp-file-transfer-6773982595",
+      "checkedAt": "2026-11-16T07:02:31Z",
+      "regions": [
+        {
+          "code": "vn",
+          "name": "Việt Nam",
+          "url": "https://apps.apple.com/vn/app/droppp-file-transfer/id6773982595?uo=4",
+          "downloadPrice": 0,
+          "currency": "VND",
+          "checkedAt": "2026-11-16T07:02:31Z"
+        },
+        {
+          "code": "us",
+          "name": "Mỹ",
+          "url": "https://apps.apple.com/us/app/droppp-file-transfer/id6773982595?uo=4",
+          "downloadPrice": 0,
+          "currency": "USD",
+          "checkedAt": "2026-11-16T07:02:31Z"
+        }
+      ],
+      "icon": "./assets/deals/6773982595-icon.jpg",
+      "image": "./assets/deals/6773982595-screen.jpg"
     }
   ],
   "reportedOffers": [
