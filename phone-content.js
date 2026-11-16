@@ -1,6 +1,35 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-13-loa-ngoai-re-mat-tieng",
+    "type": "repair",
+    "sourceSite": "iFixit",
+    "category": "Hướng dẫn sửa chữa iPhone",
+    "title": "Loa ngoài iPhone 13 bị rè hoặc mất tiếng: kiểm tra trước khi thay",
+    "description": "Dùng nhạc chuông, âm thanh lưu trên máy và cuộc gọi loa ngoài để khoanh vùng lỗi trên iPhone 13.",
+    "date": "2026-11-16",
+    "sourceDate": "2023-05-16",
+    "readTime": 3,
+    "image": "./assets/editorial/iphone-13-loa-ngoai-re-mat-tieng.svg",
+    "imageAlt": "Sơ đồ gốc MRSTUDY minh họa cách thử loa ngoài iPhone 13",
+    "tags": [
+      "iPhone 13",
+      "loa ngoài",
+      "âm thanh"
+    ],
+    "body": "<p>Trên iPhone 13 bản thường, tiếng rè khi mở video, nhạc chuông hoặc bật loa ngoài có thể do ốp che khe loa, bụi bám hoặc hỏng cụm loa dưới. Nếu chỉ rè trong cuộc gọi, chất lượng đường truyền cũng là một nguyên nhân cần loại trừ.</p>\n<h2>Thử khi máy còn nguyên</h2>\n<p>Tháo ốp, ngắt phụ kiện âm thanh và chọn iPhone làm đầu ra. Nếu khe loa bám bụi, quét nhẹ bên ngoài bằng bàn chải lông mềm, sạch và khô. Tránh chọc vật nhọn hoặc nhỏ dung dịch vào khe. Tắt chế độ Im lặng khi thử chuông.</p>\n<p>Trong Cài đặt → Âm thanh &amp; Cảm ứng, kéo thanh Nhạc chuông và cảnh báo để thử. Sau đó phát một video đã lưu trên máy ở mức âm lượng vừa phải rồi gọi thử, chuyển giữa áp tai và loa ngoài. Nếu âm thanh lưu trên máy vẫn rõ mà cuộc gọi bị rè, hãy gọi lại ở nơi sóng tốt. Nếu nhiều nội dung cùng rè khi phát qua loa ngoài, kể cả khi đã tháo ốp, nên mang máy đi kiểm tra.</p>\n<h2>Khi nào nên thay cụm loa?</h2>\n<p>Nhờ kỹ thuật viên kiểm tra khe thoát âm, cụm loa dưới và tiếp xúc điện trước khi quyết định thay. Sao lưu dữ liệu và xác nhận linh kiện dành cho đúng model. Theo iFixit, trước khi mở máy cần hạ pin xuống dưới 25% và tắt nguồn vì pin lithium-ion có thể cháy nếu bị đâm thủng. Nếu nghi pin phồng hoặc máy nóng bất thường, hãy dừng và mang máy đi kiểm tra. Quy trình mở qua màn hình, cần bảo vệ cáp màn và cụm cảm biến trước liên quan đến Face ID, đồng thời chuẩn bị keo viền mới.</p>\n<h2>Kiểm tra khi nhận máy</h2>\n<p>Thử lại đúng đoạn âm thanh từng bị rè, nhạc chuông và cuộc gọi loa ngoài. Kiểm tra thêm loa thoại, cảm ứng và Face ID vì quá trình sửa có thao tác quanh màn hình và cáp cảm biến. Nếu thay loa mà lỗi còn nguyên, cần chẩn đoán tiếp đường âm thanh. Sau khi mở máy, khả năng kháng nước có thể suy giảm, kể cả khi đã thay keo viền.</p>\n<a class=\"button button-dark\" href=\"https://www.ifixit.com/Guide/iPhone+13+Loudspeaker+Replacement/146277\" target=\"_blank\" rel=\"noopener noreferrer\">Xem quy trình đầy đủ trên iFixit ↗</a>",
+    "sources": [
+      {
+        "title": "iFixit · Thay loa ngoài iPhone 13 · cập nhật 16/05/2023",
+        "url": "https://www.ifixit.com/Guide/iPhone+13+Loudspeaker+Replacement/146277"
+      },
+      {
+        "title": "Apple Support · Loa mất tiếng hoặc âm thanh bị méo · 30/03/2026",
+        "url": "https://support.apple.com/vi-vn/118432"
+      }
+    ]
+  },
+  {
     "id": "iphone-14-loa-thoai-nghe-nho-re",
     "type": "repair",
     "sourceSite": "iFixit",

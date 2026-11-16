@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title">
+<title id="title">Minh họa gốc MRSTUDY về kiểm tra loa ngoài iPhone 13</title>
+<rect width="960" height="540" fill="#0b1626"/>
+<rect x="74" y="65" width="228" height="399" rx="34" fill="#152e47" stroke="#74e6d1" stroke-width="5"/>
+<rect x="91" y="88" width="194" height="342" rx="22" fill="#091322"/>
+<path d="M137 256h19l13-30 20 53 17-39 12 16h24" fill="none" stroke="#74e6d1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M219 448h41m0 0h81" fill="none" stroke="#fac780" stroke-width="5" stroke-linecap="round"/>
+<circle cx="342" cy="448" r="6" fill="#fac780"/>
+<g font-family="system-ui,sans-serif" fill="#eff6ff">
+<text x="380" y="144" font-size="32" fill="#74e6d1">iPhone 13</text>
+<text x="380" y="209" font-size="50" font-weight="700">Thử loa ngoài</text>
+<text x="380" y="279" font-size="27">Nhạc chuông</text>
+<text x="380" y="326" font-size="27">Video lưu trên máy</text>
+<text x="380" y="373" font-size="27">Cuộc gọi bật loa ngoài</text>
+<text x="380" y="456" font-size="23" fill="#fac780">Cạnh dưới · Minh họa MRSTUDY</text>
+</g></svg>
