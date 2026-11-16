@@ -1,6 +1,31 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-duo-bon-nang-cap-tin-don",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "iPhone · Tin đồn",
+    "title": "Tin đồn: Apple nhắm tới bốn nâng cấp cho iPhone Duo",
+    "description": "Face ID, nút Tác vụ, camera tele và thiết kế mỏng nhẹ hơn được nhắc đến cho các thế hệ sau.",
+    "date": "2026-11-15",
+    "sourceDate": "2026-11-15",
+    "readTime": 2,
+    "image": "./assets/editorial/iphone-duo-bon-nang-cap-tin-don.svg",
+    "imageAlt": "Minh họa gốc MRSTUDY về thiết bị gập, không mô tả thiết kế sản phẩm",
+    "tags": [
+      "iPhone Duo",
+      "Tin đồn",
+      "Face ID"
+    ],
+    "body": "<p>MacRumors ngày 15/11 dẫn lời Mark Gurman của Bloomberg về bốn mục tiêu Apple đang hướng tới cho các đời iPhone Duo sau: Face ID, nút Tác vụ, camera tele và thân máy mỏng, nhẹ hơn. Riêng Face ID, Gurman cho biết Apple đã thử nguyên mẫu iPhone Duo 2 có tính năng này trên màn hình ngoài. Việc hoàn thiện có thể không kịp cho thế hệ thứ hai, nên Face ID có khả năng phải chờ đến Duo 3. Camera tele là một mục tiêu đáng chú ý với người hay chụp chủ thể ở xa, còn thiết kế nhẹ hơn có thể giúp máy dễ cầm lâu. Đây là thông tin từ phóng viên, Apple chưa xác nhận cấu hình hay đời máy sẽ nhận từng thay đổi.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Joe Rossignol · 15/11/2026",
+        "url": "https://www.macrumors.com/2026/11/15/apple-aims-to-upgrade-iphone-duo-in-four-ways/"
+      }
+    ]
+  },
+  {
     "id": "iphone-13-loa-ngoai-re-mat-tieng",
     "type": "repair",
     "sourceSite": "iFixit",
