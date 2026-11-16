@@ -8,6 +8,52 @@ window.MRSTUDY_DATA = {
   ],
   articles:[
     {
+      "id": "ipad-man-hinh-phu-mac-sidecar",
+      "type": "knowledge",
+      "category": "iPad · MacBook",
+      "title": "Dùng iPad làm màn hình phụ cho MacBook với Sidecar",
+      "description": "Kiểm tra tương thích, mở rộng màn hình và xử lý khi MacBook không thấy iPad.",
+      "date": "2026-11-16",
+      "readTime": 3,
+      "image": "./assets/editorial/ipad-man-hinh-phu-mac-sidecar.svg",
+      "imageAlt": "Minh họa gốc MRSTUDY về Sidecar",
+      "tags": [
+        "iPad",
+        "MacBook",
+        "Sidecar"
+      ],
+      "sources": [
+        {
+          "title": "Apple Support · Sidecar · 14/09/2026",
+          "url": "https://support.apple.com/en-ca/102597"
+        }
+      ],
+      "body": "<p>Sidecar cho phép đưa cửa sổ macOS sang iPad để mở rộng chỗ làm việc hoặc hiển thị cùng một nội dung trên hai màn hình. Chẳng hạn, bạn có thể để bảng giá trên iPad trong lúc soạn báo giá trên MacBook.</p><h2>Kiểm tra máy trước khi kết nối</h2><p>Apple yêu cầu macOS Catalina 10.15 và iPadOS 13 trở lên cùng model được hỗ trợ. Với laptop Mac, danh sách bắt đầu từ MacBook Air 2018 và các dòng MacBook khác từ 2016. Phía iPad gồm mọi iPad Pro, iPad từ thế hệ 6, iPad mini từ thế hệ 5 và iPad Air từ thế hệ 3. Hai máy cần dùng cùng Tài khoản Apple có xác thực hai yếu tố.</p><h2>Mở màn hình phụ và chuyển cửa sổ</h2><p>Trên MacBook, mở Trung tâm điều khiển → Phản chiếu màn hình và chọn iPad. Khi hai máy đã kết nối, mở phần Màn hình trong cài đặt macOS để chọn mở rộng hoặc phản chiếu và sắp xếp vị trí màn hình. Kéo cửa sổ sang iPad hoặc chọn chuyển cửa sổ từ menu nút toàn màn hình của cửa sổ đó.</p><h2>Khi MacBook không thấy iPad</h2><p>Nếu dùng không dây, bật Wi-Fi, Bluetooth và Handoff trên cả hai máy, để chúng cách nhau trong phạm vi 10 m và tắt chia sẻ kết nối Internet. Có thể dùng cáp USB và xác nhận tin cậy Mac trên iPad. Khi cần thao tác trong ứng dụng iPad bằng bàn phím và bàn rê của Mac, tính năng phù hợp là Điều khiển chung (Universal Control).</p>"
+    },
+    {
+      "id": "iphone-airdrop-khong-thay-nguoi-nhan",
+      "type": "knowledge",
+      "category": "iPhone",
+      "title": "AirDrop trên iPhone không thấy người nhận: kiểm tra trong vài bước",
+      "description": "Cách kiểm tra chế độ nhận, kết nối và dùng mã AirDrop khi gửi cho người ngoài danh bạ.",
+      "date": "2026-11-16",
+      "readTime": 3,
+      "image": "./assets/editorial/iphone-airdrop-khong-thay-nguoi-nhan.svg",
+      "imageAlt": "Minh họa gốc MRSTUDY về AirDrop",
+      "tags": [
+        "iPhone",
+        "AirDrop",
+        "Chia sẻ tệp"
+      ],
+      "sources": [
+        {
+          "title": "Apple Support · AirDrop trên iPhone và iPad · 05/10/2026",
+          "url": "https://support.apple.com/en-is/119857"
+        }
+      ],
+      "body": "<p>Khi gửi ảnh bằng AirDrop, máy nhận có thể biến mất khỏi danh sách nếu đang tắt nhận, một trong hai máy tắt Wi-Fi hoặc Bluetooth, hoặc đang bật Điểm truy cập cá nhân. Đặt hai máy gần nhau, bật Wi-Fi và Bluetooth trên cả hai, rồi ngắt Điểm truy cập cá nhân nếu đang dùng.</p><h2>Kiểm tra chế độ nhận</h2><p>Trên máy nhận, mở Trung tâm điều khiển, nhấn giữ cụm nút kết nối rồi chọn AirDrop. Nếu hai bên đã lưu liên hệ, thử chế độ Chỉ danh bạ. Khi gửi cho người chưa lưu trong danh bạ, người nhận có thể bật Mọi người trong 10 phút. Trên máy gửi, mở ảnh hoặc tệp, chọn Chia sẻ → AirDrop và kiểm tra tên máy hoặc tên người nhận trước khi bấm.</p><h2>Nếu iPhone hỏi mã AirDrop</h2><p>Theo Apple, khi hai iPhone chạy iOS 26.2 trở lên và gửi cho người ngoài danh bạ, máy có thể yêu cầu mã AirDrop. Người nhận chọn lấy mã trên thiết bị của họ rồi đưa mã cho người gửi nhập. Sau đó hai bên có thể chia sẻ lại mà không cần mã mới trong tối đa 30 ngày. Có thể bỏ trạng thái đã biết của người đó sớm hơn trong Danh bạ.</p><h2>Thử lại bằng một tệp nhỏ</h2><p>Gửi một ảnh trước để xác nhận cả hai máy hoạt động. Khi xong, người nhận có thể chuyển về Chỉ danh bạ hoặc Tắt nhận ngay. Từ iOS 16.2, chế độ Mọi người tự hết hiệu lực sau 10 phút và trở về Chỉ danh bạ nếu đã đăng nhập Tài khoản Apple, hoặc Tắt nhận nếu chưa đăng nhập.</p>"
+    },
+    {
       "id": "ipad-doc-tinh-trang-pin",
       "type": "knowledge",
       "category": "iPad",
