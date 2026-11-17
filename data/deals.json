@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T03:02:48Z",
+  "updatedAt": "2026-11-17T07:02:23Z",
   "items": [
     {
       "id": "deal-1574131062-download",
@@ -582,6 +582,56 @@
       ],
       "icon": "./assets/deals/6760980619-icon.jpg",
       "image": "./assets/deals/6760980619-screen.jpg"
+    },
+    {
+      "id": "deal-1140451547-download",
+      "topicDate": "2026-11-17",
+      "name": "Shot Tracer",
+      "kind": "download",
+      "summary": "Chỉnh video golf và vẽ đường bay của bóng, có công cụ chỉnh dấu vết thủ công để làm clip luyện tập hoặc chia sẻ. Hợp với người chơi golf muốn xem lại cú đánh. Cần iOS hoặc iPadOS 18 trở lên.",
+      "sourceUrl": "https://appdrop.rs/en/deal/shot-tracer-1140451547",
+      "checkedAt": "2026-11-17T07:02:23Z",
+      "regions": [
+        {
+          "code": "vn",
+          "name": "Việt Nam",
+          "url": "https://apps.apple.com/vn/app/shot-tracer/id1140451547?uo=4",
+          "downloadPrice": 0,
+          "currency": "VND",
+          "checkedAt": "2026-11-17T07:02:23Z"
+        },
+        {
+          "code": "us",
+          "name": "Mỹ",
+          "url": "https://apps.apple.com/us/app/shot-tracer/id1140451547?uo=4",
+          "downloadPrice": 0,
+          "currency": "USD",
+          "checkedAt": "2026-11-17T07:02:23Z"
+        }
+      ],
+      "icon": "./assets/deals/1140451547-icon.jpg",
+      "image": "./assets/deals/1140451547-screen.jpg"
+    },
+    {
+      "id": "deal-6504294358-download",
+      "topicDate": "2026-11-17",
+      "name": "Baba Piano",
+      "kind": "download",
+      "summary": "Đàn ảo cho trẻ làm quen với nốt nhạc và từ tiếng Anh. Bé có thể nhìn nốt hiện trên khuông nhạc đơn giản hoặc dùng các phím có chữ để ghép từ rồi mở hình minh họa. Cần iOS hoặc iPadOS 15 trở lên.",
+      "sourceUrl": "https://appdrop.rs/en/deal/baba-piano-msic-spelling-6504294358",
+      "checkedAt": "2026-11-17T07:02:23Z",
+      "regions": [
+        {
+          "code": "us",
+          "name": "Mỹ",
+          "url": "https://apps.apple.com/us/app/baba-piano-music-spelling/id6504294358?uo=4",
+          "downloadPrice": 0,
+          "currency": "USD",
+          "checkedAt": "2026-11-17T07:02:23Z"
+        }
+      ],
+      "icon": "./assets/deals/6504294358-icon.jpg",
+      "image": "./assets/deals/6504294358-screen.jpg"
     }
   ],
   "reportedOffers": [

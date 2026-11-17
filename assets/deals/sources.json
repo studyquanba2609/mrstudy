@@ -71,6 +71,26 @@
       ]
     }
   },
+  "1140451547": {
+    "icon": {
+      "path": "./assets/deals/1140451547-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/af/d2/5aafd2e0-6b52-9df8-1468-f5e206cb3db2/AppIcon_ShotTracer-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
+      "size": 36406,
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "screen": {
+      "path": "./assets/deals/1140451547-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/3d/92/c13d92c1-2ae8-901c-5454-e65748a680f0/mzl.nbfglmss.jpg/392x696bb.jpg",
+      "size": 129253,
+      "dimensions": [
+        392,
+        696
+      ]
+    }
+  },
   "1237470522": {
     "icon": {
       "path": "./assets/deals/1237470522-icon.jpg",
@@ -372,6 +392,26 @@
       "dimensions": [
         800,
         500
+      ]
+    }
+  },
+  "6504294358": {
+    "icon": {
+      "path": "./assets/deals/6504294358-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/2c/41/a22c4151-5372-e752-cd91-742e2740ef18/PianoAppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "size": 55895,
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "screen": {
+      "path": "./assets/deals/6504294358-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/67/fc/a967fc96-76a4-4862-6f76-12c0ae117682/iPhone_6.9_U0022_Display_-_Apple_iPhone_12_6.1-inch_-_Screenshot2.png/320x480bb.jpg",
+      "size": 16997,
+      "dimensions": [
+        320,
+        147
       ]
     }
   }

@@ -1,6 +1,35 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "ios-27-3-beta-gioi-han-siri-ai-icloud",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "iPhone · iOS beta",
+    "title": "iOS 27.3 beta thử hạn mức Siri AI theo ngày",
+    "description": "Hạn mức áp dụng cho một số tác vụ xử lý trên máy chủ. Gói iCloud+ từ 200 GB có thể tăng lượt dùng.",
+    "date": "2026-11-16",
+    "sourceDate": "2026-11-16",
+    "readTime": 2,
+    "image": "./assets/editorial/ios-27-3-beta-gioi-han-siri-ai-icloud.svg",
+    "imageAlt": "Minh họa gốc MRSTUDY về hạn mức Siri AI theo ngày",
+    "tags": [
+      "iOS 27.3",
+      "Siri AI",
+      "iCloud+"
+    ],
+    "body": "<p>MacRumors ngày 16/11 cho biết Apple đang thử hạn mức theo ngày trên iOS 27.3 beta cho một số tính năng Siri AI và Apple Intelligence xử lý trên máy chủ. Hạn mức miễn phí tính theo từng thiết bị. Yêu cầu Siri nhiều bước, một số công cụ tạo hoặc chỉnh ảnh và tác vụ Phím tắt dùng AI đám mây có thể chạm hạn mức. Các lệnh Siri cơ bản như đặt hẹn giờ vẫn dùng được. Theo Apple, gói iCloud+ 200 GB có thể nâng mức dùng lên tối đa gấp đôi, còn gói 2 TB lên tối đa gấp năm. Gói 50 GB không tăng hạn mức. Đây là chính sách đang được thử nghiệm trên beta.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Juli Clover · 16/11/2026",
+        "url": "https://www.macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade/"
+      },
+      {
+        "title": "Apple Support · iCloud+ với Apple Intelligence và Siri AI",
+        "url": "https://support.apple.com/en-us/127901"
+      }
+    ]
+  },
+  {
     "id": "ios-27-3-beta-2-iphone-duo",
     "type": "news",
     "sourceSite": "MacRumors",
