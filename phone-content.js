@@ -1,6 +1,31 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "ios-27-3-beta-2-iphone-duo",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "iPhone · iOS beta",
+    "title": "iOS 27.3 beta 2 thử mở khóa iPhone Duo bằng camera ngoài",
+    "description": "iPhone Duo có thêm tùy chọn khóa khi gập. Lịch đổi vị trí nút và Siri AI có thể đọc cả trang web.",
+    "date": "2026-11-16",
+    "sourceDate": "2026-11-16",
+    "readTime": 2,
+    "image": "./assets/editorial/ios-27-3-beta-2-iphone-duo.svg",
+    "imageAlt": "Minh họa gốc MRSTUDY về bản thử nghiệm iOS 27.3 beta 2",
+    "tags": [
+      "iPhone Duo",
+      "iOS 27.3",
+      "Beta"
+    ],
+    "body": "<p>MacRumors ngày 16/11 ghi nhận iOS 27.3 beta 2 bổ sung cách mở khóa iPhone Duo bằng camera trước khi máy đang gập. Tính năng chỉ dùng trên màn hình khóa và cần người dùng xác thực gần đây bằng Touch ID hoặc mật mã. Apple Pay và truy cập mật khẩu vẫn cần Touch ID. Bản thử nghiệm cũng thêm tùy chọn khóa máy ngay khi gập, thay vì chuyển nội dung đang xem sang màn hình ngoài. Với các ứng dụng, Lịch chuyển nút tìm kiếm và thêm sự kiện xuống dưới. Siri AI có thể trả lời câu hỏi về cả trang web, kể cả phần đang nằm ngoài màn hình. Các thay đổi này được ghi nhận trên beta và có thể khác khi Apple phát hành bản chính thức.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Juli Clover · 16/11/2026",
+        "url": "https://www.macrumors.com/2026/11/16/ios-27-3-beta-2-everything-new/"
+      }
+    ]
+  },
+  {
     "id": "iphone-14-camera-truoc-face-id-khong-hoat-dong",
     "type": "repair",
     "sourceSite": "iFixit",

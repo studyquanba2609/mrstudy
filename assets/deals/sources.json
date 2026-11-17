@@ -334,5 +334,45 @@
         480
       ]
     }
+  },
+  "6824686276": {
+    "icon": {
+      "path": "./assets/deals/6824686276-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/90/c9/cb90c9e5-e22b-7529-166d-81c9853a599a/AppIcon-0-0-1x_U007ephone-0-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "size": 19114,
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "screen": {
+      "path": "./assets/deals/6824686276-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/2f/cf/972fcf27-e6cc-60f9-ce21-7ebebdbc59ab/Frame_14.png/320x480bb.jpg",
+      "size": 34497,
+      "dimensions": [
+        221,
+        480
+      ]
+    }
+  },
+  "6760980619": {
+    "icon": {
+      "path": "./assets/deals/6760980619-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/5d/ee/815deea4-d315-bbc5-e340-1609b5e9ec10/AppIcon-0-0-85-220-0-5-0-2x.png/512x512bb.png",
+      "size": 22644,
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "screen": {
+      "path": "./assets/deals/6760980619-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/75/51/907551d3-78c1-e3d4-4a7a-ced9f1f31717/Screenshot_2026-04-29_at_01.01.32.png/800x500bb.jpg",
+      "size": 37648,
+      "dimensions": [
+        800,
+        500
+      ]
+    }
   }
 }
