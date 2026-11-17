@@ -8,6 +8,56 @@ window.MRSTUDY_DATA = {
   ],
   articles:[
     {
+      "id": "macbook-safe-mode-apple-silicon-intel",
+      "type": "knowledge",
+      "category": "MacBook",
+      "title": "MacBook bị treo khi đăng nhập: thử Chế độ an toàn",
+      "description": "Cách vào Safe Mode trên MacBook dùng chip Apple hoặc Intel và đọc kết quả để khoanh vùng lỗi.",
+      "date": "2026-11-17",
+      "readTime": 3,
+      "image": "./assets/editorial/macbook-safe-mode-apple-silicon-intel.svg",
+      "imageAlt": "Minh họa gốc MRSTUDY về Safe Mode",
+      "tags": [
+        "MacBook",
+        "macOS",
+        "Safe Mode"
+      ],
+      "sources": [
+        {
+          "title": "Apple · Khởi động Mac ở chế độ an toàn · đối chiếu 17/11/2026",
+          "url": "https://support.apple.com/en-ie/guide/mac-help/mh21245/27/mac/27"
+        }
+      ],
+      "body": "<p>Nếu MacBook hay treo ngay sau khi đăng nhập, thử lặp lại lỗi trong Chế độ an toàn (Safe Mode). Theo Apple, chế độ này giúp xác định vấn đề có liên quan đến phần mềm được nạp lúc khởi động hay không.</p><h2>Vào Safe Mode đúng theo dòng máy</h2><p>Mở menu Apple → Giới thiệu về máy Mac này. Nếu thông tin ghi <strong>Chip</strong> và tên chip Apple, hãy tắt máy hoàn toàn rồi giữ nút nguồn đến khi hiện tùy chọn khởi động. Chọn ổ khởi động, giữ Shift và bấm tiếp tục trong Chế độ an toàn. Nếu máy ghi <strong>Bộ xử lý Intel</strong>, bật hoặc khởi động lại máy rồi giữ Shift ngay đến màn hình đăng nhập. Máy Intel có thể yêu cầu đăng nhập hai lần.</p><h2>Thử lại và ghi kết quả</h2><p>Tìm chữ Safe Boot trên cửa sổ đăng nhập hoặc xem mục Chế độ khởi động ở phần Phần mềm trong Thông tin hệ thống. Thử lại đúng thao tác hay làm máy treo. Khởi động lại bình thường để thoát và thực hiện cùng phép thử. Nếu lỗi chỉ xuất hiện khi khởi động bình thường, MRSTUDY gợi ý kiểm tra lần lượt mục đăng nhập hoặc tiện ích mới cài để dễ xác định thay đổi nào ảnh hưởng. Nếu hai chế độ đều lỗi, kết quả này chưa đủ để kết luận hỏng phần cứng.</p>"
+    },
+    {
+      "id": "iphone-ipad-sao-luu-cuc-bo-ma-hoa",
+      "type": "knowledge",
+      "category": "iPhone · iPad",
+      "title": "Sao lưu iPhone và iPad trên máy tính: khi nào cần mã hóa?",
+      "description": "Giữ dữ liệu Sức khỏe, kiểm tra bản sao lưu và tránh mất quyền khôi phục vì quên mật khẩu.",
+      "date": "2026-11-17",
+      "readTime": 3,
+      "image": "./assets/editorial/iphone-ipad-sao-luu-cuc-bo-ma-hoa.svg",
+      "imageAlt": "Minh họa gốc MRSTUDY về Sao lưu mã hóa",
+      "tags": [
+        "iPhone",
+        "iPad",
+        "Sao lưu"
+      ],
+      "sources": [
+        {
+          "title": "Apple Support · Bản sao lưu mã hóa · đối chiếu 17/11/2026",
+          "url": "https://support.apple.com/en-gb/108353"
+        },
+        {
+          "title": "Apple Support · Sao lưu trên Windows · 15/09/2026",
+          "url": "https://support.apple.com/en-lb/108967"
+        }
+      ],
+      "body": "<p>Trước khi đổi máy hoặc gửi iPhone, iPad đi sửa, bạn có thể tạo một bản sao lưu trên máy tính. Theo Apple, bật mã hóa cho phép bản sao lưu chứa thêm dữ liệu như mật khẩu đã lưu, cài đặt Wi-Fi, lịch sử cuộc gọi và dữ liệu Sức khỏe. Khi khôi phục, bạn vẫn phải thiết lập lại Face ID, Touch ID và mật mã thiết bị.</p><h2>Tạo bản sao lưu có mật khẩu</h2><p>Kết nối thiết bị với máy tính, xác nhận tin cậy nếu được hỏi, rồi chọn thiết bị trong Finder trên Mac hoặc ứng dụng Apple Devices trên Windows. Bật <strong>Mã hóa bản sao lưu cục bộ</strong>, tạo mật khẩu và cất ở nơi an toàn, chẳng hạn trình quản lý mật khẩu. Kiểm tra hoặc bấm Sao lưu bây giờ nếu cần chạy sao lưu thủ công.</p><h2>Kiểm tra trước khi giao hoặc xóa máy</h2><p>Xem thời gian sao lưu mới nhất. Trong danh sách quản lý bản sao lưu, ổ khóa cạnh bản sao cho biết nó đã được mã hóa. Nếu quên mật khẩu sao lưu, bạn có thể đặt mật khẩu mới để tạo bản sao khác khi còn giữ thiết bị và dữ liệu. Mật khẩu mới không mở được bản mã hóa cũ. Trước khi xóa máy, MRSTUDY gợi ý kiểm tra đã lưu đúng mật khẩu của bản sao dự định dùng.</p>"
+    },
+    {
       "id": "ipad-man-hinh-phu-mac-sidecar",
       "type": "knowledge",
       "category": "iPad · MacBook",
