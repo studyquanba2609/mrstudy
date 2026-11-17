@@ -1,6 +1,36 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-14-camera-truoc-face-id-khong-hoat-dong",
+    "type": "repair",
+    "sourceSite": "iFixit",
+    "category": "Hướng dẫn sửa chữa iPhone",
+    "title": "iPhone 14 mất Face ID hoặc camera trước: kiểm tra gì trước khi thay?",
+    "description": "Thử camera selfie và Face ID riêng, xác định khi nào cần kiểm tra cụm TrueDepth và hậu kiểm sau sửa.",
+    "date": "2026-11-17",
+    "sourceDate": "2026-07-20",
+    "readTime": 3,
+    "image": "./assets/editorial/iphone-14-camera-truoc-face-id-khong-hoat-dong.svg",
+    "imageAlt": "Minh họa gốc MRSTUDY về kiểm tra camera trước và Face ID trên iPhone 14",
+    "tags": [
+      "iPhone 14",
+      "Camera trước",
+      "Face ID",
+      "TrueDepth"
+    ],
+    "body": "<p>Trên iPhone 14 bản thường, camera selfie và phần cứng Face ID nằm trong cùng một cụm. Nếu máy vẫn chụp selfie được nhưng không nhận khuôn mặt, hãy thử cả hai chức năng riêng để mô tả chính xác lỗi trước khi sửa.</p>\n<h2>Thử trước khi mở máy</h2>\n<p>Mở ứng dụng Camera, chuyển sang camera trước, chụp một ảnh và quay một đoạn ngắn. Với Face ID, lau nhẹ vùng tai thỏ, tháo ốp hoặc miếng dán nếu che cảm biến, rồi thử với mắt, mũi và miệng không bị che. Kiểm tra Face ID đã bật cho mở khóa iPhone, khởi động lại và nhập mật mã trước khi thử nhận diện. Nếu chỉ một ứng dụng bị lỗi camera, thử bằng Camera mặc định để khoanh vùng.</p>\n<h2>Khi nào cần kiểm tra cụm TrueDepth?</h2>\n<p>Nếu máy vẫn báo Face ID không khả dụng, không hoàn tất thiết lập, hoặc đồng thời mất hình camera trước sau khi rơi hay vào nước, hãy ghi lại triệu chứng và mang máy đi kiểm tra. Kỹ thuật viên cần đánh giá cụm camera, cáp và đầu nối trước khi kết luận phải thay cả cụm. Sao lưu dữ liệu nếu máy còn hoạt động ổn định. Tắt nguồn trước khi tháo và dừng nếu nghi pin phồng hoặc hư hỏng. Apple lưu ý việc can thiệp sai vào hệ thống laser TrueDepth có thể gây hại cho mắt hoặc da, nên phần này cần người đã được đào tạo.</p>\n<h2>Hậu kiểm sau sửa</h2>\n<p>Theo iFixit, từ iOS 18 có thể dùng Trợ lý sửa chữa để hiệu chỉnh cụm camera trước mới, chính hãng khi đáp ứng điều kiện của Apple. Hãy hỏi trước cách hoàn tất hiệu chỉnh và kiểm tra tại chỗ bằng ảnh, video camera trước, thiết lập Face ID và mở khóa vài lần. Nếu một chức năng vẫn lỗi, cần chẩn đoán tiếp. Việc thay keo sau khi mở máy không bảo đảm khôi phục mức kháng nước ban đầu.</p>\n<a class=\"button button-dark\" href=\"https://www.ifixit.com/Guide/iPhone+14+Front+Camera+Assembly+Replacement/153350\" target=\"_blank\" rel=\"noopener noreferrer\">Xem quy trình đầy đủ trên iFixit ↗</a>",
+    "sources": [
+      {
+        "title": "iFixit · Thay cụm camera trước iPhone 14 · cập nhật 20/07/2026",
+        "url": "https://www.ifixit.com/Guide/iPhone+14+Front+Camera+Assembly+Replacement/153350"
+      },
+      {
+        "title": "Apple Support · Khi Face ID không hoạt động · 28/10/2026",
+        "url": "https://support.apple.com/vi-vn/118243"
+      }
+    ]
+  },
+  {
     "id": "iphone-duo-bon-nang-cap-tin-don",
     "type": "news",
     "sourceSite": "MacRumors",
