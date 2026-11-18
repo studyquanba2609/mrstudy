@@ -8,6 +8,57 @@ window.MRSTUDY_DATA = {
   ],
   articles:[
     {
+      "id": "ipad-usb-c-ket-noi-man-hinh-ngoai",
+      "type": "knowledge",
+      "category": "iPad",
+      "title": "Kết nối iPad USB-C với màn hình ngoài: chọn cáp và kiểm tra gì?",
+      "description": "Phân biệt đường kết nối USB-C và HDMI, thử khi màn hình chưa có hình và kiểm tra kiểu hiển thị.",
+      "date": "2026-11-18",
+      "readTime": 3,
+      "image": "./assets/editorial/ipad-usb-c-ket-noi-man-hinh-ngoai.svg",
+      "imageAlt": "Minh họa gốc MRSTUDY về Màn hình ngoài",
+      "tags": [
+        "iPad",
+        "USB-C",
+        "Màn hình ngoài"
+      ],
+      "sources": [
+        {
+          "title": "Apple Support · Cổng USB-C trên iPad · đối chiếu 18/11/2026",
+          "url": "https://support.apple.com/en-us/108894"
+        }
+      ],
+      "body": "<p>iPad có cổng USB-C có thể kết nối màn hình ngoài để trình chiếu, xem video hoặc làm việc trên không gian lớn hơn. Hãy bắt đầu bằng cổng nhận hình của màn hình và khả năng xuất hình của cáp, rồi mới chọn bộ chuyển đổi.</p><h2>Chọn đường kết nối</h2><p>Với màn hình USB-C hỗ trợ nhận video, dùng cáp phù hợp với truyền hình ảnh. Apple khuyên dùng cáp băng thông cao khi nối màn hình độ phân giải cao. Nếu màn hình hoặc TV dùng HDMI, cần bộ chuyển USB-C sang HDMI. Khả năng xuất hình và độ phân giải thực tế phụ thuộc model iPad, cáp, bộ chuyển và màn hình.</p><h2>Thử khi chưa thấy hình</h2><p>MRSTUDY gợi ý kiểm tra nguồn màn hình và chọn đúng đầu vào trước. Sau đó thử cắm trực tiếp với một cáp hoặc bộ chuyển đã biết hoạt động, giảm bớt hub trung gian để dễ xác định mắt xích có vấn đề. Một cáp sạc đang sạc được iPad chưa đủ chứng minh đường truyền hình ảnh hoạt động.</p><h2>Kiểm tra kiểu hiển thị</h2><p>Theo Apple, màn hình ngoài có thể phản chiếu nội dung trên iPad hoặc hiển thị nội dung riêng nếu ứng dụng hỗ trợ. Trước khi mua phụ kiện để làm việc nhiều cửa sổ, hãy đối chiếu khả năng màn hình ngoài của đúng model iPad và phiên bản iPadOS. Thử bằng chính ứng dụng bạn cần dùng, vì cách tận dụng màn hình phụ còn phụ thuộc ứng dụng.</p>"
+    },
+    {
+      "id": "macbook-o-ngoai-apfs-exfat",
+      "type": "knowledge",
+      "category": "MacBook",
+      "title": "Ổ ngoài dùng với MacBook: chọn APFS hay exFAT?",
+      "description": "Chọn định dạng theo thiết bị sẽ sử dụng, hiểu tùy chọn mã hóa và tránh mất dữ liệu khi định dạng lại.",
+      "date": "2026-11-18",
+      "readTime": 3,
+      "image": "./assets/editorial/macbook-o-ngoai-apfs-exfat.svg",
+      "imageAlt": "Minh họa gốc MRSTUDY về Ổ lưu trữ ngoài",
+      "tags": [
+        "MacBook",
+        "APFS",
+        "exFAT",
+        "Ổ ngoài"
+      ],
+      "sources": [
+        {
+          "title": "Apple · Các định dạng trong Tiện ích ổ đĩa · đối chiếu 18/11/2026",
+          "url": "https://support.apple.com/guide/disk-utility/file-system-formats-dsku19ed921c/22.7/mac/27"
+        },
+        {
+          "title": "Apple · Định dạng thiết bị lưu trữ ngoài · đối chiếu 18/11/2026",
+          "url": "https://support.apple.com/en-asia/guide/disk-utility/dsku365552c7/mac"
+        }
+      ],
+      "body": "<p>Khi chọn ổ ngoài cho MacBook, hãy xác định bạn sẽ cắm ổ vào những thiết bị nào. Cùng một SSD hoặc USB có thể được định dạng theo nhiều cách, và lựa chọn này ảnh hưởng đến khả năng dùng chung cũng như các tính năng lưu trữ.</p><h2>APFS cho hệ thống Mac phù hợp</h2><p>Apple hỗ trợ APFS từ macOS 10.13, tối ưu cho bộ nhớ flash và SSD, đồng thời dùng được trên ổ cứng truyền thống. Trong Tiện ích ổ đĩa có APFS thông thường, APFS mã hóa và các biến thể phân biệt chữ hoa, chữ thường. Hãy chọn theo nhu cầu bảo vệ dữ liệu và yêu cầu phần mềm. Biến thể phân biệt hoa thường coi hai tên thư mục như Homework và HOMEWORK là khác nhau.</p><h2>exFAT để dùng chung với Windows</h2><p>Apple liệt kê exFAT trong nhóm định dạng tương thích Windows và hướng dẫn dùng cho ổ dung lượng trên 32 GB khi định dạng để dùng với Windows. MRSTUDY gợi ý cân nhắc exFAT nếu thường xuyên chuyển tài liệu giữa Mac và PC, rồi thử mở một tệp trên cả hai máy trước khi đưa ổ vào công việc.</p><h2>Chuẩn bị trước khi định dạng</h2><p>Thao tác Xóa trong Tiện ích ổ đĩa sẽ xóa dữ liệu trên phần được chọn. Sao chép tệp cần giữ sang nơi khác và kiểm tra bản sao trước. Trong Xem → Hiển thị tất cả thiết bị, đối chiếu tên, dung lượng và vị trí ổ để chọn đúng thiết bị. Sau khi định dạng, chép thử một tệp và đọc lại trên máy dự định sử dụng.</p>"
+    },
+    {
       "id": "macbook-safe-mode-apple-silicon-intel",
       "type": "knowledge",
       "category": "MacBook",
