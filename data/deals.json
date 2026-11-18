@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T07:02:23Z",
+  "updatedAt": "2026-11-18T03:06:35Z",
   "items": [
     {
       "id": "deal-1574131062-download",
@@ -632,6 +632,35 @@
       ],
       "icon": "./assets/deals/6504294358-icon.jpg",
       "image": "./assets/deals/6504294358-screen.jpg"
+    },
+    {
+      "id": "deal-6756066102-download",
+      "topicDate": "2026-11-18",
+      "name": "Skispor",
+      "kind": "download",
+      "summary": "Bản đồ đường trượt tuyết ở Na Uy và Thụy Điển, hiển thị thời gian đường được xử lý gần nhất và thông tin từng đoạn. Có ghi chuyến đi hoặc nhập tệp GPX, TCX, FIT từ đồng hồ. Phù hợp khi chuẩn bị chuyến trượt tuyết tại khu vực này. Cần iOS hoặc iPadOS 17 trở lên.",
+      "sourceUrl": "https://appdrop.rs/en/deal/skispor-6756066102",
+      "checkedAt": "2026-11-18T03:06:35Z",
+      "regions": [
+        {
+          "code": "vn",
+          "name": "Việt Nam",
+          "url": "https://apps.apple.com/vn/app/skispor/id6756066102?uo=4",
+          "downloadPrice": 0,
+          "currency": "VND",
+          "checkedAt": "2026-11-18T03:06:35Z"
+        },
+        {
+          "code": "us",
+          "name": "Mỹ",
+          "url": "https://apps.apple.com/us/app/skispor/id6756066102?uo=4",
+          "downloadPrice": 0,
+          "currency": "USD",
+          "checkedAt": "2026-11-18T03:06:35Z"
+        }
+      ],
+      "icon": "./assets/deals/6756066102-icon.jpg",
+      "image": "./assets/deals/6756066102-screen.jpg"
     }
   ],
   "reportedOffers": [

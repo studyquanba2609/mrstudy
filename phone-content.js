@@ -1,6 +1,31 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-20-pro-mau-kinh-bao-ve-tin-don",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "iPhone · Tin đồn",
+    "title": "Mẫu kính bảo vệ gợi ý thiết kế cong của iPhone 20 Pro",
+    "description": "MacRumors cho rằng mẫu kính có thể là thử nghiệm dựa trên tin đồn; thiết kế và tên máy chưa được Apple xác nhận.",
+    "date": "2026-11-17",
+    "sourceDate": "2026-11-17",
+    "readTime": 2,
+    "image": "./assets/editorial/iphone-20-pro-mau-kinh-bao-ve-tin-don.svg",
+    "imageAlt": "Minh họa gốc MRSTUDY về mép kính cong, không mô tả sản phẩm đã công bố",
+    "tags": [
+      "iPhone 20 Pro",
+      "Màn hình",
+      "Tin đồn"
+    ],
+    "body": "<p>MacRumors ngày 17/11 đưa tin về các mẫu kính bảo vệ được chia sẻ trực tuyến, gợi ý hướng thiết kế bo cong bốn cạnh cho mẫu iPhone kỷ niệm 20 năm. Video do tài khoản Ice Universe đăng cho thấy góc bo và viền hẹp, phù hợp với một số tin đồn trước đó. Tuy nhiên, MacRumors nhận định đây có thể là thử nghiệm của nhà sản xuất phụ kiện dựa trên thông tin rò rỉ, chưa chắc theo kích thước cuối cùng của Apple. Nếu kính cong trở thành thiết kế thực tế, phụ kiện bảo vệ sẽ cần ôm sát đường cong hơn để vừa vặn. Dòng máy dự kiến xuất hiện mùa thu 2027; tên gọi iPhone 20 Pro vẫn chưa được xác nhận.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Hartley Charlton · 17/11/2026",
+        "url": "https://www.macrumors.com/2026/11/17/iphone-20-pro-screen-protectors-rumored-design/"
+      }
+    ]
+  },
+  {
     "id": "iphone-13-mat-rung-taptic-engine",
     "type": "repair",
     "sourceSite": "iFixit",
