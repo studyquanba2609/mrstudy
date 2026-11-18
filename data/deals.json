@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T03:06:35Z",
+  "updatedAt": "2026-11-18T07:02:10Z",
   "items": [
     {
       "id": "deal-1574131062-download",
@@ -661,6 +661,35 @@
       ],
       "icon": "./assets/deals/6756066102-icon.jpg",
       "image": "./assets/deals/6756066102-screen.jpg"
+    },
+    {
+      "id": "deal-6740195165-download",
+      "topicDate": "2026-11-18",
+      "name": "Pumli",
+      "kind": "download",
+      "summary": "Trợ lý AI để trò chuyện, hỏi về PDF, tóm tắt trang web và dịch văn bản. Có thể chọn mô hình chạy trên thiết bị tương thích hoặc dịch vụ trực tuyến, phù hợp khi làm việc với tài liệu trên iPhone, iPad. Miễn phí tải; tính năng và chi phí AI tùy dịch vụ, gói sử dụng. Cần iOS hoặc iPadOS 16.4 trở lên.",
+      "sourceUrl": "https://appdrop.rs/en/deal/pumli-your-private-agent-6740195165",
+      "checkedAt": "2026-11-18T07:02:10Z",
+      "regions": [
+        {
+          "code": "vn",
+          "name": "Việt Nam",
+          "url": "https://apps.apple.com/vn/app/pumli-your-private-agent/id6740195165?uo=4",
+          "downloadPrice": 0,
+          "currency": "VND",
+          "checkedAt": "2026-11-18T07:02:10Z"
+        },
+        {
+          "code": "us",
+          "name": "Mỹ",
+          "url": "https://apps.apple.com/us/app/pumli-your-private-agent/id6740195165?uo=4",
+          "downloadPrice": 0,
+          "currency": "USD",
+          "checkedAt": "2026-11-18T07:02:10Z"
+        }
+      ],
+      "icon": "./assets/deals/6740195165-icon.jpg",
+      "image": "./assets/deals/6740195165-screen.jpg"
     }
   ],
   "reportedOffers": [
