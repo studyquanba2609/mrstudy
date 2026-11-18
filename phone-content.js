@@ -1,6 +1,39 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-13-mat-rung-taptic-engine",
+    "type": "repair",
+    "sourceSite": "iFixit",
+    "category": "Hướng dẫn sửa chữa iPhone",
+    "title": "iPhone 13 mất rung: kiểm tra cài đặt trước khi thay Taptic Engine",
+    "description": "Thử mẫu rung, phân biệt lỗi ở một ứng dụng với mất rung toàn máy và kiểm tra lại sau sửa.",
+    "date": "2026-11-18",
+    "sourceDate": "2023-05-16",
+    "readTime": 3,
+    "image": "./assets/editorial/iphone-13-mat-rung-taptic-engine.svg",
+    "imageAlt": "Minh họa gốc MRSTUDY về phản hồi rung trên iPhone 13",
+    "tags": [
+      "iPhone 13",
+      "Mất rung",
+      "Taptic Engine"
+    ],
+    "body": "<p>iPhone 13 vẫn đổ chuông nhưng không rung có thể do cài đặt, chế độ phản hồi của từng thông báo hoặc lỗi phần cứng. Nếu mất rung sau cú rơi hoặc sau lần mở máy, hãy ghi lại thời điểm xuất hiện để kỹ thuật viên có thêm căn cứ kiểm tra.</p>\n<h2>Thử mẫu rung trước</h2>\n<p>Mở Cài đặt → Trợ năng → Cảm ứng và kiểm tra mục Rung đang bật. Sau đó vào Âm thanh &amp; Cảm ứng, chọn Nhạc chuông rồi mở phần Cảm ứng hoặc Rung tùy phiên bản iOS. Chạm một mẫu để thử trực tiếp. Nếu máy rung ở đây nhưng một ứng dụng không báo rung, hãy kiểm tra thông báo của ứng dụng đó. Phản hồi bàn phím và phản hồi hệ thống có cài đặt riêng, nên cần ghi rõ chức năng nào bị mất.</p>\n<h2>Khi cần kiểm tra linh kiện</h2>\n<p>Nếu các mẫu đều không rung dù đã bật cài đặt và khởi động lại, nên kiểm tra phần cứng. Nhờ kỹ thuật viên đánh giá cụm Taptic Engine và đường kết nối trước khi quyết định thay; một triệu chứng chưa đủ kết luận hỏng cụm rung. Sao lưu dữ liệu khi máy còn hoạt động ổn định và chọn đúng linh kiện cho iPhone 13 bản thường.</p>\n<h2>Chuẩn bị và giới hạn sửa chữa</h2>\n<p>Quy trình iFixit yêu cầu mở màn hình, ngắt kết nối và thao tác với cáp của cụm rung. Cần hạ pin dưới 25%, tắt nguồn và tránh làm tổn thương pin. Nếu pin phồng hoặc hư hỏng, hãy dừng và để người có chuyên môn xử lý. Cáp Taptic Engine mỏng, dễ rách khi kéo hoặc xoắn. Cũng cần bảo vệ cáp màn hình và cảm biến trước, giữ nguyên linh kiện liên quan Face ID. Chuẩn bị keo viền mới; khả năng kháng nước có thể suy giảm sau khi mở máy.</p>\n<h2>Thử lại khi nhận máy</h2>\n<p>Chọn lại đúng mẫu rung đã dùng lúc đầu, thử cuộc gọi đến và các phản hồi thường sử dụng. Kiểm tra cảm ứng, màn hình và Face ID sau khi lắp lại. Nếu thay cụm mà máy vẫn mất rung, cần chẩn đoán tiếp đường điều khiển. Bài này tóm tắt cách khoanh vùng và hậu kiểm; các thao tác tháo lắp đầy đủ nằm trong hướng dẫn dưới đây.</p>\n<a class=\"button button-dark\" href=\"https://www.ifixit.com/Guide/iPhone+13+Taptic+Engine+Replacement/146281\" target=\"_blank\" rel=\"noopener noreferrer\">Xem quy trình đầy đủ trên iFixit ↗</a>",
+    "sources": [
+      {
+        "title": "iFixit · Thay Taptic Engine iPhone 13 · cập nhật 16/05/2023",
+        "url": "https://www.ifixit.com/Guide/iPhone+13+Taptic+Engine+Replacement/146281"
+      },
+      {
+        "title": "Apple · Âm thanh và rung trên iPhone · đối chiếu 18/11/2026",
+        "url": "https://support.apple.com/guide/iphone/change-sounds-and-vibrations-iph07c867f28/27/ios/27"
+      },
+      {
+        "title": "Apple · Bật hoặc tắt rung toàn máy · đối chiếu 18/11/2026",
+        "url": "https://support.apple.com/en-mide/guide/iphone/iphd722c9100/ios"
+      }
+    ]
+  },
+  {
     "id": "ios-27-3-beta-gioi-han-siri-ai-icloud",
     "type": "news",
     "sourceSite": "MacRumors",
