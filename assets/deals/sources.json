@@ -143,6 +143,26 @@
       ]
     }
   },
+  "1581068279": {
+    "icon": {
+      "path": "./assets/deals/1581068279-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/46/e7/db46e791-5ed8-5af2-9e0b-9e8d0d0e4e30/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "size": 85999,
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "screen": {
+      "path": "./assets/deals/1581068279-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/0b/e6/17/0be6177c-3e89-bb8e-de6a-6c565c642aeb/dabe03d0-7d3e-490d-a43c-6453ed7d10ee_E-Screen-i6-00.jpg/392x696bb.jpg",
+      "size": 47973,
+      "dimensions": [
+        392,
+        696
+      ]
+    }
+  },
   "6761135453": {
     "icon": {
       "path": "./assets/deals/6761135453-icon.jpg",

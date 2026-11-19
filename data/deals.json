@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T07:02:10Z",
+  "updatedAt": "2026-11-19T03:01:54Z",
   "items": [
     {
       "id": "deal-1574131062-download",
@@ -690,6 +690,35 @@
       ],
       "icon": "./assets/deals/6740195165-icon.jpg",
       "image": "./assets/deals/6740195165-screen.jpg"
+    },
+    {
+      "id": "deal-1581068279-download",
+      "topicDate": "2026-11-19",
+      "name": "Evolution Planet - 14 Billion",
+      "kind": "download",
+      "summary": "Mô phỏng hệ hành tinh với tùy chỉnh kích thước, hình dạng và tốc độ quỹ đạo. Có thể đổi trục quay, thêm vành đai hoặc vệ tinh, rồi lưu các hệ đã tạo. Hợp với người thích khám phá và thiết kế mô hình hành tinh. Cần iOS hoặc iPadOS 16.6 trở lên.",
+      "sourceUrl": "https://appdrop.rs/en/deal/evolution-planet-14-billion-1581068279",
+      "checkedAt": "2026-11-19T03:01:54Z",
+      "regions": [
+        {
+          "code": "vn",
+          "name": "Việt Nam",
+          "url": "https://apps.apple.com/vn/app/evolution-planet-14-billion/id1581068279?uo=4",
+          "downloadPrice": 0,
+          "currency": "VND",
+          "checkedAt": "2026-11-19T03:01:54Z"
+        },
+        {
+          "code": "us",
+          "name": "Mỹ",
+          "url": "https://apps.apple.com/us/app/evolution-planet-14-billion/id1581068279?uo=4",
+          "downloadPrice": 0,
+          "currency": "USD",
+          "checkedAt": "2026-11-19T03:01:54Z"
+        }
+      ],
+      "icon": "./assets/deals/1581068279-icon.jpg",
+      "image": "./assets/deals/1581068279-screen.jpg"
     }
   ],
   "reportedOffers": [

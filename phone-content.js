@@ -1,6 +1,31 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "instagram-luu-nhac-apple-music",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "iPhone · Ứng dụng",
+    "title": "Instagram thêm nút lưu bài hát vào Apple Music",
+    "description": "Bài hát từ bài đăng hoặc Story có thể được lưu vào playlist Instagram Songs sau khi liên kết tài khoản.",
+    "date": "2026-11-18",
+    "sourceDate": "2026-11-18",
+    "readTime": 2,
+    "image": "./assets/editorial/instagram-luu-nhac-apple-music.svg",
+    "imageAlt": "Minh họa gốc MRSTUDY về chuyển bài hát từ Instagram sang thư viện nhạc",
+    "tags": [
+      "iPhone",
+      "Instagram",
+      "Apple Music"
+    ],
+    "body": "<p>MacRumors ngày 18/11 ghi nhận Instagram đã bổ sung khả năng lưu bài hát sang Apple Music trong một đến hai tuần gần đây. Khi chạm liên kết bài hát trong bài đăng hoặc Story, người dùng có thể thấy lời mời liên kết tài khoản Apple Music. Sau khi kết nối, nút Add to Apple Music cho phép lưu bài đang nghe. Các bài được gom vào playlist Instagram Songs trong phần Thư viện của ứng dụng Nhạc. Tính năng giúp giữ lại nhạc bắt gặp khi lướt Instagram để nghe lại sau. Trước đó, Instagram đã hỗ trợ chia sẻ nhạc Apple Music vào Story và tin nhắn trực tiếp, nhưng chưa có chiều lưu ngược như thay đổi lần này.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Juli Clover · 18/11/2026",
+        "url": "https://www.macrumors.com/2026/11/18/apple-music-instagram-playlist/"
+      }
+    ]
+  },
+  {
     "id": "iphone-14-sac-khong-day-duoc-khong-nhan-lightning",
     "type": "repair",
     "sourceSite": "Apple Support",
