@@ -1,6 +1,39 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-14-sac-khong-day-duoc-khong-nhan-lightning",
+    "type": "repair",
+    "sourceSite": "Apple Support",
+    "category": "Hướng dẫn sửa chữa iPhone",
+    "title": "iPhone 14 sạc không dây được nhưng không nhận cáp Lightning",
+    "description": "Đổi từng phụ kiện, thử riêng hai đường sạc và xác định khi nào cần kiểm tra cổng Lightning.",
+    "date": "2026-11-19",
+    "sourceDate": "2026-11-04",
+    "readTime": 3,
+    "image": "./assets/editorial/iphone-14-sac-khong-day-duoc-khong-nhan-lightning.svg",
+    "imageAlt": "Minh họa gốc MRSTUDY về thử riêng sạc Lightning và sạc không dây trên iPhone 14",
+    "tags": [
+      "iPhone 14",
+      "Lightning",
+      "Sạc không vào"
+    ],
+    "body": "<p>Với iPhone 14 bản thường, sạc không dây vẫn hoạt động nhưng cắm Lightning không nhận là dấu hiệu cần kiểm tra đường sạc có dây. Cáp, bộ nguồn, bụi trong cổng hoặc đầu nối hư hỏng đều cần được xem xét.</p>\n<h2>Đổi từng phụ kiện để so sánh</h2>\n<p>Dùng cáp Lightning tương thích và bộ nguồn đã biết hoạt động, cắm trực tiếp vào ổ điện. Thay lần lượt cáp rồi bộ nguồn, thử cả hai chiều đầu Lightning. Nếu lỗi chỉ đi theo một cáp, hãy xử lý phụ kiện đó trước. Tránh tiếp tục dùng cáp rách, đầu cắm biến dạng hoặc bộ nguồn hỏng.</p>\n<h2>Thử riêng sạc có dây và không dây</h2>\n<p>Rút cáp khỏi iPhone trước khi đặt máy lên đế sạc không dây. Quan sát biểu tượng sạc và mức pin qua một khoảng thời gian, thay vì chỉ dựa vào tiếng báo lúc kết nối. Theo Apple, khi cắm cả hai đường cùng lúc, máy ưu tiên đường có dây. Vì vậy, phép thử cần tách riêng để tránh kết quả gây nhầm.</p>\n<h2>Kiểm tra cổng và bảo vệ dữ liệu</h2>\n<p>Rút mọi cáp và tắt máy trước khi quan sát cổng dưới ánh sáng tốt. Nếu thấy bụi, Apple hướng dẫn dùng bàn chải nhỏ, phi kim, lông mềm, sạch và khô. Không dùng khí nén hoặc để chất lỏng lọt vào cổng. Khi có cảnh báo chất lỏng, ngừng thử sạc có dây. Nếu máy còn hoạt động ổn định, sao lưu dữ liệu trước khi giao sửa.</p>\n<h2>Khi nào cần mở máy?</h2>\n<p>Nếu nhiều bộ cáp, nguồn tốt đều không nhận nhưng sạc không dây vẫn được, nhờ kỹ thuật viên kiểm tra cổng Lightning và kết nối bên trong theo tài liệu đúng model. Kết quả này chưa xác định được linh kiện hỏng cụ thể. Khi mở máy phải tuân thủ an toàn pin, bảo vệ cáp và linh kiện liên quan Face ID.</p>\n<h2>Hậu kiểm</h2>\n<p>Sau xử lý, thử lại cả hai chiều Lightning, theo dõi pin tăng và thử riêng sạc không dây. Nếu lỗi còn, cần chẩn đoán tiếp. Phần tháo lắp và phép đo chuyên môn cần theo tài liệu sửa chữa đầy đủ.</p>\n<a class=\"button button-dark\" href=\"https://support.apple.com/en-us/101969\" target=\"_blank\" rel=\"noopener noreferrer\">Xem tài liệu chẩn đoán đầy đủ của Apple ↗</a>",
+    "sources": [
+      {
+        "title": "Apple Support · Chẩn đoán pin, sạc và nguồn · 04/11/2026",
+        "url": "https://support.apple.com/en-us/101969"
+      },
+      {
+        "title": "Apple Support · Sổ tay iPhone 14 · 12/01/2026",
+        "url": "https://support.apple.com/en-us/100308"
+      },
+      {
+        "title": "Apple Support · iPhone không nhận sạc · 12/12/2025",
+        "url": "https://support.apple.com/en-gb/108805"
+      }
+    ]
+  },
+  {
     "id": "iphone-20-pro-mau-kinh-bao-ve-tin-don",
     "type": "news",
     "sourceSite": "MacRumors",
