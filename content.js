@@ -8,6 +8,52 @@ window.MRSTUDY_DATA = {
   ],
   articles:[
     {
+      "id": "iphone-bao-ve-thiet-bi-bi-danh-cap",
+      "type": "knowledge",
+      "category": "iPhone",
+      "title": "Bảo vệ thiết bị bị đánh cắp trên iPhone: bật và hiểu thời gian chờ",
+      "description": "Kiểm tra lớp bảo vệ bổ sung cho mật khẩu và thay đổi tài khoản khi iPhone bị mất cắp.",
+      "date": "2026-11-19",
+      "readTime": 2,
+      "image": "./assets/editorial/iphone-bao-ve-thiet-bi-bi-danh-cap.svg",
+      "imageAlt": "Minh họa gốc MRSTUDY về Thiết bị bị đánh cắp",
+      "tags": [
+        "iPhone",
+        "Bảo mật",
+        "Tài khoản Apple"
+      ],
+      "sources": [
+        {
+          "title": "Apple Support · Bảo vệ thiết bị bị đánh cắp · đối chiếu 19/11/2026",
+          "url": "https://support.apple.com/en-az/120340"
+        }
+      ],
+      "body": "<p>Bảo vệ thiết bị bị đánh cắp bổ sung xác thực sinh trắc học cho một số thao tác nhạy cảm, giúp bảo vệ tài khoản cả khi người lấy máy biết mật mã.</p><h2>Bật và kiểm tra</h2><p>Vào Cài đặt → Face ID &amp; Mật mã → Bảo vệ thiết bị bị đánh cắp. Theo Apple, cần xác thực hai yếu tố, mật mã thiết bị, Face ID hoặc Touch ID, Vị trí quan trọng và Tìm.</p><h2>Vì sao máy yêu cầu chờ?</h2><p>Một số thao tác như đổi mật khẩu Tài khoản Apple có thể yêu cầu xác thực, chờ một giờ rồi xác thực lại. Một số thao tác khác chỉ chấp nhận Face ID hoặc Touch ID. Mặc định, bảo vệ bổ sung áp dụng ngoài địa điểm quen thuộc; có thể chọn Luôn luôn để áp dụng ở mọi nơi.</p><h2>Trước khi cần thay đổi tài khoản</h2><p>MRSTUDY gợi ý kiểm tra tùy chọn này từ lúc máy còn trong tay. Nếu xuất hiện thời gian chờ, hãy đọc thao tác đang được bảo vệ và làm theo thông báo.</p>"
+    },
+    {
+      "id": "macbook-dung-sac-80-phan-tram",
+      "type": "knowledge",
+      "category": "MacBook",
+      "title": "MacBook dừng sạc quanh 80%: hiểu sạc tối ưu và giới hạn sạc",
+      "description": "Đọc trạng thái pin, kiểm tra hỗ trợ của máy và chọn sạc đầy khi cần mang MacBook ra ngoài.",
+      "date": "2026-11-19",
+      "readTime": 2,
+      "image": "./assets/editorial/macbook-dung-sac-80-phan-tram.svg",
+      "imageAlt": "Minh họa gốc MRSTUDY về Tối ưu và giới hạn",
+      "tags": [
+        "MacBook",
+        "Pin",
+        "Sạc tối ưu"
+      ],
+      "sources": [
+        {
+          "title": "Apple Support · Sạc tối ưu và giới hạn sạc trên Mac · 06/04/2026",
+          "url": "https://support.apple.com/en-mo/102338"
+        }
+      ],
+      "body": "<p>MacBook đang cắm nguồn nhưng dừng quanh 80% có thể do Sạc pin được tối ưu hóa. Tính năng học thói quen sử dụng để trì hoãn sạc vượt mức này khi dự đoán máy còn cắm nguồn lâu.</p><h2>Hai cách kiểm soát sạc</h2><p>Sạc tối ưu tự điều chỉnh theo thói quen. Giới hạn sạc cho phép chọn mức từ 80% đến 100%; theo Apple, tùy chọn này cần Mac dùng chip Apple và macOS Tahoe 26.4 trở lên. Máy có thể dừng trong khoảng vài phần trăm quanh mức đặt.</p><h2>Khi cần pin đầy</h2><p>Mở menu trạng thái pin và chọn Charge to Full Now khi tùy chọn xuất hiện. Trên máy hỗ trợ, vào Cài đặt hệ thống → Pin → nút thông tin cạnh Charging để xem giới hạn.</p><h2>Đọc trạng thái trước khi kết luận</h2><p>Mac thỉnh thoảng vẫn sạc lên 100% để duy trì ước tính mức pin chính xác. MRSTUDY gợi ý ghi lại thông báo pin và tùy chọn đang bật trước khi đánh giá hiện tượng dừng sạc.</p>"
+    },
+    {
       "id": "ipad-usb-c-ket-noi-man-hinh-ngoai",
       "type": "knowledge",
       "category": "iPad",
