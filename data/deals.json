@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T03:01:54Z",
+  "updatedAt": "2026-11-19T07:02:10Z",
   "items": [
     {
       "id": "deal-1574131062-download",
@@ -719,6 +719,56 @@
       ],
       "icon": "./assets/deals/1581068279-icon.jpg",
       "image": "./assets/deals/1581068279-screen.jpg"
+    },
+    {
+      "id": "deal-6748837351-download",
+      "topicDate": "2026-11-19",
+      "name": "Moment Pro Camera II",
+      "kind": "download",
+      "summary": "Ứng dụng camera cho người thích tùy chỉnh cách chụp. Có xử lý ảnh từ dữ liệu RAW, nhập LUT để tạo màu và lưu cấu hình chụp để gọi lại nhanh. Phù hợp với người muốn chủ động giao diện và màu ảnh trên iPhone. Cần iOS 18.4 trở lên.",
+      "sourceUrl": "https://appdrop.rs/en/deal/moment-pro-camera-ii-6748837351",
+      "checkedAt": "2026-11-19T07:02:10Z",
+      "regions": [
+        {
+          "code": "vn",
+          "name": "Việt Nam",
+          "url": "https://apps.apple.com/vn/app/moment-pro-camera-ii/id6748837351?uo=4",
+          "downloadPrice": 0,
+          "currency": "VND",
+          "checkedAt": "2026-11-19T07:02:10Z"
+        }
+      ],
+      "icon": "./assets/deals/6748837351-icon.jpg",
+      "image": "./assets/deals/6748837351-screen.jpg"
+    },
+    {
+      "id": "deal-6770079462-download",
+      "topicDate": "2026-11-19",
+      "name": "AuraRead",
+      "kind": "download",
+      "summary": "Đọc sách và tài liệu lưu trên thiết bị với các định dạng như EPUB, TXT, MOBI và PDF. Có đọc thành tiếng, tô sáng từng câu và chỉnh tốc độ đọc; thư viện hỗ trợ phân loại bằng thẻ và thư mục. Hợp với người đọc sách ngoại tuyến. Cần iOS hoặc iPadOS 17 trở lên.",
+      "sourceUrl": "https://appdrop.rs/en/deal/auraread-local-novel-reader-6770079462",
+      "checkedAt": "2026-11-19T07:02:10Z",
+      "regions": [
+        {
+          "code": "vn",
+          "name": "Việt Nam",
+          "url": "https://apps.apple.com/vn/app/auraread-local-novel-reader/id6770079462?uo=4",
+          "downloadPrice": 0,
+          "currency": "VND",
+          "checkedAt": "2026-11-19T07:02:10Z"
+        },
+        {
+          "code": "us",
+          "name": "Mỹ",
+          "url": "https://apps.apple.com/us/app/auraread-local-novel-reader/id6770079462?uo=4",
+          "downloadPrice": 0,
+          "currency": "USD",
+          "checkedAt": "2026-11-19T07:02:10Z"
+        }
+      ],
+      "icon": "./assets/deals/6770079462-icon.jpg",
+      "image": "./assets/deals/6770079462-screen.jpg"
     }
   ],
   "reportedOffers": [
