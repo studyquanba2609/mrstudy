@@ -1,6 +1,45 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-13-khong-co-sim-kiem-tra-khay",
+    "type": "repair",
+    "sourceSite": "Apple Support",
+    "category": "Sửa chữa · SIM và sóng",
+    "title": "iPhone 13 báo Không có SIM: kiểm tra thẻ và khay SIM",
+    "description": "Khoanh vùng lỗi thẻ SIM, khay lắp sai hoặc hư hỏng trước khi quyết định sửa phần cứng trên iPhone 13.",
+    "date": "2026-11-20",
+    "sourceDate": "2026-10-08",
+    "readTime": 3,
+    "image": "./assets/editorial/iphone-13-khong-co-sim-kiem-tra-khay.svg",
+    "imageAlt": "Minh họa gốc MRSTUDY: iPhone 13, thẻ và khay SIM; không phải ảnh tháo máy",
+    "tags": [
+      "iPhone 13",
+      "SIM",
+      "khay SIM",
+      "Không có SIM",
+      "sửa chữa"
+    ],
+    "body": "<p>iPhone 13 hiện “Không có SIM” hoặc “SIM không hợp lệ”, đôi khi nhận lại sau khi lắp thẻ, cần kiểm tra đường nhận SIM trước khi kết luận lỗi bo mạch. Bài này dành cho iPhone 13 dùng SIM vật lý; lỗi eSIM cần nhà mạng hỗ trợ riêng.</p>\n<h2>Triệu chứng và nguyên nhân khả dĩ</h2><p>Ghi lại thông báo chính xác và thời điểm xuất hiện. SIM chưa được nhà mạng cho phép sử dụng, thẻ cần thay, khay sai model hoặc biến dạng đều là hướng cần loại trừ. “SIM bị khóa” có thể liên quan mã PIN; không đoán mã. Cảnh báo trên màn hình chưa xác định được linh kiện hỏng.</p>\n<h2>Kiểm tra trước khi tháo khay</h2><p>Xác nhận thuê bao còn hoạt động, khởi động lại máy rồi mở Cài đặt → Cài đặt chung → Giới thiệu để nhận cập nhật nhà mạng nếu có. Nếu máy khóa mạng, đối chiếu SIM với nhà mạng được hỗ trợ; xử lý mở khóa qua nhà mạng, không dùng thủ thuật vượt khóa.</p>\n<h2>Kiểm tra khay đúng cách</h2><p>Khay SIM iPhone 13 nằm cạnh trái. Dùng que lấy SIM vào đúng lỗ cạnh khay, đẩy vào nhẹ nhàng; khay kẹt thì dừng và nhờ nơi sửa chữa hỗ trợ, không cố cạy. Quan sát khay có cong, nứt hoặc sai loại không. Đặt thẻ theo góc khuyết, nằm phẳng trong khay và lắp đúng chiều đến khi kín; không lấy khay model khác để thử ép vừa.</p>\n<h2>Xử lý theo kết quả</h2><p>Thử một SIM khác đang hoạt động, tương thích nhà mạng; có thể nhờ điểm giao dịch thử và cấp lại SIM. Khay hỏng hoặc không đúng model cần thay khay phù hợp. Nếu vẫn báo lỗi sau các kiểm tra này, chuyển kỹ thuật viên kiểm tra bên trong theo tài liệu đúng iPhone 13. Thay khay không bảo đảm chữa mọi lỗi; chưa có chẩn đoán thì chưa thể chỉ định sửa bo mạch.</p>\n<h2>Hậu kiểm và giới hạn an toàn</h2><p>Sau xử lý, kiểm tra máy nhận SIM ổn định, thử gọi đến/gọi đi và dữ liệu di động khi tắt Wi‑Fi; ghi lại nếu lỗi tái diễn. Đây là danh sách hậu kiểm MRSTUDY đề xuất. Sao lưu dữ liệu trước khi giao sửa. Bài không hướng dẫn mở máy: công việc bên trong cần dụng cụ, quy trình bảo vệ pin và cáp, cụm TrueDepth/Face ID. Không tiếp tục tự thao tác nếu máy có dấu hiệu pin phồng hoặc hư hỏng vật lý.</p><p>Minh họa do MRSTUDY tự vẽ, không phải ảnh tháo máy. Tài liệu chẩn đoán Apple đăng 08/10/2026; hai tài liệu SIM bên dưới lần lượt ngày 17/12/2025 và 10/03/2026.</p><a class=\"button button-dark\" href=\"https://support.apple.com/en-am/101970\" target=\"_blank\" rel=\"noopener noreferrer\">Xem tài liệu chẩn đoán đầy đủ của Apple ↗</a>",
+    "sources": [
+      {
+        "title": "Apple Support · Chẩn đoán lỗi cơ khí, mục SIM · 08/10/2026",
+        "url": "https://support.apple.com/en-am/101970"
+      },
+      {
+        "title": "Apple Support · Invalid SIM hoặc No SIM · 17/12/2025",
+        "url": "https://support.apple.com/en-vn/108914"
+      },
+      {
+        "title": "Apple Support · Tháo hoặc đổi SIM, có iPhone 13 · 10/03/2026",
+        "url": "https://support.apple.com/en-vn/109357"
+      },
+      {
+        "title": "Apple Support · Tài liệu sửa chữa iPhone 13 · 12/01/2026",
+        "url": "https://support.apple.com/en-am/100402"
+      }
+    ]
+  },
+  {
     "id": "instagram-luu-nhac-apple-music",
     "type": "news",
     "sourceSite": "MacRumors",
