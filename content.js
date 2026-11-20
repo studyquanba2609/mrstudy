@@ -7,6 +7,66 @@ window.MRSTUDY_DATA = {
     { id:'vlc', name:'VLC media player', category:'photo', categoryLabel:'Ảnh & video', description:'Xem video, nghe nhạc và mở nhiều định dạng mà không cần chuyển đổi.', icon:'./assets/vlc.png', platforms:'iPhone · iPad · Apple TV', price:0, iap:false, limited:false, checkedDate:'2026-11-02', url:'https://apps.apple.com/vn/app/vlc-media-player/id650377962?l=vi', developer:'VideoLAN', details:'VLC là trình phát đa phương tiện mã nguồn mở của VideoLAN. Theo mô tả trên App Store, ứng dụng phát được nhiều định dạng video và âm thanh, có hỗ trợ phụ đề và chia sẻ tệp qua Wi-Fi.', tips:['Mở video từ ứng dụng Tệp bằng menu chia sẻ.','Kiểm tra tên tệp phụ đề nếu phụ đề chưa được nhận diện.','Điều chỉnh tốc độ phát theo nhu cầu xem hoặc nghe của bạn.'] }
   ],
   articles:[
+{
+  "id": "ipad-go-bo-va-xoa-ung-dung",
+  "type": "knowledge",
+  "category": "iPad",
+  "title": "iPad gần đầy bộ nhớ: phân biệt Gỡ bỏ và Xóa ứng dụng",
+  "description": "Chọn đúng thao tác để giải phóng dung lượng và tránh xóa nhầm tài liệu đang cần.",
+  "date": "2026-11-20",
+  "readTime": 3,
+  "image": "./assets/editorial/ipad-go-bo-va-xoa-ung-dung.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về ứng dụng và dữ liệu trên iPad, không phải ảnh chụp giao diện",
+  "tags": [
+    "iPad",
+    "Dung lượng",
+    "Dữ liệu",
+    "iPadOS"
+  ],
+  "sources": [
+    {
+      "title": "Apple Support · Kiểm tra dung lượng iPhone và iPad · đối chiếu 20/11/2026",
+      "url": "https://support.apple.com/vi-vn/108429"
+    },
+    {
+      "title": "Apple · Quản lý dung lượng iPad, iPadOS 27 · đối chiếu 20/11/2026",
+      "url": "https://support.apple.com/vi-vn/guide/ipad/ipadf1f1b3f3/27/ipados/27"
+    },
+    {
+      "title": "Apple · Gỡ hoặc xóa ứng dụng khỏi iPad · đối chiếu 20/11/2026",
+      "url": "https://support.apple.com/vi-vn/guide/ipad/ipad0aed1df8/27/ipados/27"
+    }
+  ],
+  "body": "<p>Khi iPad báo gần hết dung lượng, hãy mở Cài đặt → Cài đặt chung → Dung lượng iPad, rồi chạm ứng dụng chiếm nhiều chỗ. Cần phân biệt phần ứng dụng với tài liệu và dữ liệu bên trong trước khi chọn cách dọn.</p><h2>Hai thao tác, hai kết quả</h2><ul><li><strong>Gỡ bỏ ứng dụng:</strong> giải phóng phần dung lượng của ứng dụng, giữ tài liệu và dữ liệu liên quan trên máy.</li><li><strong>Xóa ứng dụng:</strong> xóa ứng dụng cùng dữ liệu liên quan. Đừng chọn khi chưa biết tài liệu đã được lưu ở đâu.</li></ul><p>Ví dụ minh họa MRSTUDY: nếu ứng dụng chiếm 1 GB nhưng tài liệu chiếm 8 GB, gỡ bỏ chỉ nhắm đến phần ứng dụng; không thể coi đó là cách giải phóng cả 9 GB.</p><h2>Khi nào nên gỡ tự động?</h2><p>Theo hướng dẫn iPadOS 27, vào Cài đặt → Ứng dụng → App Store → Gỡ bỏ ứng dụng không dùng. Khi máy thiếu dung lượng, iPad có thể gỡ app ít dùng; biểu tượng đám mây cho biết cần tải lại trước khi mở. Apple lưu ý việc cài lại ứng dụng đã tải trước đây phụ thuộc ứng dụng còn có trên App Store.</p><h2>Dọn theo nhu cầu thực tế</h2><p>Video tải để xem ngoại tuyến và tệp lưu trong ứng dụng cũng là chỗ có thể rà soát. MRSTUDY gợi ý xuất bản sao tài liệu quan trọng trước, dọn từng nhóm rồi kiểm tra lại dung lượng. Với app cần dùng khi không có mạng, nên cân nhắc trước khi bật gỡ tự động. Gỡ bỏ giữ dữ liệu trên máy, vì vậy vẫn cần một phương án sao lưu riêng.</p><p>Minh họa do MRSTUDY tự vẽ; các con số trong ví dụ không phải số đo từ thiết bị.</p>"
+},
+{
+  "id": "macbook-filevault-khoa-khoi-phuc",
+  "type": "knowledge",
+  "category": "MacBook",
+  "title": "FileVault trên MacBook: chuẩn bị khóa khôi phục trước khi bật",
+  "description": "Hiểu lớp bảo vệ dữ liệu, cách bật FileVault và phương án dự phòng khi quên mật khẩu đăng nhập.",
+  "date": "2026-11-20",
+  "readTime": 3,
+  "image": "./assets/editorial/macbook-filevault-khoa-khoi-phuc.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về MacBook và khóa khôi phục FileVault, không phải ảnh chụp giao diện",
+  "tags": [
+    "MacBook",
+    "FileVault",
+    "Bảo mật",
+    "Mật khẩu"
+  ],
+  "sources": [
+    {
+      "title": "Apple · Bảo vệ dữ liệu bằng FileVault, macOS 27 · đối chiếu 20/11/2026",
+      "url": "https://support.apple.com/vi-vn/guide/mac-help/mh11785/27/mac/27"
+    },
+    {
+      "title": "Apple · Tùy chọn khôi phục FileVault · đối chiếu 20/11/2026",
+      "url": "https://support.apple.com/vi-vn/guide/mac-help/mh35881/mac"
+    }
+  ],
+  "body": "<p>MacBook thường mang theo tài liệu cá nhân và công việc. Theo Apple, máy dùng Apple silicon hoặc chip T2 đã mã hóa dữ liệu tự động; bật FileVault bổ sung yêu cầu mật khẩu đăng nhập để bảo vệ quyền truy cập dữ liệu. Với Mac không có hai loại chip này, cần bật FileVault để mã hóa dữ liệu.</p><h2>Kiểm tra và bật ở đâu?</h2><p>Trong hướng dẫn macOS 27, mở menu Apple → Cài đặt hệ thống → Quyền riêng tư &amp; Bảo mật → FileVault. Cần quyền quản trị viên để thiết lập; làm theo yêu cầu mật khẩu và chọn phương án khôi phục mà máy hiển thị.</p><h2>Chọn cách dự phòng</h2><ul><li><strong>Tài khoản Apple dùng cho iCloud:</strong> nếu đã chọn phương án này, tài khoản có thể hỗ trợ đặt lại mật khẩu đăng nhập khi quên.</li><li><strong>Khóa khôi phục riêng:</strong> lưu chính xác chuỗi chữ và số ở nơi an toàn ngoài ổ khởi động đã mã hóa. Đừng giữ bản duy nhất ngay trong chiếc MacBook cần mở khóa.</li></ul><p>Máy do công ty hoặc trường học quản lý có thể dùng thiết lập FileVault của tổ chức. Khi cần mở khóa dữ liệu hoặc đặt lại mật khẩu, hãy liên hệ quản trị viên thay vì tự thay đổi chính sách.</p><h2>Đừng bỏ qua nguy cơ mất quyền truy cập</h2><p>Apple cảnh báo: nếu quên mật khẩu, không thể đặt lại, đồng thời mất khóa khôi phục thì có thể mất vĩnh viễn quyền truy cập tệp và cài đặt. MRSTUDY gợi ý chuẩn bị bản sao lưu, xác định rõ phương án khôi phục và kiểm tra nơi cất khóa trước khi bật. Không gửi mật khẩu hoặc khóa cho người lạ.</p><p>FileVault bảo vệ dữ liệu trên ổ đĩa; vẫn nên duy trì sao lưu độc lập cho trường hợp hỏng máy hoặc xóa nhầm. Minh họa trong bài do MRSTUDY tự vẽ, không chứa khóa khôi phục thật.</p>"
+},
     {
       "id": "iphone-bao-ve-thiet-bi-bi-danh-cap",
       "type": "knowledge",
