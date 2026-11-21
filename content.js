@@ -8,6 +8,59 @@ window.MRSTUDY_DATA = {
   ],
   articles:[
 {
+  "id": "iphone-quyen-phu-kien-co-day",
+  "type": "knowledge",
+  "category": "iPhone",
+  "title": "iPhone chưa nhận phụ kiện có dây: kiểm tra quyền kết nối",
+  "description": "Hiểu vì sao cần mở khóa máy trước khi kết nối phụ kiện và chọn mức phê duyệt phù hợp.",
+  "date": "2026-11-21",
+  "sourceDate": "2025-10-24",
+  "readTime": 2,
+  "image": "./assets/editorial/iphone-quyen-phu-kien-co-day.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về mở khóa iPhone và quyền phụ kiện có dây, không phải ảnh giao diện",
+  "tags": [
+    "iPhone",
+    "USB-C",
+    "Lightning",
+    "Bảo mật"
+  ],
+  "sources": [
+    {
+      "title": "Apple Support · Cho phép phụ kiện kết nối · 24/10/2025",
+      "url": "https://support.apple.com/vi-vn/111806"
+    }
+  ],
+  "body": "<p>Theo Apple, mặc định iPhone cần được mở khóa trước khi kết nối phụ kiện hoặc máy tính. Nếu chưa nhận, hãy rút phụ kiện, mở khóa máy rồi cắm lại.</p><h2>Xem quyền ở đâu?</h2><p>Vào Cài đặt → Quyền riêng tư &amp; bảo mật → Phụ kiện có dây. USB-C có thêm lựa chọn hỏi mỗi lần hoặc hỏi với phụ kiện mới; Lightning có tùy chọn cho phép khi mở khóa và luôn cho phép. Hãy đọc lựa chọn thực tế trên máy.</p><h2>Phân biệt kết nối và sạc</h2><p>Apple cho biết máy có thể không giao tiếp hoặc không sạc từ phụ kiện khi chưa mở khóa. Tuy nhiên, sạc bằng bộ chuyển đổi điện USB vẫn hoạt động khi máy khóa. Với phụ kiện lưu trữ, luôn cần mở khóa trước khi sử dụng.</p><h2>Chọn quyền theo nhu cầu</h2><p>MRSTUDY gợi ý thử mở khóa và cắm lại trước, tránh đổi sang Luôn cho phép chỉ để thử cho nhanh. Nếu máy thuộc tổ chức, quyền phụ kiện có thể do quản trị viên kiểm soát; hãy liên hệ người quản lý.</p><p>Quyền kết nối chỉ là một yếu tố. Nên ghi lại model, cáp và thông báo đang thấy nếu vẫn lỗi, để việc kiểm tra tiếp có căn cứ. Minh họa do MRSTUDY tự vẽ.</p>"
+},
+{
+  "id": "ipad-truy-cap-duoc-huong-dan",
+  "type": "knowledge",
+  "category": "iPad",
+  "title": "Cho mượn iPad trong một ứng dụng với Truy cập được hướng dẫn",
+  "description": "Giới hạn tạm thời một ứng dụng, vùng chạm và thời gian sử dụng; chuẩn bị cách kết thúc phiên trước khi cho mượn.",
+  "date": "2026-11-21",
+  "readTime": 3,
+  "image": "./assets/editorial/ipad-truy-cap-duoc-huong-dan.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về iPad giới hạn trong một ứng dụng, không phải ảnh chụp giao diện",
+  "tags": [
+    "iPad",
+    "Trợ năng",
+    "Truy cập được hướng dẫn",
+    "iPadOS"
+  ],
+  "sources": [
+    {
+      "title": "Apple Support · Truy cập được hướng dẫn · đối chiếu 21/11/2026",
+      "url": "https://support.apple.com/vi-vn/111795"
+    },
+    {
+      "title": "Apple · Giới hạn iPad trong một ứng dụng · đối chiếu 21/11/2026",
+      "url": "https://support.apple.com/en-ca/guide/ipad/ipada16d1374/ipados"
+    }
+  ],
+  "body": "<p>Truy cập được hướng dẫn tạm giữ iPad trong một ứng dụng, phù hợp khi cho trẻ xem nội dung hoặc cần tập trung. Bạn có thể giới hạn vùng chạm, nút bấm và thời gian dùng.</p><h2>Thiết lập trước khi cho mượn</h2><p>Vào Cài đặt → Trợ năng → Truy cập được hướng dẫn. Bật tính năng, đặt mật mã riêng cho phiên; có thể cho phép Face ID hoặc Touch ID để kết thúc. Mở ứng dụng cần dùng rồi gọi Truy cập được hướng dẫn bằng phím tắt trợ năng.</p><h2>Chọn phần được phép dùng</h2><p>Khoanh vùng màn hình muốn vô hiệu hóa. Trong Cài đặt phiên, kiểm tra các tùy chọn Chạm, Chuyển động, Bàn phím ảo, nút âm lượng và giới hạn thời gian, rồi bắt đầu. Tắt Chạm khiến toàn màn hình bỏ qua thao tác chạm.</p><h2>Kết thúc đúng cách</h2><p>Theo tài liệu hỗ trợ Apple hiện hành, bấm ba lần nút nguồn trên iPad, hoặc nút Home nếu máy có nút này; với iPadOS 18 trở về trước, phần kết thúc hướng dẫn bấm hai lần. Xác thực bằng mật mã phiên hoặc sinh trắc học đã bật, chọn Truy cập được hướng dẫn nếu có bảng phím tắt, rồi chạm Kết thúc.</p><h2>Giới hạn cần nhớ</h2><p>Apple cảnh báo Phát hiện va chạm và Dịch vụ khẩn cấp không khả dụng trong phiên; cần kết thúc để sử dụng các chức năng đó trên thiết bị hỗ trợ. MRSTUDY gợi ý thử cả bắt đầu và kết thúc khi máy còn trong tay, rồi mới cho mượn. Khi gặp vùng không nhận chạm trong phiên, kiểm tra vùng đã khóa trước khi nghĩ đến lỗi cảm ứng. Minh họa do MRSTUDY tự vẽ.</p>"
+},
+{
   "id": "ipad-go-bo-va-xoa-ung-dung",
   "type": "knowledge",
   "category": "iPad",
