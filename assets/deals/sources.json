@@ -554,5 +554,25 @@
         480
       ]
     }
+  },
+  "6760128799": {
+    "icon": {
+      "path": "./assets/deals/6760128799-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/f4/79/4ef479aa-58f3-1baf-da91-199aa8812c85/VideoUpscalerIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "size": 45209,
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "screen": {
+      "path": "./assets/deals/6760128799-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/a0/71/e8a071d9-c6bf-0a36-4394-184491f2215e/1.png/320x480bb.jpg",
+      "size": 37992,
+      "dimensions": [
+        221,
+        480
+      ]
+    }
   }
 }
