@@ -1,6 +1,32 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-air-2-iphone-18-mo-hinh-tin-don",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "Tin iPhone · Tin đồn",
+    "title": "Mô hình rò rỉ gợi ý iPhone Air 2 có hai camera sau",
+    "description": "Ảnh mô hình do Sonny Dickson chia sẻ gợi ý thay đổi cụm camera trên iPhone Air 2; thiết kế chưa được Apple xác nhận.",
+    "date": "2026-11-20",
+    "sourceDate": "2026-11-20",
+    "readTime": 2,
+    "image": "./assets/editorial/iphone-air-2-iphone-18-mo-hinh-tin-don.svg",
+    "imageAlt": "Minh họa gốc MRSTUDY về tin đồn thiết kế iPhone Air 2 và iPhone 18; không phải ảnh sản phẩm",
+    "tags": [
+      "iPhone Air 2",
+      "iPhone 18",
+      "Tin đồn",
+      "Camera"
+    ],
+    "body": "<p>MacRumors ngày 20/11 dẫn ảnh mô hình do Sonny Dickson chia sẻ, gợi ý iPhone Air 2 chuyển sang hai camera sau. Hai ống kính nằm ngang trên phần gờ trải rộng ở lưng máy; mô hình iPhone 18 tiêu chuẩn vẫn có hai camera xếp dọc, gần với kiểu dáng iPhone 17.</p><p>Đây là mô hình không hoạt động, thường được làm từ kích thước và thông tin thiết kế rò rỉ để phục vụ phát triển phụ kiện. Hình ảnh chưa xác nhận cấu hình hoặc thiết kế thương mại cuối cùng. MacRumors cho biết hai máy được kỳ vọng xuất hiện khoảng tháng 3/2027 cùng iPhone 18e. Thời điểm này cũng thuộc nhóm thông tin chưa được Apple công bố chính thức.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Hartley Charlton · 20/11/2026",
+        "url": "https://www.macrumors.com/2026/11/20/iphone-air-2-and-iphone-18-dummy-models/"
+      }
+    ]
+  },
+  {
     "id": "iphone-14-cam-bien-tiem-can-khi-goi",
     "type": "repair",
     "sourceSite": "Apple Support",

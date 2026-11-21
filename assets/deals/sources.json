@@ -514,5 +514,45 @@
         480
       ]
     }
+  },
+  "6757822808": {
+    "icon": {
+      "path": "./assets/deals/6757822808-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/22/8b/eb228bf3-6132-d5ad-ff64-e6c256f76b88/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "size": 36785,
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "screen": {
+      "path": "./assets/deals/6757822808-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/02/cf/5102cf38-65fe-067e-e81d-11b136273930/Toodl_Timer-4.png/320x480bb.jpg",
+      "size": 24647,
+      "dimensions": [
+        222,
+        480
+      ]
+    }
+  },
+  "1356504527": {
+    "icon": {
+      "path": "./assets/deals/1356504527-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/5b/b9/405bb959-e9e8-5f40-0786-b038ef286c70/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "size": 22654,
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    "screen": {
+      "path": "./assets/deals/1356504527-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/3a/5d/9e3a5d0f-a6a2-3854-305e-ab275ee44d75/d508c528-51b8-4936-950b-7185bb776fd2_iphone-pro-1.jpg/320x480bb.jpg",
+      "size": 21885,
+      "dimensions": [
+        221,
+        480
+      ]
+    }
   }
 }
