@@ -1,6 +1,41 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-14-cam-bien-tiem-can-khi-goi",
+    "type": "repair",
+    "sourceSite": "Apple Support",
+    "category": "Sửa chữa · Cảm biến và màn hình",
+    "title": "iPhone 14 không tắt màn hình khi áp tai: kiểm tra cảm biến tiệm cận",
+    "description": "Khoanh vùng lỗi màn hình vẫn sáng khi nghe gọi hoặc tắt ngay lúc gọi, trước khi quyết định thay linh kiện.",
+    "date": "2026-11-21",
+    "sourceDate": "2026-10-29",
+    "readTime": 3,
+    "image": "./assets/editorial/iphone-14-cam-bien-tiem-can-khi-goi.svg",
+    "imageAlt": "Minh họa gốc MRSTUDY về phản hồi màn hình khi che và bỏ che vùng cảm biến iPhone 14; không phải ảnh tháo máy",
+    "tags": [
+      "iPhone 14",
+      "Cảm biến tiệm cận",
+      "Nghe gọi",
+      "Màn hình",
+      "sửa chữa"
+    ],
+    "sources": [
+      {
+        "title": "Apple Support · Chẩn đoán lỗi hiển thị, mục cảm biến tiệm cận · 29/10/2026",
+        "url": "https://support.apple.com/en-us/101966"
+      },
+      {
+        "title": "Apple Support · Tài liệu sửa chữa iPhone 14 · 12/01/2026",
+        "url": "https://support.apple.com/en-hk/100308"
+      },
+      {
+        "title": "iFixit · Thay màn hình iPhone 14 · cập nhật 21/07/2026",
+        "url": "https://www.ifixit.com/Guide/iPhone+14+Screen+Replacement/152975"
+      }
+    ],
+    "body": "<p>iPhone 14 không tắt màn hình khi áp tai, hoặc tắt ngay lúc bắt đầu gọi, cần kiểm tra cảm biến tiệm cận. Biểu hiện này chưa đủ để chỉ định thay màn hình.</p>\n<h2>Kiểm tra bên ngoài trước</h2><p>Tháo ốp và miếng bảo vệ màn hình để loại trừ ảnh hưởng của phụ kiện. Rút cáp, tắt máy rồi lau màn hình bằng khăn mềm không xơ, hơi ẩm. Không để nước vào khe, không dùng khí nén, chất tẩy chứa thuốc tẩy hoặc hydrogen peroxide.</p>\n<h2>Thử phản hồi khi nghe gọi</h2><p>Nhận cuộc gọi, che phần trên màn hình: màn hình cần tắt; bỏ che: cần sáng lại. Phép thử Apple hướng dẫn giúp khoanh vùng, chưa xác định được linh kiện hỏng.</p>\n<h2>Nguyên nhân khả dĩ và hướng xử lý</h2><p>Nếu vẫn lỗi, kỹ thuật viên cần chẩn đoán cáp, đầu nối, bộ phận hỏng hoặc lệch vị trí theo tài liệu iPhone 14. Thay linh kiện chưa chắc giải quyết được nguyên nhân.</p>\n<h2>Giới hạn khi can thiệp phần cứng</h2><p>Hướng dẫn iFixit cho iPhone 14 cho thấy cụm cảm biến trước nằm phía sau màn hình. Mở máy có nguy cơ làm hỏng cáp và pin nếu dùng dụng cụ hoặc nhiệt sai cách; cần tắt nguồn trước tháo và chuẩn bị keo thay thế. Sau mở máy không được mặc định khả năng chống nước còn như ban đầu. Cần bảo vệ cụm TrueDepth/Face ID; không tự thay cụm này chỉ vì lỗi tắt màn hình khi gọi.</p>\n<h2>Hậu kiểm và dữ liệu</h2><p>MRSTUDY đề xuất sao lưu trước khi giao sửa. Sau xử lý, thử lại che/bỏ che trong cuộc gọi, kiểm tra cảm ứng, độ sáng tự động và Face ID. Với kỹ thuật viên, iFixit khuyến nghị thử chức năng trước khi dán kín, rồi tắt nguồn hoàn toàn nếu tiếp tục thao tác bên trong.</p><p>Bài là bản khoanh vùng lỗi, không thay thế quy trình tháo máy đầy đủ. Minh họa do MRSTUDY tự vẽ.</p><a class=\"button button-dark\" href=\"https://support.apple.com/en-us/101966\" target=\"_blank\" rel=\"noopener noreferrer\">Xem tài liệu chẩn đoán của Apple ↗</a>"
+  },
+  {
     "id": "iphone-13-khong-co-sim-kiem-tra-khay",
     "type": "repair",
     "sourceSite": "Apple Support",
