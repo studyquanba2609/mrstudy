@@ -1,6 +1,47 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "huong-dan-thay-pin-iphone-13",
+    "type": "repair",
+    "sourceSite": "iFixit",
+    "category": "Sửa chữa · Pin",
+    "title": "Thay pin iPhone 13: chẩn đoán trước sửa và hậu kiểm",
+    "description": "Pin tụt nhanh hoặc sập nguồn cần kiểm tra trước khi thay. Những lưu ý về an toàn, linh kiện và bàn giao dành riêng cho iPhone 13.",
+    "date": "2026-11-22",
+    "sourceDate": "2024-09-30",
+    "readTime": 3,
+    "image": "./assets/topics/battery.webp",
+    "imageAlt": "Pin bên trong iPhone 13 · ảnh iFixit",
+    "imageCredit": "Ảnh: iFixit · CC BY-NC-SA",
+    "imageSource": "https://www.ifixit.com/Guide/iPhone+13+Battery+Replacement/145896",
+    "tags": [
+      "iPhone 13",
+      "pin",
+      "thay pin",
+      "hậu kiểm",
+      "sửa chữa"
+    ],
+    "body": "<h2>Triệu chứng và nguyên nhân khả dĩ</h2><p>iPhone 13 phải sạc nhiều lần, tắt nguồn bất ngờ hoặc báo bảo trì pin nên được kiểm tra. Apple giải thích pin lão hóa giữ điện kém và có thể không cấp đủ công suất tức thời. Nhiệt độ thấp cũng có thể làm triệu chứng rõ hơn.</p><h2>Kiểm tra an toàn trước khi nhận sửa</h2><p>Mở Cài đặt → Pin để xem tình trạng pin và thông báo hiệu năng. Con số dung lượng không đủ kết luận mọi lỗi nguồn; nếu pin chưa được xác minh, thông tin sức khỏe pin có thể thiếu chính xác.</p><p>MRSTUDY đề nghị ghi lại thời điểm sập nguồn, mức pin và tác vụ đang dùng để trao đổi với kỹ thuật viên. Sao lưu dữ liệu khi máy còn hoạt động an toàn. Nếu nghi pin hỏng hoặc phồng, ngừng sử dụng và sạc; không ép màn hình, chọc pin hoặc cố xả pin bằng cách chạy máy.</p><h2>Phương án xử lý trên đúng model</h2><p>Nếu kiểm tra xác định pin suy giảm, trao đổi việc thay pin phù hợp iPhone 13 với cơ sở có kỹ thuật viên được đào tạo. Apple cảnh báo pin sai model hoặc hư hỏng có thể gây lỗi vận hành và nguy cơ an toàn.</p><p>Hướng dẫn iFixit cho iPhone 13 mở từ màn hình; việc mở máy ảnh hưởng lớp keo kín. Với pin bình thường, tài liệu yêu cầu hạ dưới 25% rồi tắt nguồn trước tháo. Pin phồng cần quy trình riêng. Chuẩn bị keo thay thế và bảo vệ cáp; đây không phải hướng dẫn tháo lắp đầy đủ.</p><h2>Hậu kiểm và giới hạn</h2><p>MRSTUDY đề nghị kiểm tra sạc, cảm ứng toàn màn, loa, camera và Face ID trước bàn giao; theo dõi lại hiện tượng sập nguồn. Mở Cài đặt → Cài đặt chung → Giới thiệu để xem lịch sử linh kiện và dịch vụ. Nhờ cơ sở sửa giải thích thông báo pin và hoàn tất cấu hình nếu cần; không hứa mọi pin thay đều hiện chính hãng.</p><p>Thay pin không bảo đảm chữa hết lỗi nguồn hoặc khôi phục khả năng kháng nước ban đầu. Nếu lỗi còn, cần chẩn đoán tiếp trước khi thay thêm linh kiện.</p><a class=\"button button-dark\" href=\"https://www.ifixit.com/Guide/iPhone+13+Battery+Replacement/145896\" target=\"_blank\" rel=\"noopener noreferrer\">Xem quy trình iFixit đầy đủ ↗</a>",
+    "sources": [
+      {
+        "title": "iFixit · iPhone 13 Battery Replacement · cập nhật 30/09/2024",
+        "url": "https://www.ifixit.com/Guide/iPhone+13+Battery+Replacement/145896"
+      },
+      {
+        "title": "Apple Support · Pin và hiệu năng iPhone · 01/06/2026",
+        "url": "https://support.apple.com/en-us/101575"
+      },
+      {
+        "title": "Apple Support · Pin iPhone chính hãng · 22/10/2026",
+        "url": "https://support.apple.com/en-us/103269"
+      },
+      {
+        "title": "Apple · An toàn iPhone · tài liệu không ghi ngày, truy cập 22/11/2026",
+        "url": "https://support.apple.com/guide/iphone/important-safety-information-iph301fc905/ios"
+      }
+    ]
+  },
+  {
     "id": "iphone-air-2-iphone-18-mo-hinh-tin-don",
     "type": "news",
     "sourceSite": "MacRumors",
