@@ -1,6 +1,31 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "ios-27-3-public-beta-2-mo-thu-nghiem",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "Tin iPhone · Beta",
+    "title": "iOS 27.3 public beta 2 mở cho người dùng thử nghiệm",
+    "description": "Đợt phát hành ngày 19/11 mở rộng thử nghiệm iOS 27.3 qua chương trình beta công khai của Apple.",
+    "date": "2026-11-22",
+    "sourceDate": "2026-11-19",
+    "readTime": 1,
+    "image": "./assets/editorial/ios-27-3-beta-2-iphone-duo.svg",
+    "imageAlt": "Minh họa gốc MRSTUDY cho bản thử nghiệm iOS 27.3",
+    "tags": [
+      "iPhone",
+      "iOS 27.3",
+      "Public beta"
+    ],
+    "body": "<p>MacRumors ngày 19/11 cho biết Apple đã phát hành bản thử nghiệm công khai thứ hai của iOS 27.3. Người dùng đã đăng ký chương trình Apple Beta Software có thể kiểm tra bản cập nhật trong Cài đặt → Cài đặt chung → Cập nhật phần mềm.</p><p>Đợt thử nghiệm này mang đến cơ hội xem trước bố cục tab dọc và chế độ tối tùy theo trang web trong Safari. MacRumors cũng ghi nhận Apple đang thử giới hạn sử dụng một số tính năng Siri AI. Những thay đổi này vẫn có thể được điều chỉnh trước khi iOS 27.3 phát hành chính thức. Nếu iPhone là thiết bị chính cho công việc, MRSTUDY khuyên chờ bản ổn định.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Juli Clover · 19/11/2026",
+        "url": "https://www.macrumors.com/2026/11/19/ios-27-3-public-beta-2/"
+      }
+    ]
+  },
+  {
     "id": "huong-dan-thay-pin-iphone-13",
     "type": "repair",
     "sourceSite": "iFixit",
