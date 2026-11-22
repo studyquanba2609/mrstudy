@@ -8,6 +8,34 @@ window.MRSTUDY_DATA = {
   ],
   articles:[
 {
+  "id": "macbook-ung-dung-tu-mo-va-chay-nen",
+  "type": "knowledge",
+  "category": "MacBook",
+  "title": "MacBook: phân biệt ứng dụng tự mở và hoạt động chạy nền",
+  "description": "Chọn ứng dụng cần mở khi đăng nhập, hiểu vì sao thoát cửa sổ chưa chắc dừng mọi tác vụ và tránh tắt nhầm đồng bộ dữ liệu.",
+  "date": "2026-11-22",
+  "readTime": 3,
+  "image": "./assets/editorial/macbook-login-background.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về ứng dụng tự mở và hoạt động nền trên MacBook",
+  "tags": [
+    "MacBook",
+    "macOS",
+    "đăng nhập",
+    "chạy nền"
+  ],
+  "sources": [
+    {
+      "title": "Apple · Mở mục tự động khi đăng nhập Mac, macOS 27 · tài liệu không ghi ngày, đối chiếu 22/11/2026",
+      "url": "https://support.apple.com/en-ie/guide/mac-help/mh15189/27/mac/27"
+    },
+    {
+      "title": "Apple Support · Ứng dụng tiếp tục chạy nền sau khi thoát · 14/09/2026",
+      "url": "https://support.apple.com/en-us/125671"
+    }
+  ],
+  "body": "<p>Một ứng dụng xuất hiện mỗi lần đăng nhập và một ứng dụng tiếp tục đồng bộ sau khi thoát là hai hành vi cần xem riêng. Apple cho phép quản lý cả hai trong phần Mục đăng nhập &amp; Tiện ích mở rộng (Login Items &amp; Extensions).</p><h2>Chọn thứ cần mở khi đăng nhập</h2><p>Vào menu Apple → Cài đặt hệ thống → Cài đặt chung → Mục đăng nhập &amp; Tiện ích mở rộng. Trong danh sách mở khi đăng nhập, chọn mục không muốn tự mở rồi bấm dấu trừ. Đây là thay đổi danh sách tự mở, không phải thao tác gỡ ứng dụng. Danh sách còn có thể chứa tài liệu, thư mục hoặc kết nối máy chủ.</p><h2>Chạy nền có thể phục vụ việc gì?</h2><p>Theo Apple, ứng dụng có thể tiếp tục kiểm tra cập nhật hoặc đồng bộ dữ liệu sau khi thoát. Từ macOS 27, hệ thống có thông báo và dấu hiệu ở biểu tượng Dock cho hành vi này. Có thể Control-bấm biểu tượng rồi chọn dừng chạy nền; phần Background App Activity trong Cài đặt hệ thống quản lý quyền chạy nền về sau.</p><p>Tắt quyền có thể làm ứng dụng ngừng tự cập nhật hoặc đồng bộ. Nếu ứng dụng hoạt động sai sau thay đổi, Apple hướng dẫn bật lại quyền tại cùng vị trí. Tên mục có thể khác theo ngôn ngữ và phiên bản macOS.</p><h2>Cách thử gọn do MRSTUDY đề xuất</h2><p>Ghi lại lựa chọn ban đầu và chỉ đổi từng ứng dụng đã nhận diện rõ. Sau đó đăng nhập lại, mở ứng dụng và kiểm tra tệp đã đồng bộ. Tránh tắt hàng loạt chỉ vì thấy nhiều mục; nếu cần hoạt động nền để làm việc, hãy giữ quyền hoặc hỏi nhà phát triển.</p><p>Đây là cách quản lý cấu hình, không phải bằng chứng một ứng dụng gây chậm hay cam kết máy sẽ nhanh hơn. Minh họa do MRSTUDY tự vẽ, không phải ảnh chụp giao diện macOS.</p>"
+},
+{
   "id": "iphone-quyen-phu-kien-co-day",
   "type": "knowledge",
   "category": "iPhone",
