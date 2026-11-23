@@ -1,6 +1,32 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-duo-tin-don-them-widget-man-hinh-khoa",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "Tin iPhone · Tin đồn",
+    "title": "iPhone Duo có thể có thêm chỗ đặt widget trên màn hình khóa",
+    "description": "Một bố cục thử nghiệm đặt hai widget tròn dọc cạnh phải, đồng thời giữ hàng widget bên dưới.",
+    "date": "2026-11-23",
+    "sourceDate": "2026-11-22",
+    "readTime": 1,
+    "image": "./assets/editorial/ios-27-3-beta-2-iphone-duo.svg",
+    "imageAlt": "Minh họa gốc MRSTUDY về iPhone Duo",
+    "tags": [
+      "iPhone Duo",
+      "iOS",
+      "widget",
+      "tin đồn"
+    ],
+    "body": "<p>MacRumors ngày 22/11 đưa tin về bố cục màn hình khóa thử nghiệm trên iPhone Duo, dựa trên phát hiện của người rò rỉ có tên pdfu. Bố cục này đặt hai widget tròn dọc mép phải, phía trên cụm phím tắt. Theo nguồn tin, người dùng vẫn có thể giữ hàng widget bên dưới khi dùng cột mới.</p><p>Người phát hiện cho biết dấu vết của tính năng có từ iOS 27.1 và cột widget hiện chưa được bật. Nếu Apple đưa bố cục này vào bản phát hành, người dùng sẽ có thêm chỗ để xem thông tin ngay trên màn hình khóa. Apple chưa công bố tính năng hoặc lịch phát hành.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Hartley Charlton · 22/11/2026",
+        "url": "https://www.macrumors.com/2026/11/22/iphone-duo-could-get-more-lock-screen-widgets/"
+      }
+    ]
+  },
+  {
     "id": "iphone-18-18e-tin-don-lich-ra-mat-dau-2027",
     "type": "news",
     "sourceSite": "MacRumors",
