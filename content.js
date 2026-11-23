@@ -8,6 +8,57 @@ window.MRSTUDY_DATA = {
   ],
   articles:[
 {
+  "id": "iphone-bao-cao-quyen-rieng-tu-ung-dung",
+  "type": "knowledge",
+  "category": "iPhone",
+  "title": "Xem ứng dụng truy cập dữ liệu bằng Báo cáo quyền riêng tư",
+  "description": "Theo dõi quyền camera, micro và hoạt động mạng trong bảy ngày để xem lại quyền đã cấp cho ứng dụng.",
+  "date": "2026-11-23",
+  "readTime": 2,
+  "image": "./assets/knowledge/iphone-privacy-report.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về báo cáo quyền riêng tư",
+  "tags": [
+    "iPhone",
+    "quyền riêng tư",
+    "iOS"
+  ],
+  "sources": [
+    {
+      "title": "Apple Support · App Privacy Report · 19/12/2025",
+      "url": "https://support.apple.com/en-us/102188"
+    }
+  ],
+  "body": "<p>Từ iOS 15.2, Báo cáo quyền riêng tư giúp xem ứng dụng dùng các quyền đã cấp như thế nào. Vào Cài đặt → Quyền riêng tư &amp; bảo mật → Báo cáo quyền riêng tư của ứng dụng rồi bật tính năng.</p><h2>Đọc thông tin nào?</h2><p>Mục dữ liệu và cảm biến ghi thời điểm, số lần truy cập camera, micro, vị trí và các dữ liệu được hỗ trợ trong bảy ngày. Hoạt động mạng liệt kê tên miền ứng dụng hoặc nội dung bên trong liên hệ.</p><p>Báo cáo bắt đầu thu thập sau khi bật nên cần thời gian mới có dữ liệu. Apple cho biết thông tin được mã hóa và lưu trên thiết bị. Tắt tính năng sẽ xóa dữ liệu báo cáo.</p><h2>Xem lại quyền theo nhu cầu</h2><p>Khi có truy cập ngoài dự kiến, Apple khuyên xem chính sách riêng tư, nhãn trên App Store hoặc hỏi nhà phát triển rồi điều chỉnh quyền. Truy cập dữ liệu có thể phục vụ xử lý ngay trên máy.</p><p>MRSTUDY gợi ý bắt đầu với một ứng dụng thường dùng, đối chiếu thời điểm truy cập với tác vụ bạn nhớ đã làm. Ghi lại điều cần hỏi trước khi thay đổi quyền. Minh họa do MRSTUDY tự vẽ.</p>"
+},
+{
+  "id": "ipad-chuot-trackpad-bluetooth-con-tro",
+  "type": "knowledge",
+  "category": "iPad",
+  "title": "Dùng chuột và trackpad Bluetooth với iPad: kết nối và chỉnh con trỏ",
+  "description": "Ghép đôi phụ kiện, chỉnh kích thước con trỏ và tìm lại bàn phím ảo khi làm việc với iPad.",
+  "date": "2026-11-23",
+  "readTime": 2,
+  "image": "./assets/knowledge/ipad-pointer.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về iPad và chuột Bluetooth",
+  "tags": [
+    "iPad",
+    "Bluetooth",
+    "chuột",
+    "trackpad"
+  ],
+  "sources": [
+    {
+      "title": "Apple Support · Kết nối chuột hoặc trackpad Bluetooth · 27/04/2026",
+      "url": "https://support.apple.com/en-mn/108938"
+    },
+    {
+      "title": "Apple Support · Dùng chuột hoặc trackpad với iPad · 31/03/2026",
+      "url": "https://support.apple.com/en-ug/105004"
+    }
+  ],
+  "body": "<p>Apple yêu cầu iPadOS 13.4 trở lên để dùng chuột hoặc trackpad Bluetooth theo hướng dẫn này. Kiểm tra phiên bản iPadOS và cách đưa phụ kiện vào chế độ ghép đôi trước khi bắt đầu.</p><h2>Ghép đôi và kết nối lại</h2><p>Bật phụ kiện, đặt gần iPad và bật chế độ ghép đôi theo nhà sản xuất. Vào Cài đặt → Bluetooth, chọn tên phụ kiện trong Thiết bị khác. Sau lần đầu, phụ kiện nằm trong Thiết bị của tôi để kết nối lại.</p><p>Nếu gặp trục trặc, Apple gợi ý ngắt các phụ kiện Bluetooth đang không dùng. Nút thông tin cạnh tên phụ kiện cho phép ngắt kết nối hoặc quên thiết bị.</p><h2>Chỉnh con trỏ dễ nhìn</h2><p>Con trỏ hiện dạng tròn và đổi hình theo nội dung. Vào Cài đặt → Trợ năng → Điều khiển con trỏ để chỉnh kích thước, màu, độ tương phản hoặc tốc độ cuộn. Tên mục phụ thuộc ngôn ngữ giao diện.</p><p>Để mở menu phụ, có thể giữ Control khi bấm. Nếu cần bàn phím ảo, chạm nút tùy chọn bàn phím ở góc dưới bên phải rồi chọn hiện bàn phím.</p><h2>Thử trước khi dùng cho công việc</h2><p>MRSTUDY gợi ý mở một tài liệu, thử chọn chữ, cuộn và mở menu phụ. Điều chỉnh từng mục đến khi thao tác thoải mái. Khi mượn phụ kiện, hỏi chủ thiết bị trước khi thay đổi kết nối. Minh họa do MRSTUDY tự vẽ.</p>"
+},
+{
   "id": "macbook-ung-dung-tu-mo-va-chay-nen",
   "type": "knowledge",
   "category": "MacBook",
