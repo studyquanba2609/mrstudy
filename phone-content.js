@@ -1,6 +1,36 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-14-nut-am-luong-ket-chap-chon",
+    "type": "repair",
+    "sourceSite": "Apple Support",
+    "category": "Sửa chữa · Nút bấm",
+    "title": "iPhone 14 kẹt nút âm lượng: kiểm tra trước khi sửa",
+    "description": "Tháo ốp, xác định nút nào phản hồi chập chờn và chuẩn bị thông tin để kỹ thuật viên kiểm tra đúng lỗi.",
+    "date": "2026-11-23",
+    "sourceDate": "2026-01-28",
+    "readTime": 3,
+    "image": "./assets/repair/iphone-14-volume-buttons.svg",
+    "imageAlt": "Minh họa gốc MRSTUDY về hai nút âm lượng iPhone 14",
+    "tags": [
+      "iPhone 14",
+      "nút âm lượng",
+      "kẹt nút",
+      "sửa chữa"
+    ],
+    "body": "<h2>Nhận diện triệu chứng</h2><p>Nút tăng hoặc giảm âm lượng trên iPhone 14 có thể bị vướng, khó nhấn hoặc chỉ nhận một số lần. Apple hướng dẫn kiểm tra ốp và bụi bẩn quanh nút trước khi sắp xếp sửa chữa.</p><p>MRSTUDY gợi ý mở một đoạn nhạc ở mức nhỏ rồi thử riêng từng nút. Ghi lại nút nào lỗi, có cảm giác kẹt hay vẫn nhấn được, và lỗi xuất hiện sau rơi máy hay thay ốp. Đây là thông tin tiếp nhận, chưa đủ xác định linh kiện hỏng.</p><h2>Kiểm tra bên ngoài an toàn</h2><p>Tháo ốp hoặc lớp bảo vệ có thể cản nút. Quan sát mép nút, dùng khăn mềm lau bụi nhìn thấy rồi thử lại. Nếu tháo ốp giúp nút hoạt động bình thường, kiểm tra độ vừa của ốp trước khi lắp lại.</p><p>MRSTUDY khuyến nghị tránh dùng vật nhọn cạy khe hoặc cố nhấn mạnh để giải kẹt. Nếu nghi máy hoặc pin bị hỏng, ngừng sử dụng và mang kiểm tra. Apple cảnh báo việc tự tháo máy có thể gây thương tích và ảnh hưởng khả năng kháng nước.</p><h2>Khi nào cần sửa?</h2><p>Theo Apple, nút vẫn không hoạt động, bị hư hỏng hoặc phản hồi chập chờn sau các bước trên cần được kiểm tra sửa chữa. Sao lưu dữ liệu khi máy còn hoạt động an toàn, mô tả rõ triệu chứng và yêu cầu báo phương án sau kiểm tra.</p><p>Ốp cản nút, bụi quanh nút là các khả năng có thể kiểm tra bên ngoài. Kết luận về cơ cấu nút hoặc kết nối bên trong cần kỹ thuật viên đánh giá trực tiếp. Việc chọn linh kiện và quy trình phải theo đúng model iPhone 14.</p><h2>Hậu kiểm do MRSTUDY đề xuất</h2><p>Thử tăng và giảm âm lượng nhiều lần riêng biệt, kiểm tra cảm giác nhấn và thử lại sau khi gắn ốp. Khi sửa có mở máy, cùng cơ sở kiểm tra cảm ứng, camera và Face ID trước bàn giao. Nếu triệu chứng còn, ghi nhận lại để kiểm tra tiếp.</p><p>Minh họa trong bài do MRSTUDY tự vẽ. Bài tập trung vào tiếp nhận và hậu kiểm, quy trình tháo lắp cần tài liệu kỹ thuật đầy đủ và người có chuyên môn.</p>",
+    "sources": [
+      {
+        "title": "Apple Support · Nút hoặc công tắc không hoạt động · 28/01/2026",
+        "url": "https://support.apple.com/en-us/102327"
+      },
+      {
+        "title": "Apple · Thông tin an toàn iPhone · tài liệu không ghi ngày, truy cập 23/11/2026",
+        "url": "https://support.apple.com/en-ie/guide/iphone/iph301fc905/27/ios/27"
+      }
+    ]
+  },
+  {
     "id": "ios-27-3-public-beta-2-mo-thu-nghiem",
     "type": "news",
     "sourceSite": "MacRumors",
