@@ -1,6 +1,31 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-18-18e-tin-don-lich-ra-mat-dau-2027",
+    "type": "news",
+    "sourceSite": "MacRumors",
+    "category": "Tin iPhone · Tin đồn",
+    "title": "Tin đồn iPhone 18 và 18e có thể ra mắt đầu năm 2027",
+    "description": "MacRumors dẫn Mark Gurman về khả năng Apple giới thiệu hai mẫu iPhone vào tháng 2 hoặc tháng 3.",
+    "date": "2026-11-23",
+    "sourceDate": "2026-11-22",
+    "readTime": 1,
+    "image": "./assets/editorial/iphone-apps.svg?v=d1956e8f49",
+    "imageAlt": "Minh họa gốc MRSTUDY về iPhone",
+    "tags": [
+      "iPhone 18",
+      "iPhone 18e",
+      "Tin đồn"
+    ],
+    "body": "<p>Ngày 22/11, MacRumors dẫn bản tin của Mark Gurman từ Bloomberg cho biết Apple có thể giới thiệu iPhone 18 và iPhone 18e vào khoảng tháng 2 hoặc tháng 3 năm 2027. Bản tin dự đoán cả hai dùng chip A20 và có thời lượng pin dài hơn, nhưng chưa có thông số pin hay kết quả thử nghiệm từ Apple.</p><p>Gurman cũng đề cập iPhone Air 2 có thể thuộc một đợt giới thiệu riêng, muộn hơn trong nửa đầu năm. Như vậy, hai mốc thời gian đang được nhắc tới là dự báo về kế hoạch ra mắt. Người đang cân nhắc đổi máy vẫn cần chờ Apple công bố ngày bán, cấu hình và giá chính thức.</p>",
+    "sources": [
+      {
+        "title": "MacRumors · Joe Rossignol · 22/11/2026",
+        "url": "https://www.macrumors.com/2026/11/22/new-apple-products-february-or-march/"
+      }
+    ]
+  },
+  {
     "id": "iphone-14-nut-am-luong-ket-chap-chon",
     "type": "repair",
     "sourceSite": "Apple Support",
