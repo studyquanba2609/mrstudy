@@ -1,6 +1,33 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-13-treo-logo-che-do-khoi-phuc",
+    "type": "repair",
+    "sourceSite": "Apple Support",
+    "category": "Sửa chữa · iOS",
+    "title": "iPhone 13 treo logo: cân nhắc Update trước khi Restore",
+    "description": "Nhận diện màn hình khôi phục, lưu ý dữ liệu và ghi nhận lỗi trước khi quyết định xử lý tiếp trên iPhone 13.",
+    "date": "2026-11-24",
+    "sourceDate": "2026-11-18",
+    "readTime": 3,
+    "image": "./assets/repair/iphone-13-recovery.svg",
+    "imageAlt": "Minh họa gốc MRSTUDY về iPhone 13 kết nối máy tính để khôi phục",
+    "tags": [
+      "iPhone 13",
+      "treo logo",
+      "Recovery",
+      "iOS",
+      "dữ liệu"
+    ],
+    "sources": [
+      {
+        "title": "Apple Support · Không thể cập nhật hoặc khôi phục iPhone · 18/11/2026",
+        "url": "https://support.apple.com/en-us/118106"
+      }
+    ],
+    "body": "<h2>Nhận diện triệu chứng</h2><p>Apple liệt kê logo Apple đứng nhiều phút mà không có thanh tiến trình và màn hình yêu cầu kết nối máy tính là các tình huống có thể cần chế độ khôi phục. Bài này áp dụng thao tác phím cho iPhone 13.</p><p>MRSTUDY đề nghị ghi lại máy đứng logo hay tự khởi động lặp lại, thời điểm bắt đầu và lần cập nhật gần nhất. Các triệu chứng này cần chẩn đoán thêm để phân biệt lỗi phần mềm với vấn đề phần cứng; chưa đủ căn cứ chọn thay pin hoặc sửa bo mạch.</p><h2>Chuẩn bị và kiểm tra an toàn</h2><p>Xác định bản sao lưu gần nhất trước khi thao tác. Nếu máy còn vào được hệ thống an toàn, ưu tiên sao lưu. Khi có dấu hiệu pin phồng, nóng bất thường hoặc hư hỏng vật lý, dừng thử và mang kiểm tra. Đây là lưu ý tiếp nhận của MRSTUDY.</p><h2>Thao tác khôi phục theo Apple</h2><p>Cập nhật máy Mac hoặc ứng dụng Apple Devices trên PC, nối iPhone với máy tính bằng USB rồi mở Finder hoặc Apple Devices. Trên iPhone 13, bấm thả nhanh tăng âm lượng, bấm thả nhanh giảm âm lượng, sau đó giữ nút sườn đến màn hình kết nối máy tính.</p><p>Khi có lựa chọn Update và Restore, Apple khuyên thử Update trước nếu chưa thử. <strong>Restore cài lại iOS và xóa toàn bộ dữ liệu.</strong> Chỉ quyết định bước này sau khi hiểu tình trạng sao lưu và chấp nhận mất dữ liệu chưa sao lưu.</p><h2>Hậu kiểm và giới hạn</h2><p>Nếu khôi phục thành công, làm tiếp quá trình thiết lập máy. Nếu không thể cập nhật, khôi phục hoặc nút bị kẹt khiến không vào được chế độ khôi phục, Apple khuyến nghị dịch vụ sửa chữa.</p><p>MRSTUDY đề nghị ghi nguyên mã lỗi, bước bị dừng và loại cáp đã dùng để bàn giao cho kỹ thuật viên. Khi máy hoạt động lại, kiểm tra dữ liệu có thể truy cập, gọi thử, camera và Face ID rồi theo dõi hiện tượng tái khởi động. Việc xác định linh kiện hỏng cần kiểm tra trực tiếp. Minh họa do MRSTUDY tự vẽ.</p><a class=\"button button-dark\" href=\"https://support.apple.com/en-us/118106\" target=\"_blank\" rel=\"noopener noreferrer\">Xem hướng dẫn đầy đủ của Apple ↗</a>"
+  },
+  {
     "id": "iphone-duo-tin-don-them-widget-man-hinh-khoa",
     "type": "news",
     "sourceSite": "MacRumors",
