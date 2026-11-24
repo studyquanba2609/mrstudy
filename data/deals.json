@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T07:05:57.897823+00:00",
+  "updatedAt": "2026-11-24T03:01:56Z",
   "items": [
     {
       "id": "deal-1574131062-download",
@@ -832,6 +832,27 @@
       ],
       "icon": "./assets/deals/6760128799-icon.jpg",
       "image": "./assets/deals/6760128799-screen.jpg"
+    },
+    {
+      "id": "deal-6775391662-download",
+      "topicDate": "2026-11-24",
+      "name": "Luma - Stamp Camera",
+      "kind": "download",
+      "summary": "Chụp ảnh trong khung tem bưu chính, xem trước hiệu ứng màu và thêm dấu ngày. Hợp để ghi lại chuyến đi hoặc làm nhật ký ảnh trên iPhone chạy iOS 16 trở lên. Bấm tải khi App Store hiển thị miễn phí.",
+      "sourceUrl": "https://appdrop.rs/en/deal/luma-stamp-camera-6775391662",
+      "checkedAt": "2026-11-24T03:01:56Z",
+      "regions": [
+        {
+          "code": "us",
+          "name": "Mỹ",
+          "url": "https://apps.apple.com/us/app/luma-stamp-camera/id6775391662",
+          "downloadPrice": 0,
+          "currency": "USD",
+          "checkedAt": "2026-11-24T03:01:56Z"
+        }
+      ],
+      "icon": "./assets/deals/6775391662-icon.jpg",
+      "image": "./assets/deals/6775391662-screen.jpg"
     }
   ],
   "reportedOffers": [
