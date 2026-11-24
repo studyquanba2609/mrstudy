@@ -8,6 +8,53 @@ window.MRSTUDY_DATA = {
   ],
   articles:[
 {
+  "id": "macbook-anh-icloud-toi-uu-dung-luong",
+  "type": "knowledge",
+  "category": "MacBook",
+  "title": "MacBook nhiều ảnh: chọn tối ưu dung lượng hay tải bản gốc?",
+  "description": "Hiểu hai lựa chọn lưu trữ của Ảnh iCloud và tác động khi xóa ảnh trong thư viện đồng bộ.",
+  "date": "2026-11-24",
+  "readTime": 2,
+  "image": "./assets/knowledge/macbook-icloud-photos.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về lưu ảnh trên MacBook và iCloud",
+  "tags": [
+    "MacBook",
+    "Ảnh iCloud",
+    "dung lượng"
+  ],
+  "sources": [
+    {
+      "title": "Apple Support · Thiết lập và dùng Ảnh iCloud · 14/09/2026",
+      "url": "https://support.apple.com/en-us/108782"
+    }
+  ],
+  "body": "<p>Ảnh iCloud đồng bộ thư viện giữa các thiết bị dùng cùng Apple Account. Khi bật tối ưu dung lượng, bản gốc độ phân giải đầy đủ nằm trên iCloud, còn thiết bị có thể giữ phiên bản tiết kiệm chỗ khi cần.</p><h2>Chọn cách lưu trên MacBook</h2><p>Mở ứng dụng Ảnh → menu Ảnh → Cài đặt → iCloud để chọn chế độ lưu. Tải bản gốc về máy Mac giữ ảnh và video đầy đủ cả trên máy lẫn iCloud. Tối ưu phù hợp khi muốn giảm dung lượng thư viện lưu tại máy.</p><h2>Lưu ý trước khi xóa ảnh</h2><p>Xóa trong thư viện Ảnh iCloud sẽ đồng bộ việc xóa sang các thiết bị khác. Apple cho phép khôi phục trong Đã xóa gần đây trong 30 ngày. Ảnh iCloud cũng không được nhân đôi trong bản sao lưu iCloud, nên Apple khuyên giữ bản sao thư viện riêng.</p><h2>Chuẩn bị theo nhu cầu</h2><p>MRSTUDY gợi ý xác định bạn cần xem ảnh khi đi xa hay thường xuyên chỉnh ảnh gốc. Trước chuyến đi, thử mở những tệp cần dùng và chuẩn bị bản sao riêng cho ảnh quan trọng. Theo dõi trạng thái đồng bộ trước khi dọn thư viện. Minh họa do MRSTUDY tự vẽ.</p>"
+},
+{
+  "id": "iphone-night-shift-lich-nhiet-do-mau",
+  "type": "knowledge",
+  "category": "iPhone",
+  "title": "Night Shift trên iPhone: chỉnh lịch và độ ấm của màn hình",
+  "description": "Xem cách bật nhanh Night Shift, đặt lịch và kiểm tra tùy chọn trợ năng khi màu màn hình thay đổi.",
+  "date": "2026-11-24",
+  "readTime": 2,
+  "image": "./assets/knowledge/iphone-night-shift.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về màu màn hình iPhone khi dùng Night Shift",
+  "tags": [
+    "iPhone",
+    "Night Shift",
+    "màn hình",
+    "iOS"
+  ],
+  "sources": [
+    {
+      "title": "Apple Support · Dùng Night Shift · 27/05/2026",
+      "url": "https://support.apple.com/en-us/118583"
+    }
+  ],
+  "body": "<p>Night Shift điều chỉnh màn hình sang màu ấm hơn. Theo Apple, tính năng có thể dùng đồng hồ và vị trí để xác định giờ hoàng hôn, rồi đưa màu về thiết lập thông thường vào buổi sáng.</p><h2>Bật nhanh và đặt lịch</h2><p>Mở Trung tâm điều khiển, nhấn giữ thanh độ sáng rồi chạm Night Shift. Để chỉnh lịch tự động và nhiệt độ màu, vào Cài đặt → Màn hình &amp; Độ sáng → Night Shift.</p><p>Apple liệt kê Night Shift hỗ trợ từ iPhone 5s. Một số tùy chọn trợ năng hiển thị như đảo ngược màu, thang màu xám hoặc tăng độ tương phản có thể làm Night Shift hoặc True Tone tắt.</p><h2>Quan sát màu theo từng thiết lập</h2><p>MRSTUDY gợi ý mở cùng một ảnh, thử bật rồi tắt Night Shift và ghi lại lịch đang đặt. Cách so sánh này giúp bạn mô tả thay đổi màu rõ hơn khi cần trao đổi với kỹ thuật viên. Nếu đang đánh giá màu ảnh, kiểm tra các tùy chọn màn hình trước khi so sánh. Minh họa trong bài do MRSTUDY tự vẽ.</p>"
+},
+{
   "id": "iphone-bao-cao-quyen-rieng-tu-ung-dung",
   "type": "knowledge",
   "category": "iPhone",
