@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T03:01:56Z",
+  "updatedAt": "2026-11-24T07:06:54Z",
   "items": [
     {
       "id": "deal-1574131062-download",
@@ -853,6 +853,27 @@
       ],
       "icon": "./assets/deals/6775391662-icon.jpg",
       "image": "./assets/deals/6775391662-screen.jpg"
+    },
+    {
+      "id": "deal-1527841661-download",
+      "topicDate": "2026-11-24",
+      "name": "Sandbox Planet",
+      "kind": "download",
+      "summary": "Mô phỏng Hệ Mặt Trời, tạo hành tinh và sắp xếp một hệ hành tinh theo ý bạn. Phù hợp với người thích khám phá thiên văn qua mô phỏng. Yêu cầu iOS 16.6 trở lên trên iPhone. Bấm tải khi App Store hiển thị miễn phí.",
+      "sourceUrl": "https://appdrop.rs/en/deal/sandbox-planet-1527841661",
+      "checkedAt": "2026-11-24T07:06:54Z",
+      "regions": [
+        {
+          "code": "us",
+          "name": "Mỹ",
+          "url": "https://apps.apple.com/us/app/sandbox-planet/id1527841661",
+          "downloadPrice": 0,
+          "currency": "USD",
+          "checkedAt": "2026-11-24T07:06:54Z"
+        }
+      ],
+      "icon": "./assets/deals/1527841661-icon.jpg",
+      "image": "./assets/deals/1527841661-screen.jpg"
     }
   ],
   "reportedOffers": [

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T03:00:41.328759+00:00",
+  "updatedAt": "2026-11-24T07:05:57.869651+00:00",
   "items": [
     {
       "name": "Duo 256G Night VN - Full VAT",
@@ -22,17 +22,35 @@
     {
       "name": "Duo 256G Night - VN",
       "category": "phone",
-      "price": null,
+      "price": 63700000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "VN",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "Duo 256G White - VN",
       "category": "phone",
-      "price": 65200000,
+      "price": 64700000,
       "status": "Chưa Active",
+      "sim": "E sim",
+      "origin": "VN",
+      "availability": "priced"
+    },
+    {
+      "name": "Duo 256G Night - VN",
+      "category": "phone",
+      "price": 62700000,
+      "status": "Active 24/11",
+      "sim": "E sim",
+      "origin": "VN",
+      "availability": "priced"
+    },
+    {
+      "name": "Duo 256G Night - VN",
+      "category": "phone",
+      "price": 60200000,
+      "status": "Active 23/10",
       "sim": "E sim",
       "origin": "VN",
       "availability": "priced"
@@ -41,16 +59,7 @@
       "name": "Duo 256G White - VN",
       "category": "phone",
       "price": 63200000,
-      "status": "Active 23/11",
-      "sim": "E sim",
-      "origin": "VN",
-      "availability": "priced"
-    },
-    {
-      "name": "Duo 256G White - VN",
-      "category": "phone",
-      "price": 62600000,
-      "status": "Active 20/11",
+      "status": "Active 22/11",
       "sim": "E sim",
       "origin": "VN",
       "availability": "priced"
@@ -67,7 +76,7 @@
     {
       "name": "Duo 256G Night LL",
       "category": "phone",
-      "price": 61700000,
+      "price": 60700000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -76,10 +85,19 @@
     {
       "name": "Duo 256G White LL",
       "category": "phone",
-      "price": 61200000,
+      "price": 60700000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
+      "availability": "priced"
+    },
+    {
+      "name": "Duo 256G White - ZA",
+      "category": "phone",
+      "price": 63200000,
+      "status": "Chưa Active",
+      "sim": "E sim",
+      "origin": "HK",
       "availability": "priced"
     },
     {
@@ -94,16 +112,16 @@
     {
       "name": "Duo 512G Night VN",
       "category": "phone",
-      "price": 70500000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "VN",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "Duo 512G White VN",
       "category": "phone",
-      "price": 73700000,
+      "price": 74200000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "VN",
@@ -139,17 +157,8 @@
     {
       "name": "Duo 512G White VN",
       "category": "phone",
-      "price": 70100000,
+      "price": 69900000,
       "status": "Actived 19/11",
-      "sim": "E sim",
-      "origin": "VN",
-      "availability": "priced"
-    },
-    {
-      "name": "Duo 512G White VN",
-      "category": "phone",
-      "price": 67200000,
-      "status": "Acti T10-5L",
       "sim": "E sim",
       "origin": "VN",
       "availability": "priced"
@@ -157,7 +166,7 @@
     {
       "name": "Duo 512G Night LL",
       "category": "phone",
-      "price": 67700000,
+      "price": 67200000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -166,7 +175,7 @@
     {
       "name": "Duo 512G White LL",
       "category": "phone",
-      "price": 73200000,
+      "price": 72700000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -175,7 +184,7 @@
     {
       "name": "Duo 512G White LL",
       "category": "phone",
-      "price": 68700000,
+      "price": 68200000,
       "status": "Acti T10-6L",
       "sim": "E sim",
       "origin": "USA",
@@ -220,8 +229,8 @@
     {
       "name": "iPhone Duo 1TB Night VN",
       "category": "phone",
-      "price": 84700000,
-      "status": "Actived 21/11",
+      "price": 83700000,
+      "status": "Acti Hôm nay",
       "sim": "E sim",
       "origin": "VN",
       "availability": "priced"
@@ -229,7 +238,7 @@
     {
       "name": "iPhone Duo 1TB White VN",
       "category": "phone",
-      "price": 84700000,
+      "price": 84200000,
       "status": "Actived 21/11",
       "sim": "E sim",
       "origin": "VN",
@@ -274,8 +283,8 @@
     {
       "name": "iPhone Duo 2TB White VN",
       "category": "phone",
-      "price": 101200000,
-      "status": "Actived 20/11",
+      "price": 102700000,
+      "status": "Acti Hôm nay",
       "sim": "E sim",
       "origin": "VN",
       "availability": "priced"
@@ -409,8 +418,8 @@
     {
       "name": "18 PM - 256G BLUE X/A (VN)",
       "category": "phone",
-      "price": 39700000,
-      "status": "Actived 22/11",
+      "price": 39800000,
+      "status": "Acti H nay",
       "sim": "1 sim",
       "origin": "VN",
       "availability": "priced"
@@ -641,15 +650,6 @@
       "availability": "priced"
     },
     {
-      "name": "18 PM - 512G Black LL",
-      "category": "phone",
-      "price": 42700000,
-      "status": "Actived T09",
-      "sim": "E sim",
-      "origin": "USA",
-      "availability": "priced"
-    },
-    {
       "name": "18 PM - 512G RED LL",
       "category": "phone",
       "price": 42500000,
@@ -751,25 +751,34 @@
     {
       "name": "18 PM - 1TB Black X/A (VN)",
       "category": "phone",
-      "price": null,
+      "price": 57500000,
       "status": "Actived 18/9",
       "sim": "1 sim",
       "origin": "VN",
-      "availability": "unavailable"
+      "availability": "priced"
+    },
+    {
+      "name": "18 PM - 1TB Blue X/A (VN)",
+      "category": "phone",
+      "price": 58700000,
+      "status": "Actived 23/11",
+      "sim": "1 sim",
+      "origin": "VN",
+      "availability": "priced"
     },
     {
       "name": "18 PM - 1TB RED X/A (VN)",
       "category": "phone",
-      "price": null,
+      "price": 58500000,
       "status": "Actived 18/9",
       "sim": "1 sim",
       "origin": "VN",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "18 PM - 1TB Black LL",
       "category": "phone",
-      "price": 56600000,
+      "price": 56300000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -796,7 +805,7 @@
     {
       "name": "18 PM - 1TB RED LL",
       "category": "phone",
-      "price": 56500000,
+      "price": 56600000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -958,7 +967,7 @@
     {
       "name": "18 Pro - 256G Silver X/A (VN) - Full VAT",
       "category": "phone",
-      "price": 37700000,
+      "price": 37900000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -994,16 +1003,7 @@
     {
       "name": "18 Pro - 256G Silver X/A (VN)",
       "category": "phone",
-      "price": 37300000,
-      "status": "Chưa Active",
-      "sim": "1 sim",
-      "origin": "VN",
-      "availability": "priced"
-    },
-    {
-      "name": "18 Pro - 256G Blue X/A (VN)",
-      "category": "phone",
-      "price": 37300000,
+      "price": 37500000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -1012,74 +1012,74 @@
     {
       "name": "18 Pro - 256G RED X/A (VN)",
       "category": "phone",
-      "price": null,
+      "price": 37700000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "18 Pro - 256G Black LL",
       "category": "phone",
-      "price": 34100000,
-      "status": "Chưa Active",
-      "sim": "E sim",
-      "origin": "USA",
-      "availability": "priced"
-    },
-    {
-      "name": "18 Pro - 256G Silver LL",
-      "category": "phone",
-      "price": null,
-      "status": "Chưa Active",
-      "sim": "E sim",
-      "origin": "USA",
-      "availability": "unavailable"
-    },
-    {
-      "name": "18 Pro - 256G Blue LL",
-      "category": "phone",
-      "price": null,
-      "status": "Chưa Active",
-      "sim": "E sim",
-      "origin": "USA",
-      "availability": "unavailable"
-    },
-    {
-      "name": "18 Pro - 256G RED LL",
-      "category": "phone",
-      "price": null,
-      "status": "Chưa Active",
-      "sim": "E sim",
-      "origin": "USA",
-      "availability": "unavailable"
-    },
-    {
-      "name": "18 Pro - 256G Silver LL",
-      "category": "phone",
-      "price": null,
-      "status": "Actived T10",
-      "sim": "E sim",
-      "origin": "USA",
-      "availability": "unavailable"
-    },
-    {
-      "name": "18 Pro - 256G Blue LL",
-      "category": "phone",
-      "price": null,
-      "status": "Actived T10",
-      "sim": "E sim",
-      "origin": "USA",
-      "availability": "unavailable"
-    },
-    {
-      "name": "18 Pro - 256G RED LL",
-      "category": "phone",
       "price": 33700000,
-      "status": "Actived T10",
+      "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
       "availability": "priced"
+    },
+    {
+      "name": "18 Pro - 256G Silver LL",
+      "category": "phone",
+      "price": null,
+      "status": "Chưa Active",
+      "sim": "E sim",
+      "origin": "USA",
+      "availability": "unavailable"
+    },
+    {
+      "name": "18 Pro - 256G Blue LL",
+      "category": "phone",
+      "price": null,
+      "status": "Chưa Active",
+      "sim": "E sim",
+      "origin": "USA",
+      "availability": "unavailable"
+    },
+    {
+      "name": "18 Pro - 256G RED LL",
+      "category": "phone",
+      "price": null,
+      "status": "Chưa Active",
+      "sim": "E sim",
+      "origin": "USA",
+      "availability": "unavailable"
+    },
+    {
+      "name": "18 Pro - 256G Silver LL",
+      "category": "phone",
+      "price": null,
+      "status": "Actived T10",
+      "sim": "E sim",
+      "origin": "USA",
+      "availability": "unavailable"
+    },
+    {
+      "name": "18 Pro - 256G Blue LL",
+      "category": "phone",
+      "price": null,
+      "status": "Actived T10",
+      "sim": "E sim",
+      "origin": "USA",
+      "availability": "unavailable"
+    },
+    {
+      "name": "18 Pro - 256G RED LL",
+      "category": "phone",
+      "price": null,
+      "status": "Actived T10",
+      "sim": "E sim",
+      "origin": "USA",
+      "availability": "unavailable"
     },
     {
       "name": "18 Pro - 512G Black X/A (VN) - Full VAT",
@@ -1093,15 +1093,6 @@
     {
       "name": "18 Pro - 512G Silver X/A (VN) - Full VAT",
       "category": "phone",
-      "price": 44300000,
-      "status": "Chưa Active",
-      "sim": "1 sim",
-      "origin": "VN",
-      "availability": "priced"
-    },
-    {
-      "name": "18 Pro - 512G Blue X/A (VN) - Full VAT",
-      "category": "phone",
       "price": null,
       "status": "Chưa Active",
       "sim": "1 sim",
@@ -1109,9 +1100,18 @@
       "availability": "unavailable"
     },
     {
+      "name": "18 Pro - 512G Blue X/A (VN) - Full VAT",
+      "category": "phone",
+      "price": 44400000,
+      "status": "Chưa Active",
+      "sim": "1 sim",
+      "origin": "VN",
+      "availability": "priced"
+    },
+    {
       "name": "18 Pro - 512G RED X/A (VN) - Full VAT",
       "category": "phone",
-      "price": 44300000,
+      "price": 44400000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -1138,16 +1138,16 @@
     {
       "name": "18 Pro - 512G Blue X/A (VN)",
       "category": "phone",
-      "price": null,
+      "price": 44400000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "18 Pro - 512G RED X/A (VN)",
       "category": "phone",
-      "price": 44300000,
+      "price": 44400000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -1514,6 +1514,15 @@
       "availability": "priced"
     },
     {
+      "name": "17 PM - 512G Silver ZP (VN)",
+      "category": "phone",
+      "price": 40700000,
+      "status": "Chưa Active",
+      "sim": "1 sim",
+      "origin": "VN",
+      "availability": "priced"
+    },
+    {
       "name": "17 PM - 512G Blue ZP (VN)",
       "category": "phone",
       "price": 39100000,
@@ -1615,16 +1624,16 @@
     {
       "name": "17 PM - 1TB Blue LL",
       "category": "phone",
-      "price": null,
+      "price": 39100000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "17 PM - 1TB Cam LL",
       "category": "phone",
-      "price": 38700000,
+      "price": 38600000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -1696,11 +1705,11 @@
     {
       "name": "17 Pro - 256G Blue VN",
       "category": "phone",
-      "price": 30600000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "17 Pro - 256G Cam VN",
@@ -1750,11 +1759,11 @@
     {
       "name": "17 Pro - 256G Blue LL",
       "category": "phone",
-      "price": null,
-      "status": "Actived 30/10",
+      "price": 29000000,
+      "status": "Actived T10",
       "sim": "E sim",
       "origin": "USA",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "17 Pro - 512G Blue VN",
@@ -1793,6 +1802,15 @@
       "availability": "priced"
     },
     {
+      "name": "17 Pro - 512G Blue KH",
+      "category": "phone",
+      "price": 29700000,
+      "status": "Actived 2/11",
+      "sim": "1 sim",
+      "origin": "HÀN",
+      "availability": "priced"
+    },
+    {
       "name": "17 Pro - 1TB Cam LL",
       "category": "phone",
       "price": 37700000,
@@ -1804,7 +1822,7 @@
     {
       "name": "17 Air - 256G Blue ZP (VN)",
       "category": "phone",
-      "price": 23000000,
+      "price": 22700000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -1814,15 +1832,6 @@
       "name": "17 Air - 256G Gold ZP (VN)",
       "category": "phone",
       "price": 23000000,
-      "status": "Chưa Active",
-      "sim": "1 sim",
-      "origin": "VN",
-      "availability": "priced"
-    },
-    {
-      "name": "17 Air - 256G Black ZP (VN)",
-      "category": "phone",
-      "price": 23200000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -1912,7 +1921,7 @@
     {
       "name": "17 - 256G TÍM ZP (VN)",
       "category": "phone",
-      "price": 25700000,
+      "price": 25500000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -1921,7 +1930,7 @@
     {
       "name": "17 - 256G WHITE ZP (VN)",
       "category": "phone",
-      "price": 26700000,
+      "price": 25700000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -1930,11 +1939,11 @@
     {
       "name": "17 - 256G SAGE ZP (VN)",
       "category": "phone",
-      "price": 26700000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "17 - 256G BLACK LL",
@@ -1948,11 +1957,11 @@
     {
       "name": "17 - 256G WHITE LL",
       "category": "phone",
-      "price": 24200000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "17 - 256G BLUE LL",
@@ -2551,11 +2560,11 @@
     {
       "name": "iPad Pro 11' M5 - WF - 512G - SILVER - MDWN4LL",
       "category": "device",
-      "price": 35900000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "",
       "origin": "",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "iPad Pro 11' M5 - 5G 1TB -SILVER - ME2X4LL Nano",
@@ -2605,11 +2614,11 @@
     {
       "name": "iPad Pro 13' M5 - 5G 1TB - BLACK NANO - ME8G4LL",
       "category": "device",
-      "price": null,
+      "price": 48700000,
       "status": "Chưa Active",
       "sim": "",
       "origin": "",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "iPad Pro 13' M5 - 5G 1TB - SILVER NANO - ME8H4LL",
@@ -2990,15 +2999,6 @@
       "availability": "priced"
     },
     {
-      "name": "Mini 8 (A20 Pro) - WF 256G - STARLIGHT VN - MJ6R4ZA Full VAT",
-      "category": "device",
-      "price": 22400000,
-      "status": "Chưa Active",
-      "sim": "",
-      "origin": "",
-      "availability": "priced"
-    },
-    {
       "name": "Mini 7 (A17 Pro) - WF 128G - STARLIGHT (VN) MXN83ZA Full VAT",
       "category": "device",
       "price": 17000000,
@@ -3298,11 +3298,11 @@
     {
       "name": "MB NEO 13\"(6CPU-5GPU)-8/256G Citrus VN - MHFD4SA",
       "category": "device",
-      "price": 17200000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "",
       "origin": "",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "MB NEO 13\"(6CPU-5GPU)-8/256G Silver VN - MHFA4SA",
@@ -3856,7 +3856,7 @@
     {
       "name": "MBP 16\" M5 Max (18CPU-32GPU) 36G/2TB Black LL - MGED4 - 140W",
       "category": "device",
-      "price": 96700000,
+      "price": 95700000,
       "status": "Chưa Active",
       "sim": "",
       "origin": "",
@@ -3911,6 +3911,24 @@
       "name": "Ultra 3 - 5G BLACK 49mm / Alpine Loop - Large - Black - MF0X4LW",
       "category": "device",
       "price": 17200000,
+      "status": "Chưa Active",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "Ultra 3 - 5G BLACK 49mm / Alpine Loop - Medium - Black - MF0V4LW",
+      "category": "device",
+      "price": 17400000,
+      "status": "Chưa Active",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "Ultra 3 - 5G BLACK 49mm / Trail Loop - M/L - MF1H4LW",
+      "category": "device",
+      "price": 17400000,
       "status": "Chưa Active",
       "sim": "",
       "origin": "",
