@@ -1,5 +1,30 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
+{
+  "id": "iphone-18e-tin-don-thiet-ke-cum-camera-sau",
+  "type": "news",
+  "sourceSite": "MacRumors",
+  "category": "Tin iPhone · Tin đồn",
+  "title": "Tin đồn iPhone 18e gom camera, đèn flash và mic vào một cụm",
+  "description": "Bản vẽ được Engadget mô tả cho thấy mặt lưng có thể đổi bố cục và vẫn giữ một camera.",
+  "date": "2026-11-25",
+  "sourceDate": "2026-11-24",
+  "readTime": 1,
+  "image": "./assets/editorial/iphone-apps.svg?v=d1956e8f49",
+  "imageAlt": "Minh họa gốc MRSTUDY về iPhone",
+  "tags": [
+    "iPhone 18e",
+    "camera",
+    "tin đồn"
+  ],
+  "sources": [
+    {
+      "title": "MacRumors · Hartley Charlton · 24/11/2026",
+      "url": "https://www.macrumors.com/2026/11/24/iphone-18e-to-get-redesigned-ipad-pro-style-camera/"
+    }
+  ],
+  "body": "<p>Ngày 24/11, MacRumors dẫn thông tin từ Engadget về bản vẽ thiết kế được cho là của iPhone 18e. Bản vẽ mô tả một cụm nhô lên ở mặt lưng, đặt camera, đèn flash và micrô chung một chỗ. Cách bố trí này gợi đến cụm camera trên iPad Pro M5. Trên iPhone 17e, đèn flash và micrô nằm ngoài phần viền tròn của camera.</p><p>Theo mô tả của Engadget, bản vẽ vẫn chỉ thể hiện một camera sau. Kích thước cụm lớn hơn chưa cho biết cảm biến hay ống kính có được nâng cấp hay không. Đây là thông tin từ nguồn chuỗi cung ứng. Apple chưa xác nhận thiết kế, cấu hình hoặc ngày ra mắt iPhone 18e.</p>"
+},
   {
     "id": "iphone-13-wifi-khong-ket-noi-chan-doan",
     "type": "repair",
