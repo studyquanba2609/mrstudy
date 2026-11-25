@@ -1,6 +1,37 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
   {
+    "id": "iphone-13-wifi-khong-ket-noi-chan-doan",
+    "type": "repair",
+    "sourceSite": "Apple Support",
+    "category": "Sửa chữa · Kết nối",
+    "title": "iPhone 13 lỗi Wi-Fi: khoanh vùng trước khi sửa phần cứng",
+    "description": "Phân biệt mất Internet, lỗi riêng một mạng và Wi-Fi bị mờ; kiểm tra an toàn trước khi giao máy chẩn đoán.",
+    "date": "2026-11-25",
+    "sourceDate": "2026-10-05",
+    "readTime": 3,
+    "image": "./assets/repair/iphone-13-wifi.svg",
+    "imageAlt": "Minh họa gốc MRSTUDY: iPhone 13 và các bước khoanh vùng lỗi Wi-Fi",
+    "tags": [
+      "iPhone 13",
+      "Wi-Fi",
+      "mất kết nối",
+      "chẩn đoán",
+      "sửa chữa"
+    ],
+    "sources": [
+      {
+        "title": "Apple Support · Không kết nối được Wi-Fi · 05/10/2026",
+        "url": "https://support.apple.com/en-us/111786"
+      },
+      {
+        "title": "Apple · An toàn iPhone · không ghi ngày, truy cập 25/11/2026",
+        "url": "https://support.apple.com/en-asia/guide/iphone/iph301fc905/27/ios/27"
+      }
+    ],
+    "body": "<h2>Nhận diện đúng lỗi</h2><p>Với iPhone 13, MRSTUDY đề nghị ghi riêng ba biểu hiện: không thấy tên mạng, đã kết nối nhưng không vào Internet, hoặc nút Wi-Fi bị mờ. Ghi thêm thời điểm xuất hiện, phiên bản iOS và việc máy từng rơi hay vào nước để kỹ thuật viên có căn cứ tiếp nhận.</p><h2>Nguyên nhân khả dĩ và kiểm tra</h2><p>Theo Apple, cần kiểm tra mạng, bộ định tuyến và phần mềm VPN/bảo mật trước. Bật Wi-Fi trong Cài đặt, tắt chế độ máy bay; nếu nút Wi-Fi bị mờ, khởi động lại máy.</p><p>Thử thiết bị khác trên cùng mạng, rồi thử iPhone ở một mạng khác. Nếu nhiều thiết bị cùng mất Internet, liên hệ nhà mạng. Nếu chỉ lỗi tại một mạng, kiểm tra bộ định tuyến thay vì vội sửa điện thoại.</p><p>Apple hướng dẫn gỡ VPN/phần mềm bảo mật rồi thử lại. Máy công ty, trường học cần hỏi quản trị viên.</p><h2>Đặt lại mạng và lựa chọn xử lý</h2><p>Bước cuối là Cài đặt → Cài đặt chung → Chuyển hoặc đặt lại iPhone → Đặt lại → Đặt lại cài đặt mạng. <strong>Mạng/mật khẩu Wi-Fi, cấu hình di động, VPN, APN bị đặt lại.</strong> Không kết nối được mạng nào thì liên hệ Apple.</p><p>MRSTUDY đề nghị sao lưu trước khi bàn giao máy. Nút Wi-Fi mờ hoặc mất kết nối chưa đủ để kết luận hỏng IC hay chỉ định thay linh kiện. Cần chẩn đoán trực tiếp; bài này không hướng dẫn khò, đóng chip hoặc tháo máy.</p><h2>An toàn và hậu kiểm</h2><p>Apple khuyến cáo ngừng dùng khi nghi máy hoặc pin bị hư hỏng. Sửa chữa cần kỹ thuật viên được đào tạo; tháo máy có thể gây thương tích và làm mất khả năng kháng nước. Linh kiện không phù hợp có thể ảnh hưởng an toàn và hoạt động.</p><p>Sau xử lý, MRSTUDY đề nghị thử lại hai mạng độc lập, mở trang web, khóa/mở màn hình rồi kết nối lại và ghi nhận lỗi tái diễn. Đây là danh sách hậu kiểm đề xuất, không phải kết quả thử nghiệm thực tế. Minh họa do MRSTUDY tự vẽ.</p><a class=\"button button-dark\" href=\"https://support.apple.com/en-us/111786\" target=\"_blank\" rel=\"noopener noreferrer\">Xem hướng dẫn đầy đủ của Apple ↗</a>"
+  },
+  {
     "id": "iphone-13-treo-logo-che-do-khoi-phuc",
     "type": "repair",
     "sourceSite": "Apple Support",
