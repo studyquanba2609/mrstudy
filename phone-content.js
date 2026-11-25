@@ -1,6 +1,31 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
 {
+  "id": "ios-eu-google-mozilla-quy-tac-trinh-duyet",
+  "type": "news",
+  "category": "Tin iPhone · Chính sách",
+  "sourceSite": "MacRumors",
+  "title": "Nhóm Chrome ủng hộ Mozilla phản đối quy tắc trình duyệt iOS tại EU",
+  "description": "Tranh luận xoay quanh cách phát hành trình duyệt dùng bộ máy riêng và việc chuyển người dùng sang ứng dụng mới.",
+  "date": "2026-11-25",
+  "sourceDate": "2026-11-24",
+  "readTime": 1,
+  "image": "./assets/editorial/iphone-apps.svg?v=d1956e8f49",
+  "imageAlt": "Minh họa gốc MRSTUDY về ứng dụng iPhone",
+  "tags": [
+    "iOS",
+    "trình duyệt",
+    "EU"
+  ],
+  "sources": [
+    {
+      "title": "MacRumors · Juli Clover · 24/11/2026",
+      "url": "https://www.macrumors.com/2026/11/24/google-ios-eu-browser-rules/"
+    }
+  ],
+  "body": "<p>MacRumors ngày 24/11 đưa tin nhóm Chrome for Developers công khai ủng hộ ý kiến của Mozilla về quy tắc trình duyệt trên iOS tại Liên minh châu Âu. Apple đã cho phép dùng bộ máy trình duyệt khác WebKit tại EU từ năm 2024. Mozilla cho rằng điều kiện phân phối hiện tại sẽ buộc hãng phát hành riêng một bản Firefox dùng Gecko cho EU, khiến người dùng phải chuyển sang ứng dụng khác.</p><p>Apple nêu trong tài liệu rằng các yêu cầu với bộ máy trình duyệt thay thế nhằm bảo vệ người dùng. Phản hồi của nhóm Chrome là một diễn biến trong tranh luận về chính sách. Google không ký thư ngỏ gửi Ủy ban châu Âu, và chưa có lịch phát hành Chrome dùng Blink trên iOS được công bố.</p>"
+},
+{
   "id": "iphone-18e-tin-don-thiet-ke-cum-camera-sau",
   "type": "news",
   "sourceSite": "MacRumors",
