@@ -8,6 +8,58 @@ window.MRSTUDY_DATA = {
   ],
   articles:[
 {
+  "id": "ipad-gioi-han-sac-80-phan-tram",
+  "type": "knowledge",
+  "category": "iPad",
+  "title": "Giới hạn sạc 80% trên iPad: khi nào nên bật?",
+  "description": "Xem đời iPad được hỗ trợ, cách bật và lý do đôi khi máy vẫn sạc lên 100%.",
+  "date": "2026-11-25",
+  "readTime": 2,
+  "image": "./assets/knowledge/ipad-charge-limit.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về giới hạn sạc 80% trên iPad",
+  "tags": [
+    "iPad",
+    "pin",
+    "giới hạn sạc"
+  ],
+  "sources": [
+    {
+      "title": "Apple Support · Sạc và bảo dưỡng pin iPad · 27/01/2026",
+      "url": "https://support.apple.com/en-us/118418"
+    }
+  ],
+  "body": "<p>Giới hạn sạc giúp giảm thời gian pin ở trạng thái đầy. Apple cho biết cách này có thể giúp kéo dài tuổi thọ pin; đây không phải cam kết pin sẽ bền thêm một số năm cố định.</p><h2>Máy nào có tùy chọn?</h2><p>Danh sách Apple gồm iPad Pro M4 trở lên, iPad Air M2 trở lên, iPad mini A17 Pro và iPad A16. Vào Cài đặt → Pin → Tình trạng pin để bật hoặc tắt Giới hạn 80%.</p><h2>Vì sao vẫn có lúc lên 100%?</h2><p>Khi bật, iPad dừng quanh 80% và sạc lại nếu xuống 75%. Máy thỉnh thoảng vẫn sạc đầy để duy trì ước tính mức pin chính xác. Vì vậy, một lần lên 100% chưa đủ kết luận tùy chọn bị lỗi.</p><h2>Chọn theo nhu cầu sử dụng</h2><p>MRSTUDY gợi ý cân nhắc bật khi thường ngồi bàn, dễ tiếp cận bộ sạc. Trước ngày đi xa, hãy xem nhu cầu thời lượng rồi quyết định có tắt giới hạn hay không. Không cần đổi thói quen chỉ để đạt một con số đẹp.</p><p>Apple cũng lưu ý nhiệt độ cao ảnh hưởng tuổi thọ pin. Giới hạn sạc không thay thế việc giữ điều kiện sử dụng phù hợp. Minh họa do MRSTUDY tự vẽ.</p>"
+},
+{
+  "id": "macbook-universal-clipboard-sao-chep-lien-thiet-bi",
+  "type": "knowledge",
+  "category": "MacBook",
+  "title": "Sao chép trên iPhone, dán vào MacBook với Universal Clipboard",
+  "description": "Chuẩn bị Apple Account, Handoff và kết nối để chuyển đoạn chữ hoặc hình ảnh giữa các thiết bị.",
+  "date": "2026-11-25",
+  "readTime": 2,
+  "image": "./assets/knowledge/macbook-universal-clipboard.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về sao chép nội dung giữa MacBook và iPhone",
+  "tags": [
+    "MacBook",
+    "iPhone",
+    "iPad",
+    "Universal Clipboard",
+    "Handoff"
+  ],
+  "sources": [
+    {
+      "title": "Apple Support · Universal Clipboard · 23/02/2026",
+      "url": "https://support.apple.com/en-gb/102430"
+    },
+    {
+      "title": "Apple Support · Thiết lập Handoff · 22/06/2026",
+      "url": "https://support.apple.com/en-sg/102426"
+    }
+  ],
+  "body": "<p>Universal Clipboard cho phép sao chép nội dung trên một thiết bị Apple rồi dán ở thiết bị khác. Ví dụ, bạn có thể chép một đoạn chữ trên iPhone để đưa vào tài liệu đang soạn trên MacBook.</p><h2>Chuẩn bị trước khi dùng</h2><p>Theo Apple, các thiết bị phải hỗ trợ tính năng, ở gần nhau, đăng nhập cùng Apple Account và bật Wi-Fi, Bluetooth, Handoff. Không cần gửi nội dung thành một tin nhắn cho chính mình.</p><p>Trên macOS Ventura 13 trở lên, mở Cài đặt hệ thống → Cài đặt chung → AirDrop &amp; Continuity hoặc AirDrop &amp; Handoff, rồi bật cho phép Handoff. Trên iPhone/iPad, tìm Handoff trong Cài đặt chung → AirPlay &amp; Continuity hoặc AirPlay &amp; Handoff.</p><h2>Sao chép rồi dán ngay</h2><p>Sao chép chữ hoặc hình ảnh như bình thường trên thiết bị thứ nhất, sau đó dán trên thiết bị còn lại. Apple lưu ý nội dung chỉ ở đó trong thời gian ngắn, hoặc đến khi bạn sao chép thứ khác trên một trong hai máy.</p><h2>Nếu chưa hoạt động</h2><p>Apple khuyên kiểm tra lại điều kiện thiết lập, cập nhật phần mềm có sẵn và khởi động lại thiết bị.</p><p>MRSTUDY đề nghị thử trước bằng một câu ngắn không chứa dữ liệu riêng tư, rồi kiểm tra đúng nội dung và nơi nhận trước khi gửi tài liệu. Khi dùng nhiều máy, hãy tránh nhầm Apple Account cá nhân với tài khoản của cửa hàng. Minh họa do MRSTUDY tự vẽ.</p>"
+},
+{
   "id": "macbook-anh-icloud-toi-uu-dung-luong",
   "type": "knowledge",
   "category": "MacBook",
