@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T07:06:54Z",
+  "updatedAt": "2026-11-26T03:07:40Z",
   "items": [
     {
       "id": "deal-1574131062-download",
@@ -874,6 +874,27 @@
       ],
       "icon": "./assets/deals/1527841661-icon.jpg",
       "image": "./assets/deals/1527841661-screen.jpg"
+    },
+    {
+      "id": "deal-6743200867-download",
+      "topicDate": "2026-11-26",
+      "name": "TaskerPro",
+      "kind": "download",
+      "summary": "Quản lý danh sách việc cần làm, đặt hạn và nhắc lịch công việc hoặc mục tiêu cá nhân. Dùng trên iPhone/iPad, yêu cầu iOS 12 trở lên. Tính năng nâng cao có gói thuê bao riêng.",
+      "sourceUrl": "https://appdrop.rs/en/deal/to-do-list-taskerpro-6743200867",
+      "checkedAt": "2026-11-26T03:07:40Z",
+      "regions": [
+        {
+          "code": "us",
+          "name": "Mỹ",
+          "url": "https://apps.apple.com/us/app/to-do-list-taskerpro/id6743200867",
+          "downloadPrice": 0,
+          "currency": "USD",
+          "checkedAt": "2026-11-26T03:07:40Z"
+        }
+      ],
+      "icon": "./assets/deals/6743200867-icon.jpg",
+      "image": "./assets/deals/6743200867-screen.jpg"
     }
   ],
   "reportedOffers": [

@@ -1,6 +1,31 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
 {
+  "id": "ios-28-tin-don-thay-doi-trung-tam-thong-bao",
+  "type": "news",
+  "sourceSite": "MacRumors",
+  "category": "Tin iPhone · Tin đồn",
+  "title": "Tin đồn iOS 28 sẽ thay đổi Trung tâm thông báo",
+  "description": "MacRumors cho biết nhiều nguồn đề cập kế hoạch cải tổ thông báo, nhưng chưa có chi tiết cụ thể.",
+  "date": "2026-11-26",
+  "sourceDate": "2026-11-25",
+  "readTime": 1,
+  "image": "./assets/editorial/iphone-apps.svg?v=d1956e8f49",
+  "imageAlt": "Minh họa gốc MRSTUDY về iPhone",
+  "tags": [
+    "iOS 28",
+    "thông báo",
+    "tin đồn"
+  ],
+  "sources": [
+    {
+      "title": "MacRumors · Joe Rossignol · 25/11/2026",
+      "url": "https://www.macrumors.com/2026/11/25/rumor-ios-28-to-revamp-notifications/"
+    }
+  ],
+  "body": "<p>Ngày 25/11, MacRumors cho biết đã nghe từ nhiều nguồn rằng Apple dự định thay đổi hệ thống thông báo trên iPhone trong iOS 28. Trung tâm thông báo được nhắc đến như một phần có thể được làm mới đáng kể. Tuy nhiên, bài viết chưa cung cấp thông tin về bố cục, thiết lập hay cơ chế phân loại cụ thể.</p><p>Thông tin xuất hiện trong bối cảnh người dùng gặp vấn đề với thông báo quảng cáo từ ứng dụng. MacRumors đưa việc phân loại thông báo trên Android làm ví dụ về một hướng có thể giúp giảm sự lộn xộn. Đó chỉ là suy đoán về giải pháp. Apple chưa xác nhận kế hoạch hoặc các tính năng cụ thể của iOS 28.</p>"
+},
+{
   "id": "iphone-14-bluetooth-khong-ghep-doi",
   "type": "repair",
   "sourceSite": "Apple Support",
