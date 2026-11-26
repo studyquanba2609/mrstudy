@@ -8,6 +8,52 @@ window.MRSTUDY_DATA = {
   ],
   articles:[
 {
+  "id": "iphone-hien-thi-rieng-tung-ung-dung",
+  "type": "knowledge",
+  "category": "iPhone",
+  "title": "Chỉnh chữ và hiển thị riêng cho từng ứng dụng trên iPhone",
+  "description": "Dùng Cài đặt theo ứng dụng để điều chỉnh cỡ chữ, màu sắc và chuyển động theo nhu cầu đọc.",
+  "date": "2026-11-26",
+  "readTime": 2,
+  "image": "./assets/knowledge/iphone-per-app-display.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về cỡ chữ khác nhau theo ứng dụng",
+  "tags": [
+    "iPhone",
+    "Trợ năng",
+    "cỡ chữ"
+  ],
+  "sources": [
+    {
+      "title": "Apple · Cài đặt hiển thị theo ứng dụng · tài liệu không ghi ngày, đối chiếu 26/11/2026",
+      "url": "https://support.apple.com/en-gb/guide/iphone/iph1f48544ab/ios"
+    }
+  ],
+  "body": "<p>Một ứng dụng đọc tin có thể cần chữ lớn hơn để dễ theo dõi. Apple cho phép chọn thiết lập màu sắc, cỡ chữ và chuyển động riêng cho các ứng dụng được chọn, cũng như Màn hình chính và Thư viện ứng dụng.</p><h2>Mở đúng mục cài đặt</h2><p>Vào Cài đặt → Trợ năng → Cài đặt theo ứng dụng. Chọn Thêm ứng dụng rồi chọn ứng dụng cần điều chỉnh. Chạm tên ứng dụng vừa thêm để mở các tùy chọn hiển thị của nó.</p><h2>Điều chỉnh theo việc đang làm</h2><p>MRSTUDY gợi ý bắt đầu với ứng dụng bạn đọc lâu nhất. Chỉnh từng mục rồi quay lại xem một đoạn văn, danh sách và nút bấm thường dùng. Ghi lại mức cũ trước khi đổi để dễ so sánh.</p><p>Nếu mục tiêu là đọc tin nhắn dễ hơn, hãy kiểm tra cả nội dung dài và màn hình danh sách hội thoại. Chọn mức giúp bạn đọc thoải mái mà vẫn theo dõi được bố cục.</p><h2>Khi cần kiểm tra lại</h2><p>MRSTUDY đề nghị quay về mục theo ứng dụng để xem lại thiết lập khi chỉ một ứng dụng có màu hoặc chữ khác thường. Đối chiếu giao diện trước và sau mỗi lần chỉnh giúp xác định thay đổi nào phù hợp. Đây là gợi ý sử dụng của MRSTUDY, chưa phải kết quả thử trên mọi ứng dụng. Minh họa do MRSTUDY tự vẽ.</p>"
+},
+{
+  "id": "macbook-chup-man-hinh-phim-tat",
+  "type": "knowledge",
+  "category": "MacBook",
+  "title": "Chụp màn hình MacBook: chọn đúng vùng và nơi lưu",
+  "description": "Các phím tắt chụp toàn màn hình, một vùng hoặc cửa sổ, cùng cách chọn thư mục lưu ảnh.",
+  "date": "2026-11-26",
+  "readTime": 2,
+  "image": "./assets/knowledge/macbook-screenshot.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về chọn vùng chụp màn hình MacBook",
+  "tags": [
+    "MacBook",
+    "ảnh chụp màn hình",
+    "macOS"
+  ],
+  "sources": [
+    {
+      "title": "Apple Support · Chụp màn hình Mac · 14/09/2026",
+      "url": "https://support.apple.com/en-us/102646"
+    }
+  ],
+  "body": "<h2>Chọn kiểu chụp</h2><p>Theo Apple, nhấn Shift–Command–3 để chụp toàn màn hình. Nhấn Shift–Command–4 rồi kéo chọn để chụp một vùng. Nếu muốn chụp cửa sổ, nhấn Shift–Command–4, thả phím rồi nhấn phím cách và bấm cửa sổ cần chụp. Esc hủy thao tác.</p><h2>Chọn nơi lưu</h2><p>Trên macOS Mojave 10.14 trở lên, Shift–Command–5 mở ứng dụng Ảnh chụp màn hình. Menu Tùy chọn cho phép đặt hẹn giờ, chọn nơi lưu và quyết định có hiện con trỏ trong ảnh hay không. Mặc định ảnh được lưu trên màn hình nền.</p><p>Bạn có thể bấm hình thu nhỏ ở góc màn hình để chỉnh sửa. Giữ thêm Control khi dùng phím tắt chụp sẽ đưa ảnh vào bảng nhớ tạm. Một số ứng dụng, như Apple TV, có thể chặn chụp cửa sổ.</p><h2>Chuẩn bị ảnh gửi hỗ trợ</h2><p>MRSTUDY gợi ý chọn vùng vừa đủ chứa thông báo lỗi và tên ứng dụng. Trước khi gửi, mở lại ảnh để kiểm tra chữ có đọc được và có lộ số điện thoại, tài khoản hoặc tin nhắn riêng tư hay không. Đặt tên tệp theo vấn đề giúp tìm lại thuận tiện. Minh họa do MRSTUDY tự vẽ.</p>"
+},
+{
   "id": "ipad-gioi-han-sac-80-phan-tram",
   "type": "knowledge",
   "category": "iPad",
