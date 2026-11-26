@@ -1,6 +1,32 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
 {
+  "id": "iphone-14-bluetooth-khong-ghep-doi",
+  "type": "repair",
+  "sourceSite": "Apple Support",
+  "category": "Sửa chữa · Kết nối",
+  "title": "iPhone 14 không ghép đôi Bluetooth: kiểm tra trước khi sửa",
+  "description": "Khoanh vùng lỗi phụ kiện, quyền ứng dụng và Bluetooth bị mờ trước khi quyết định sửa phần cứng.",
+  "date": "2026-11-26",
+  "sourceDate": "2025-12-12",
+  "readTime": 3,
+  "image": "./assets/repair/iphone-14-bluetooth.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về iPhone 14 và phụ kiện Bluetooth",
+  "tags": [
+    "iPhone 14",
+    "Bluetooth",
+    "ghép đôi",
+    "chẩn đoán"
+  ],
+  "sources": [
+    {
+      "title": "Apple Support · Phụ kiện Bluetooth không kết nối · 12/12/2025",
+      "url": "https://support.apple.com/en-us/111804"
+    }
+  ],
+  "body": "<h2>Ghi rõ biểu hiện trên iPhone 14</h2><p>MRSTUDY đề nghị phân biệt không tìm thấy tên phụ kiện, tìm thấy nhưng ghép đôi thất bại và nút Bluetooth bị mờ. Ghi tên phụ kiện, phiên bản iOS, thời điểm lỗi và tiền sử rơi hoặc vào nước để bàn giao cho kỹ thuật viên.</p><h2>Nguyên nhân khả dĩ và kiểm tra an toàn</h2><p>Theo Apple, cần đặt phụ kiện gần máy, bật chế độ tìm thấy theo hướng dẫn hãng, tắt/bật lại phụ kiện và bảo đảm đủ pin hoặc nguồn điện. Với phụ kiện dùng ứng dụng riêng, kiểm tra quyền tại Cài đặt → Quyền riêng tư &amp; Bảo mật → Bluetooth.</p><p>Nếu từng kết nối được, hủy ghép đôi rồi đưa phụ kiện về chế độ tìm thấy để ghép lại. Nếu phụ kiện kết nối được với máy khác, hủy ghép đôi khỏi máy đó rồi thử lại iPhone. Hỏi hãng phụ kiện về khả năng tương thích.</p><h2>Khi nào cần kiểm tra máy?</h2><p>Apple khuyên liên hệ hỗ trợ nếu Bluetooth không bật được hoặc bị mờ, máy không kết nối được phụ kiện nào, hay hãng đã xác nhận phụ kiện hoạt động bình thường.</p><p>MRSTUDY đề nghị thử chéo với một phụ kiện đã biết hoạt động để ghi nhận phạm vi lỗi. Kết quả này hỗ trợ tiếp nhận, chưa đủ xác định IC, anten hoặc linh kiện cụ thể. Phương án sửa cần dựa trên chẩn đoán trực tiếp và báo rõ hạng mục trước khi thực hiện.</p><h2>Dữ liệu và giới hạn sửa chữa</h2><p>Trước khi giao máy, MRSTUDY đề nghị sao lưu dữ liệu có thể truy cập. Nếu máy nóng bất thường, pin phồng hoặc có dấu hiệu hư hỏng vật lý, dừng thử và đưa đến kỹ thuật viên. Không tự mở máy hoặc khò bo mạch để thử chữa Bluetooth. Khi cần can thiệp bên trong, yêu cầu kỹ thuật viên giải thích ảnh hưởng tới linh kiện, dữ liệu và khả năng kháng nước.</p><h2>Hậu kiểm</h2><p>MRSTUDY đề xuất ghép lại phụ kiện, thử tính năng đang cần dùng, ngắt rồi kết nối lại và theo dõi lỗi tái diễn. Nếu đã mở máy, kiểm tra thêm camera và Face ID khi nhận lại. Đây là danh sách hậu kiểm đề xuất. Minh họa do MRSTUDY tự vẽ.</p><a class=\"button button-dark\" href=\"https://support.apple.com/en-us/111804\" target=\"_blank\" rel=\"noopener noreferrer\">Xem hướng dẫn đầy đủ của Apple ↗</a>"
+},
+{
   "id": "ios-eu-google-mozilla-quy-tac-trinh-duyet",
   "type": "news",
   "category": "Tin iPhone · Chính sách",
