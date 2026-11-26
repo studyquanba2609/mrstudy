@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T03:07:40Z",
+  "updatedAt": "2026-11-26T07:05:59Z",
   "items": [
     {
       "id": "deal-1574131062-download",
@@ -895,6 +895,27 @@
       ],
       "icon": "./assets/deals/6743200867-icon.jpg",
       "image": "./assets/deals/6743200867-screen.jpg"
+    },
+    {
+      "id": "deal-6745541292-download",
+      "topicDate": "2026-11-26",
+      "name": "Lesson Plan Pro",
+      "kind": "download",
+      "summary": "Sắp xếp thời khóa biểu, môn học và giáo viên, quản lý nhiều lịch học hoặc tuần A/B. Phù hợp với học sinh và phụ huynh theo dõi lịch học của các con. Hỗ trợ iPhone/iPad từ iOS 12.",
+      "sourceUrl": "https://appdrop.rs/en/deal/lesson-plan-pro-6745541292",
+      "checkedAt": "2026-11-26T07:05:59Z",
+      "regions": [
+        {
+          "code": "us",
+          "name": "Mỹ",
+          "url": "https://apps.apple.com/us/app/lesson-plan-pro/id6745541292",
+          "downloadPrice": 0,
+          "currency": "USD",
+          "checkedAt": "2026-11-26T07:05:59Z"
+        }
+      ],
+      "icon": "./assets/deals/6745541292-icon.jpg",
+      "image": "./assets/deals/6745541292-screen.jpg"
     }
   ],
   "reportedOffers": [
