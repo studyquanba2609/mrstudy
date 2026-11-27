@@ -1,6 +1,32 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
 {
+  "id": "iphone-13-khong-nhan-sac-khong-day",
+  "type": "repair",
+  "sourceSite": "Apple Support",
+  "category": "Sửa chữa · Sạc",
+  "title": "iPhone 13 không nhận sạc không dây: kiểm tra trước khi sửa",
+  "description": "Khoanh vùng đế sạc, ốp và vị trí đặt máy, đồng thời lưu ý nhiệt độ trước khi quyết định sửa phần cứng.",
+  "date": "2026-11-27",
+  "sourceDate": "2024-04-24",
+  "readTime": 3,
+  "image": "./assets/repair/iphone-13-wireless-charge.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về iPhone 13 đặt trên đế sạc không dây",
+  "tags": [
+    "iPhone 13",
+    "sạc không dây",
+    "Qi",
+    "chẩn đoán"
+  ],
+  "sources": [
+    {
+      "title": "Apple Support · Sạc không dây iPhone · 24/04/2024",
+      "url": "https://support.apple.com/en-us/108377"
+    }
+  ],
+  "body": "<h2>Ghi lại triệu chứng</h2><p>Với iPhone 13, MRSTUDY đề nghị ghi riêng tình trạng không hiện biểu tượng sạc, sạc chập chờn hoặc dừng ở một mức pin. Ghi loại đế, bộ nguồn, ốp và tiền sử rơi hoặc vào nước để kỹ thuật viên tiếp nhận.</p><h2>Kiểm tra trước khi mở máy</h2><p>Apple hướng dẫn dùng đế chuẩn Qi, bộ nguồn đi kèm hoặc được hãng khuyến nghị. Đặt đế trên mặt phẳng, để màn hình iPhone hướng lên và căn giữa theo hướng dẫn hãng. Chờ vài giây để xem biểu tượng sạc.</p><p>Tháo ốp dày hoặc kim loại khi máy sạc chậm hay không sạc. Không kẹp vật giữa máy và đế, đặc biệt thẻ từ. Rút kết nối USB khi thử vì iPhone ưu tiên sạc qua USB nếu đang cắm.</p><h2>Nguyên nhân khả dĩ</h2><p>Theo Apple, rung có thể làm máy lệch vị trí và ngắt sạc. Pin quá nóng cũng có thể khiến phần mềm giới hạn sạc trên 80%, rồi sạc tiếp khi nguội. Hãy chuyển máy và đế đến nơi mát hơn.</p><p>MRSTUDY đề nghị thử chéo bằng một bộ đế và nguồn đã biết hoạt động, đồng thời ghi nhận sạc dây có hoạt động hay không. Đây là cách thu thập dấu hiệu để khoanh vùng, chưa đủ kết luận hỏng cuộn sạc hoặc bo mạch.</p><h2>Phương án xử lý và an toàn</h2><p>Nếu điều chỉnh phụ kiện và vị trí vẫn không giải quyết được, mang cả máy cùng đế, nguồn đến nơi sửa chữa để kiểm tra. MRSTUDY đề nghị sao lưu dữ liệu trước khi bàn giao. Dừng thử khi máy nóng bất thường, pin phồng hoặc có hư hỏng vật lý. Không tự mở máy, ép lưng hoặc gia nhiệt để thử chữa.</p><p>Hạng mục và linh kiện cần sửa phải được xác định qua chẩn đoán trực tiếp. Khi có can thiệp bên trong, yêu cầu giải thích ảnh hưởng đến dữ liệu và khả năng kháng nước.</p><h2>Hậu kiểm</h2><p>MRSTUDY đề xuất thử lại sạc không dây và sạc dây, theo dõi kết nối khi đặt máy yên và kiểm tra lỗi tái diễn. Nếu máy đã được mở, kiểm tra thêm camera và Face ID khi nhận lại. Minh họa do MRSTUDY tự vẽ.</p><a class=\"button button-dark\" href=\"https://support.apple.com/en-us/108377\" target=\"_blank\" rel=\"noopener noreferrer\">Xem hướng dẫn đầy đủ của Apple ↗</a>"
+},
+{
   "id": "ios-28-tin-don-thay-doi-trung-tam-thong-bao",
   "type": "news",
   "sourceSite": "MacRumors",
