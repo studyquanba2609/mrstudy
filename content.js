@@ -8,6 +8,54 @@ window.MRSTUDY_DATA = {
   ],
   articles:[
 {
+  "id": "ipad-quet-tai-lieu-ghi-chu-tep",
+  "type": "knowledge",
+  "category": "iPad",
+  "title": "Quét tài liệu trên iPad bằng Ghi chú hoặc Tệp",
+  "description": "Chọn cách lưu bản quét, căn mép trang và kiểm tra tài liệu trước khi gửi.",
+  "date": "2026-11-27",
+  "readTime": 2,
+  "image": "./assets/knowledge/ipad-scan-document.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về quét trang giấy bằng iPad",
+  "tags": [
+    "iPad",
+    "quét tài liệu",
+    "Ghi chú",
+    "Tệp"
+  ],
+  "sources": [
+    {
+      "title": "Apple Support · Quét tài liệu trên iPhone/iPad · 13/02/2026",
+      "url": "https://support.apple.com/en-us/108963"
+    }
+  ],
+  "body": "<p>Apple cung cấp chức năng quét tài liệu ngay trong Ghi chú và Tệp. Bạn có thể chọn cách lưu phù hợp với việc đang làm, chẳng hạn gom giấy tờ vào một ghi chú hoặc lưu thành tài liệu ở thư mục riêng.</p><h2>Quét trong Ghi chú</h2><p>Mở hoặc tạo ghi chú, chạm nút Đính kèm rồi chọn Quét tài liệu. Đưa trang giấy vào khung camera. Chế độ tự động sẽ chụp khi nhận diện được trang. Khi chụp thủ công, dùng nút chụp hoặc nút âm lượng, kéo các góc cho khớp trang rồi giữ bản quét. Có thể quét thêm trang trước khi hoàn tất.</p><h2>Lưu bằng Tệp</h2><p>Trong Tệp, chạm nút Thêm → Quét tài liệu. Sau khi quét và hoàn tất, chọn vị trí rồi lưu. Đây là cách Apple hướng dẫn khi muốn chọn thư mục chứa bản quét.</p><h2>Kiểm tra trước khi gửi</h2><p>MRSTUDY gợi ý mở lại từng trang, phóng to chữ nhỏ và kiểm tra mép giấy, dấu mộc cùng thứ tự trang. Nếu có bóng tay hoặc mất góc, nên quét lại trang đó. Đặt tên tệp theo nội dung và kiểm tra đúng người nhận trước khi gửi giấy tờ cá nhân. Minh họa do MRSTUDY tự vẽ.</p>"
+},
+{
+  "id": "macbook-buoc-thoat-ung-dung-bi-treo",
+  "type": "knowledge",
+  "category": "MacBook",
+  "title": "MacBook có ứng dụng bị treo: cách buộc thoát và mở lại",
+  "description": "Thử thoát thông thường trước, chọn đúng ứng dụng khi buộc thoát và kiểm tra dữ liệu sau khi mở lại.",
+  "date": "2026-11-27",
+  "readTime": 2,
+  "image": "./assets/knowledge/macbook-force-quit.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về ứng dụng không phản hồi trên MacBook",
+  "tags": [
+    "MacBook",
+    "ứng dụng bị treo",
+    "Force Quit",
+    "macOS"
+  ],
+  "sources": [
+    {
+      "title": "Apple Support · Buộc ứng dụng thoát trên Mac · 08/12/2025",
+      "url": "https://support.apple.com/en-us/102586"
+    }
+  ],
+  "body": "<p>Khi một ứng dụng trên MacBook không phản hồi, Apple hướng dẫn thử thoát thông thường trước. Cách này cho ứng dụng cơ hội thực hiện các việc cần thiết, như lưu thay đổi, trước khi đóng.</p><h2>Thử Command–Q</h2><p>Nhấn Command–Q hoặc chọn Thoát trong menu mang tên ứng dụng. Nếu ứng dụng vẫn không phản hồi, có thể dùng cửa sổ Buộc thoát.</p><h2>Chọn đúng ứng dụng</h2><p>Nhấn đồng thời Option–Command–Esc, hoặc mở menu Apple → Buộc thoát. Chọn ứng dụng bị treo rồi bấm Buộc thoát. Với Finder, chọn Finder trong cửa sổ này rồi bấm Khởi chạy lại.</p><p>Nếu vẫn không thể buộc ứng dụng thoát, Apple đề nghị thử khởi động lại máy từ menu Apple. Trước khi xử lý, lưu các tài liệu còn có thể thao tác được.</p><h2>Sau khi mở lại</h2><p>MRSTUDY lưu ý thao tác buộc thoát có thể làm mất phần thay đổi chưa lưu. Hãy kiểm tra bản tài liệu vừa làm và các tùy chọn phục hồi mà ứng dụng cung cấp, nếu có.</p><p>MRSTUDY đề nghị ghi tên ứng dụng, thao tác khiến nó treo và thời điểm xảy ra nếu lỗi lặp lại. Thử mở lại một tài liệu đơn giản để xem phạm vi lỗi rồi cung cấp thông tin đó khi cần hỗ trợ. Minh họa do MRSTUDY tự vẽ.</p>"
+},
+{
   "id": "iphone-hien-thi-rieng-tung-ung-dung",
   "type": "knowledge",
   "category": "iPhone",
