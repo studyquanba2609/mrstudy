@@ -1,6 +1,31 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
 {
+  "id": "halide-iphone-duo-man-hinh-ngoai-chieu-sang",
+  "type": "news",
+  "sourceSite": "MacRumors",
+  "category": "Tin iPhone · Đã phát hành",
+  "title": "Halide 3.4 dùng màn hình ngoài iPhone Duo làm nguồn sáng khi chụp",
+  "description": "Bản cập nhật tận dụng thiết kế gập để bổ sung ánh sáng và cho chủ thể xem trước khung hình.",
+  "date": "2026-11-27",
+  "sourceDate": "2026-11-26",
+  "readTime": 1,
+  "image": "./assets/editorial/ios-27-3-beta-2-iphone-duo.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về iPhone Duo",
+  "tags": [
+    "iPhone Duo",
+    "Halide",
+    "camera"
+  ],
+  "sources": [
+    {
+      "title": "MacRumors · Hartley Charlton · 26/11/2026",
+      "url": "https://www.macrumors.com/2026/11/26/halide-adds-fill-light-feature-for-iphone-duo/"
+    }
+  ],
+  "body": "<p>MacRumors ngày 26/11 đưa tin Halide 3.4 đã bổ sung một cách tận dụng màn hình ngoài của iPhone Duo khi mở máy. Ứng dụng có thể dùng màn hình này để chiếu sáng chủ thể, tạo nguồn sáng dịu hơn đèn flash theo mô tả của bài viết. Độ sáng màn hình tối đa được khuyến nghị khi dùng tính năng.</p><p>Bên cạnh đó, người được chụp có thể nhìn hình xem trước trên màn hình ngoài. Bản cập nhật còn mở rộng khung ngắm ở màn hình trong và đưa bộ đếm giờ chụp cùng biểu đồ màu, độ sáng trở lại trên các iPhone khác. Đây là thay đổi của ứng dụng Halide, đã được đưa tin là phát hành ở phiên bản 3.4.</p>"
+},
+{
   "id": "iphone-13-khong-nhan-sac-khong-day",
   "type": "repair",
   "sourceSite": "Apple Support",

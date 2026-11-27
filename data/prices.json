@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T07:05:11.731685+00:00",
+  "updatedAt": "2026-11-27T03:06:36.979105+00:00",
   "items": [
     {
       "name": "Duo 256G Night VN - Full VAT",
@@ -76,14 +76,14 @@
     {
       "name": "Duo 256G White LL",
       "category": "phone",
-      "price": 60000000,
+      "price": 59700000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
       "availability": "priced"
     },
     {
-      "name": "Duo 256G White - ZA",
+      "name": "Duo 256G White ZA",
       "category": "phone",
       "price": 59400000,
       "status": "Chưa Active",
@@ -121,11 +121,11 @@
     {
       "name": "Duo 512G Night VN",
       "category": "phone",
-      "price": 70200000,
+      "price": null,
       "status": "Actived 26/11",
       "sim": "E sim",
       "origin": "VN",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "Duo 512G Night VN",
@@ -139,8 +139,8 @@
     {
       "name": "Duo 512G White VN",
       "category": "phone",
-      "price": 70200000,
-      "status": "Actived 19/11",
+      "price": 69200000,
+      "status": "Actived 20/11",
       "sim": "E sim",
       "origin": "VN",
       "availability": "priced"
@@ -169,7 +169,7 @@
       "price": 70200000,
       "status": "Chưa Active",
       "sim": "E sim",
-      "origin": "ÚC",
+      "origin": "SING",
       "availability": "priced"
     },
     {
@@ -200,19 +200,28 @@
       "availability": "priced"
     },
     {
-      "name": "iPhone Duo 1TB Night VN Chiều",
+      "name": "iPhone Duo 1TB Night VN Full VAT",
       "category": "phone",
-      "price": 83700000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "VN",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
-      "name": "iPhone Duo 1TB White VN Chiều",
+      "name": "iPhone Duo 1TB WhiteVN Full VAT",
       "category": "phone",
-      "price": 84700000,
+      "price": null,
       "status": "Chưa Active",
+      "sim": "E sim",
+      "origin": "VN",
+      "availability": "unavailable"
+    },
+    {
+      "name": "iPhone Duo 1TB White VN",
+      "category": "phone",
+      "price": 82700000,
+      "status": "Actived 26/11",
       "sim": "E sim",
       "origin": "VN",
       "availability": "priced"
@@ -274,11 +283,11 @@
     {
       "name": "iPhone Duo 2TB White VN",
       "category": "phone",
-      "price": 102200000,
+      "price": null,
       "status": "Actived 26/11",
       "sim": "E sim",
       "origin": "VN",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "iPhone Duo 2TB White VN",
@@ -292,7 +301,7 @@
     {
       "name": "iPhone Duo 2TB Night LL",
       "category": "phone",
-      "price": 98700000,
+      "price": 98200000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -301,7 +310,7 @@
     {
       "name": "iPhone Duo 2TB White LL",
       "category": "phone",
-      "price": 107700000,
+      "price": 107200000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -310,7 +319,7 @@
     {
       "name": "iPhone Duo 2TB White ZA",
       "category": "phone",
-      "price": 103400000,
+      "price": 103200000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "HK",
@@ -355,16 +364,16 @@
     {
       "name": "18 PM - 256G Black X/A (VN)",
       "category": "phone",
-      "price": null,
+      "price": 40100000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "18 PM - 256G Silver X/A (VN)",
       "category": "phone",
-      "price": 40100000,
+      "price": 40050000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -373,7 +382,7 @@
     {
       "name": "18 PM - 256G BLUE X/A (VN)",
       "category": "phone",
-      "price": 40100000,
+      "price": 40050000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -400,7 +409,16 @@
     {
       "name": "18 PM - 256G Silver X/A (VN)",
       "category": "phone",
-      "price": 39500000,
+      "price": 39300000,
+      "status": "Actived 26/11",
+      "sim": "1 sim",
+      "origin": "VN",
+      "availability": "priced"
+    },
+    {
+      "name": "18 PM - 256G Silver X/A (VN)",
+      "category": "phone",
+      "price": 39200000,
       "status": "Actived 25/11",
       "sim": "1 sim",
       "origin": "VN",
@@ -409,11 +427,11 @@
     {
       "name": "18 PM - 256G BLUE X/A (VN)",
       "category": "phone",
-      "price": null,
-      "status": "Actived 25/11",
+      "price": 39400000,
+      "status": "Actived 26/11",
       "sim": "1 sim",
       "origin": "VN",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "18 PM - 256G Black LL (MỸ )",
@@ -427,7 +445,7 @@
     {
       "name": "18 PM - 256G Silver LL (MỸ )",
       "category": "phone",
-      "price": 38500000,
+      "price": 38300000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -436,7 +454,7 @@
     {
       "name": "18 PM - 256G Blue LL (MỸ )",
       "category": "phone",
-      "price": 38500000,
+      "price": 38300000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -533,15 +551,6 @@
       "availability": "priced"
     },
     {
-      "name": "18 PM - 512G Blue X/A (ÚC)",
-      "category": "phone",
-      "price": 45500000,
-      "status": "Chưa Active",
-      "sim": "1 sim",
-      "origin": "ÚC",
-      "availability": "priced"
-    },
-    {
       "name": "18 PM - 512G Black X/A (VN)",
       "category": "phone",
       "price": 45600000,
@@ -560,58 +569,22 @@
       "availability": "priced"
     },
     {
-      "name": "18 PM - 512G Silver X/A (VN)",
-      "category": "phone",
-      "price": 45300000,
-      "status": "Actived 17/11",
-      "sim": "1 sim",
-      "origin": "VN",
-      "availability": "priced"
-    },
-    {
-      "name": "18 PM - 512G Blue X/A (VN)",
-      "category": "phone",
-      "price": 45500000,
-      "status": "Actived 24/11",
-      "sim": "1 sim",
-      "origin": "VN",
-      "availability": "priced"
-    },
-    {
       "name": "18 PM - 512G Blue X/A (VN)",
       "category": "phone",
       "price": 45300000,
-      "status": "Actived 18/11",
-      "sim": "1 sim",
-      "origin": "VN",
-      "availability": "priced"
-    },
-    {
-      "name": "18 PM - 512G Blue X/A (VN)",
-      "category": "phone",
-      "price": 45000000,
-      "status": "Actived 15/11",
-      "sim": "1 sim",
-      "origin": "VN",
-      "availability": "priced"
-    },
-    {
-      "name": "18 PM - 512G RED X/A (VN)",
-      "category": "phone",
-      "price": 45500000,
-      "status": "Actived 24/11",
-      "sim": "1 sim",
-      "origin": "VN",
-      "availability": "priced"
-    },
-    {
-      "name": "18 PM - 512G RED X/A (VN)",
-      "category": "phone",
-      "price": 45600000,
       "status": "Actived 25/11",
       "sim": "1 sim",
       "origin": "VN",
       "availability": "priced"
+    },
+    {
+      "name": "18 PM - 512G RED X/A (VN)",
+      "category": "phone",
+      "price": null,
+      "status": "Actived 25/11",
+      "sim": "1 sim",
+      "origin": "VN",
+      "availability": "unavailable"
     },
     {
       "name": "18 PM - 512G Black LL",
@@ -634,7 +607,7 @@
     {
       "name": "18 PM - 512G Blue LL",
       "category": "phone",
-      "price": 43800000,
+      "price": 43700000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -706,16 +679,16 @@
     {
       "name": "18 PM - 1TB Blue X/A - Full VAT",
       "category": "phone",
-      "price": 60200000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "18 PM - 1TB RED X/A - Full VAT",
       "category": "phone",
-      "price": 60200000,
+      "price": 58700000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -733,7 +706,7 @@
     {
       "name": "18 PM - 1TB Silver X/A (VN)",
       "category": "phone",
-      "price": 58700000,
+      "price": 58200000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -805,7 +778,7 @@
     {
       "name": "18 PM - 1TB Blue LL",
       "category": "phone",
-      "price": 55700000,
+      "price": 55600000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -814,7 +787,7 @@
     {
       "name": "18 PM - 1TB RED LL",
       "category": "phone",
-      "price": 55700000,
+      "price": 55600000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
@@ -1309,7 +1282,7 @@
     {
       "name": "18 Pro - 2TB Silver X/A (VN) - Full VAT",
       "category": "phone",
-      "price": 70700000,
+      "price": 67300000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -1399,7 +1372,7 @@
     {
       "name": "17 PM - 256G Silver ZP (VN) - Full VAT",
       "category": "phone",
-      "price": 34000000,
+      "price": 33900000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -1435,11 +1408,11 @@
     {
       "name": "17 PM - 256G Blue ZP (VN)",
       "category": "phone",
-      "price": null,
+      "price": 32800000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
-      "availability": "unavailable"
+      "availability": "priced"
     },
     {
       "name": "17 PM - 256G Cam ZP (VN)",
@@ -1498,11 +1471,11 @@
     {
       "name": "17 PM - 256G Cam LL",
       "category": "phone",
-      "price": 30900000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "17 PM - 512G Silver ZP (VN) - Full VAT",
@@ -1525,7 +1498,7 @@
     {
       "name": "17 PM - 512G Cam ZP (VN) - Full VAT",
       "category": "phone",
-      "price": 40400000,
+      "price": 40100000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -1579,20 +1552,20 @@
     {
       "name": "17 PM - 512G Silver LL",
       "category": "phone",
-      "price": 38300000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "17 PM - 512G Blue LL",
       "category": "phone",
-      "price": 36200000,
+      "price": null,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
-      "availability": "priced"
+      "availability": "unavailable"
     },
     {
       "name": "17 PM - 512G Cam LL",
@@ -1804,7 +1777,7 @@
     {
       "name": "17 Air - 256G Blue ZP (VN)",
       "category": "phone",
-      "price": 22700000,
+      "price": 22600000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -1903,7 +1876,7 @@
     {
       "name": "17 - 256G TÍM ZP (VN)",
       "category": "phone",
-      "price": 25500000,
+      "price": 25200000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -2164,7 +2137,7 @@
     {
       "name": "16 Plus – 128G WHITE ZA – CPO new seal",
       "category": "phone",
-      "price": 20900000,
+      "price": 20800000,
       "status": "Chưa Active",
       "sim": "2 sim",
       "origin": "ZA",
@@ -2281,34 +2254,34 @@
     {
       "name": "15 - 128G Pink VN VAT",
       "category": "phone",
-      "price": null,
-      "status": "Chưa Active",
-      "sim": "1 sim",
-      "origin": "VN",
-      "availability": "unavailable"
-    },
-    {
-      "name": "15 - 128G Black VN",
-      "category": "phone",
-      "price": null,
-      "status": "Acti 19/11",
-      "sim": "1 sim",
-      "origin": "VN",
-      "availability": "unavailable"
-    },
-    {
-      "name": "15 - 128G BLUE VN",
-      "category": "phone",
-      "price": 18900000,
+      "price": 21200000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
       "availability": "priced"
     },
     {
+      "name": "15 - 128G Black VN",
+      "category": "phone",
+      "price": 16700000,
+      "status": "Acti 19/11",
+      "sim": "1 sim",
+      "origin": "VN",
+      "availability": "priced"
+    },
+    {
+      "name": "15 - 128G BLUE VN",
+      "category": "phone",
+      "price": null,
+      "status": "Chưa Active",
+      "sim": "1 sim",
+      "origin": "VN",
+      "availability": "unavailable"
+    },
+    {
       "name": "15 - 128G Pink VN",
       "category": "phone",
-      "price": 18900000,
+      "price": 18700000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -2317,16 +2290,25 @@
     {
       "name": "15 - 128G Black LL",
       "category": "phone",
-      "price": 16400000,
+      "price": 15300000,
       "status": "Chưa Active",
       "sim": "E sim",
       "origin": "USA",
       "availability": "priced"
     },
     {
+      "name": "15 - 128G BLUE LL",
+      "category": "phone",
+      "price": null,
+      "status": "Chưa Active",
+      "sim": "E sim",
+      "origin": "USA",
+      "availability": "unavailable"
+    },
+    {
       "name": "15 - 256G Pink VN VAT",
       "category": "phone",
-      "price": 23700000,
+      "price": 23600000,
       "status": "Chưa Active",
       "sim": "1 sim",
       "origin": "VN",
@@ -3514,7 +3496,7 @@
     {
       "name": "MBA 13” M5 16/512 Starlight (10-8GPU) VN - Z1L30003Q (70W)",
       "category": "device",
-      "price": 32200000,
+      "price": 31900000,
       "status": "Chưa Active",
       "sim": "",
       "origin": "",
@@ -3773,7 +3755,7 @@
       "availability": "priced"
     },
     {
-      "name": "MBP 14\" M5 (10CPU–10GPU) 16/512G Black VN - MDE04SA",
+      "name": "MBP 14\" M5 (10CPU–10GPU) 16/512G Black VN - MDE04SA Full VAT",
       "category": "device",
       "price": null,
       "status": "Chưa Active",
@@ -3782,7 +3764,7 @@
       "availability": "unavailable"
     },
     {
-      "name": "MBP 14\" M5 (10CPU–10GPU) 16/512G Silver VN - MDE44SA",
+      "name": "MBP 14\" M5 (10CPU–10GPU) 16/512G Silver VN - MDE44SA Full VAT",
       "category": "device",
       "price": null,
       "status": "Chưa Active",
@@ -3791,7 +3773,7 @@
       "availability": "unavailable"
     },
     {
-      "name": "MBP 14\" M5 (10CPU–10GPU) 16G/1TB Black VN - MDE14SA",
+      "name": "MBP 14\" M5 (10CPU–10GPU) 16G/1TB Black VN - MDE14SA Full VAT",
       "category": "device",
       "price": 51100000,
       "status": "Chưa Active",
@@ -3800,7 +3782,7 @@
       "availability": "priced"
     },
     {
-      "name": "MBP 14\" M5 (10CPU–10GPU) 16G/1TB Silver VN - MDE54SA",
+      "name": "MBP 14\" M5 (10CPU–10GPU) 16G/1TB Silver VN - MDE54SA Full VAT",
       "category": "device",
       "price": 51100000,
       "status": "Chưa Active",
@@ -3809,7 +3791,16 @@
       "availability": "priced"
     },
     {
-      "name": "MBP 14\" M5 (10CPU–10GPU) 24G/1TB Black VN - MDE34SA",
+      "name": "MBP 14\" M5 (10CPU–10GPU) 16G/1TB Silver VN - MDE54SA KÔ VAT",
+      "category": "device",
+      "price": 49700000,
+      "status": "Chưa Active",
+      "sim": "",
+      "origin": "",
+      "availability": "priced"
+    },
+    {
+      "name": "MBP 14\" M5 (10CPU–10GPU) 24G/1TB Black VN - MDE34SA Full VAT",
       "category": "device",
       "price": 57500000,
       "status": "Chưa Active",
@@ -3818,7 +3809,7 @@
       "availability": "priced"
     },
     {
-      "name": "MBP 14\" M5 (10CPU–10GPU) 24G/1TB Silver VN - MDE64SA",
+      "name": "MBP 14\" M5 (10CPU–10GPU) 24G/1TB Silver VN - MDE64SA Full VAT",
       "category": "device",
       "price": 57500000,
       "status": "Chưa Active",
@@ -3827,7 +3818,7 @@
       "availability": "priced"
     },
     {
-      "name": "MBP 14\" M5 (10CPU–10GPU) 24G/1TB Silver VN - MDE64SA",
+      "name": "MBP 14\" M5 (10CPU–10GPU) 24G/1TB Silver VN - MDE64SA Có Bill",
       "category": "device",
       "price": 55700000,
       "status": "Chưa Active",
@@ -3836,7 +3827,7 @@
       "availability": "priced"
     },
     {
-      "name": "MBP 14\" M5 (15CPU–16GPU) 24G/1TB Black VN - MGDR4SA",
+      "name": "MBP 14\" M5 (15CPU–16GPU) 24G/1TB Black VN - MGDR4SA Full VAT",
       "category": "device",
       "price": null,
       "status": "Chưa Active",
@@ -3845,7 +3836,7 @@
       "availability": "unavailable"
     },
     {
-      "name": "MBP 14\" M5 (15CPU–16GPU) 24G/1TB Silver VN - MGDN4SA",
+      "name": "MBP 14\" M5 (15CPU–16GPU) 24G/1TB Silver VN - MGDN4SA Full VAT",
       "category": "device",
       "price": null,
       "status": "Chưa Active",
@@ -4061,15 +4052,6 @@
       "availability": "priced"
     },
     {
-      "name": "SE 3 GPS 40mm Starlight / Sand Sport Band - S/M - MJKR4SA",
-      "category": "device",
-      "price": 6400000,
-      "status": "Chưa Active",
-      "sim": "",
-      "origin": "",
-      "availability": "priced"
-    },
-    {
       "name": "SE 3 GPS 40mm Starlight / Midnight Sport Band - S/M - MEH34LW",
       "category": "device",
       "price": 6400000,
@@ -4100,24 +4082,6 @@
       "name": "AirPods 5 ( wirsless charge ) - MKFT4ZP/A",
       "category": "accessory",
       "price": 4200000,
-      "status": "Chưa Active",
-      "sim": "",
-      "origin": "",
-      "availability": "priced"
-    },
-    {
-      "name": "AirPods 4 (CHỐNG ỒN ) - MXP93ZP",
-      "category": "accessory",
-      "price": 4300000,
-      "status": "Chưa Active",
-      "sim": "",
-      "origin": "",
-      "availability": "priced"
-    },
-    {
-      "name": "AirPods 4 ( THƯỜNG ) - MXP63ZP",
-      "category": "accessory",
-      "price": 3400000,
       "status": "Chưa Active",
       "sim": "",
       "origin": "",

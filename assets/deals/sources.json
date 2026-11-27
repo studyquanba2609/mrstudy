@@ -654,5 +654,25 @@
         480
       ]
     }
+  },
+  "6761425441": {
+    "icon": {
+      "path": "./assets/deals/6761425441-icon.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/b1/95/a1b195aa-bcf5-d8d7-91ea-557864e2c165/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "size": 3884,
+      "dimensions": [
+        100,
+        100
+      ]
+    },
+    "screen": {
+      "path": "./assets/deals/6761425441-screen.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/d3/16/59d3162b-2319-5fd7-e80f-eff313c53bc3/Spatial_Pro_screenshot_1_6.5_U0022_EN.png/320x480bb.jpg",
+      "size": 20192,
+      "dimensions": [
+        222,
+        480
+      ]
+    }
   }
 }

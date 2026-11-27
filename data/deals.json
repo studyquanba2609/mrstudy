@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T07:05:59Z",
+  "updatedAt": "2026-11-27T03:06:15Z",
   "items": [
     {
       "id": "deal-1574131062-download",
@@ -916,6 +916,27 @@
       ],
       "icon": "./assets/deals/6745541292-icon.jpg",
       "image": "./assets/deals/6745541292-screen.jpg"
+    },
+    {
+      "id": "deal-6761425441-download",
+      "topicDate": "2026-11-27",
+      "name": "Spatial Pro",
+      "kind": "download",
+      "summary": "Chuyển ảnh 2D thành cảnh 3D, hỗ trợ ảnh không gian và định dạng SBS 3D, PLY hoặc USDZ. Phù hợp người muốn khám phá ảnh 3D trên iPhone/iPad từ iOS 18.",
+      "sourceUrl": "https://appdrop.rs/en/deal/spatial-pro-ai-spatial-3d-6761425441",
+      "checkedAt": "2026-11-27T03:06:15Z",
+      "regions": [
+        {
+          "code": "us",
+          "name": "Mỹ",
+          "url": "https://apps.apple.com/us/app/spatial-pro-ai-spatial-3d/id6761425441",
+          "downloadPrice": 0,
+          "currency": "USD",
+          "checkedAt": "2026-11-27T03:06:15Z"
+        }
+      ],
+      "icon": "./assets/deals/6761425441-icon.jpg",
+      "image": "./assets/deals/6761425441-screen.jpg"
     }
   ],
   "reportedOffers": [
