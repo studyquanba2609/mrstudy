@@ -8,6 +8,54 @@ window.MRSTUDY_DATA = {
   ],
   articles:[
 {
+  "id": "iphone-tap-trung-chon-thong-bao",
+  "type": "knowledge",
+  "category": "iPhone",
+  "title": "Chế độ Tập trung trên iPhone: chọn người và ứng dụng được báo",
+  "description": "Hiểu hai cách cho phép hoặc tắt tiếng để giảm gián đoạn mà vẫn nhận đúng thông báo cần thiết.",
+  "date": "2026-11-28",
+  "readTime": 2,
+  "image": "./assets/knowledge/iphone-focus-notifications.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về chọn thông báo trong chế độ Tập trung",
+  "tags": [
+    "iPhone",
+    "Tập trung",
+    "Focus",
+    "thông báo"
+  ],
+  "sources": [
+    {
+      "title": "Apple · Cho phép hoặc tắt tiếng thông báo trong Tập trung · tài liệu không ghi ngày, đối chiếu 28/11/2026",
+      "url": "https://support.apple.com/en-vn/guide/iphone/iph21d43af5b/ios"
+    }
+  ],
+  "body": "<p>Tập trung cho phép chọn người và ứng dụng được gửi thông báo khi bạn cần yên tĩnh. Theo Apple, danh sách có thể hoạt động theo hai hướng: chỉ cho phép những mục đã chọn hoặc tắt tiếng những mục đã chọn.</p><h2>Chọn đúng kiểu danh sách</h2><p>Vào Cài đặt → Tập trung, chọn một chế độ rồi mở Người. Chọn Cho phép thông báo từ để giữ liên lạc với nhóm cần thiết, hoặc Tắt tiếng thông báo từ để hạn chế một nhóm cụ thể. Trong mục Ứng dụng, chọn tương tự. Đừng thêm tên trước khi đọc rõ danh sách đang cho phép hay tắt tiếng.</p><h2>Vì sao vẫn có thông báo?</h2><p>Apple cho phép cấu hình nhóm được gọi và cuộc gọi lặp lại: cùng một người gọi từ hai lần trong ba phút. Tùy chọn thông báo nhạy cảm về thời gian cũng có thể cho thông báo loại này đến ngay từ mọi ứng dụng. Hãy xem các ngoại lệ này nếu chế độ chưa yên tĩnh như mong muốn.</p><h2>Thử trước khi dùng lâu</h2><p>MRSTUDY gợi ý bắt đầu với một chế độ dành cho việc đọc hoặc học. Nhờ người quen gửi thử tin nhắn, gọi thử rồi kiểm tra kết quả; tránh thử bằng cuộc gọi khẩn cấp. Ghi lại lựa chọn ban đầu để dễ điều chỉnh nếu bỏ lỡ liên lạc quan trọng. Minh họa do MRSTUDY tự vẽ.</p>"
+},
+{
+  "id": "ipad-ban-phim-ngoai-phim-tat",
+  "type": "knowledge",
+  "category": "iPad",
+  "title": "Dùng bàn phím ngoài với iPad: phím tắt và cách xem lệnh",
+  "description": "Sao chép, chuyển ứng dụng và tìm phím tắt đúng theo phiên bản iPadOS đang dùng.",
+  "date": "2026-11-28",
+  "readTime": 2,
+  "image": "./assets/knowledge/ipad-keyboard-shortcuts.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về bàn phím ngoài và phím Command trên iPad",
+  "tags": [
+    "iPad",
+    "bàn phím",
+    "phím tắt",
+    "iPadOS"
+  ],
+  "sources": [
+    {
+      "title": "Apple Support · Phím tắt bàn phím iPad · 14/09/2026",
+      "url": "https://support.apple.com/en-mn/102393"
+    }
+  ],
+  "body": "<p>Khi đã kết nối bàn phím ngoài, iPad có thể thực hiện nhiều thao tác bằng tổ hợp phím. Tài liệu Apple hướng dẫn dùng Command (⌘) cho nhiều lệnh quen thuộc, giúp người gõ văn bản giảm việc chuyển tay sang màn hình.</p><h2>Bắt đầu với vài lệnh thường dùng</h2><ul><li>Command-C sao chép; Command-V dán phần đã sao chép.</li><li>Command-Z hoàn tác thao tác trước.</li><li>Command-Tab chuyển sang ứng dụng mở được dùng gần đây nhất tiếp theo.</li><li>Command-Space mở hoặc ẩn Spotlight để tìm kiếm.</li></ul><h2>Xem lệnh theo phiên bản iPadOS</h2><p>Apple phân biệt cách mở danh sách: iPadOS 18 trở về trước cho phép giữ Command trong ứng dụng hoặc Màn hình chính. Với iPadOS 26, bật Ứng dụng dạng cửa sổ hoặc Stage Manager rồi vuốt xuống từ giữa mép trên để hiện thanh menu. Với iPadOS 27, sau khi bật một trong hai chế độ này, chạm tên ứng dụng cạnh ngày ở góc trên trái rồi chọn menu.</p><h2>Tập trên nội dung không quan trọng</h2><p>MRSTUDY gợi ý mở một ghi chú thử, gõ một câu rồi tập sao chép, dán và hoàn tác trước khi làm với tài liệu thật. Chỉ học vài tổ hợp phục vụ công việc hằng ngày; khi lệnh không như mong đợi, xem lại menu của ứng dụng và phiên bản iPadOS thay vì bấm thử liên tục. Minh họa là tranh gốc, không phải ảnh giao diện.</p>"
+},
+{
   "id": "ipad-quet-tai-lieu-ghi-chu-tep",
   "type": "knowledge",
   "category": "iPad",
