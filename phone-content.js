@@ -1,6 +1,36 @@
 /* Tin iPhone và tóm tắt hướng dẫn sửa chữa do MRSTUDY biên soạn. */
 window.MRSTUDY_DATA.articles.unshift(...[
 {
+  "id": "iphone-14-man-den-van-do-chuong",
+  "type": "repair",
+  "sourceSite": "iFixit",
+  "category": "Sửa chữa · Màn hình",
+  "title": "iPhone 14 màn đen nhưng vẫn đổ chuông: kiểm tra trước khi thay màn",
+  "description": "Ghi nhận dấu hiệu máy còn hoạt động, thử khởi động lại và chuẩn bị chẩn đoán cụm màn hình đúng model.",
+  "date": "2026-11-28",
+  "sourceDate": "2026-07-21",
+  "readTime": 3,
+  "image": "./assets/repair/iphone-14-black-screen.svg",
+  "imageAlt": "Minh họa gốc MRSTUDY về iPhone 14 màn đen và tín hiệu cuộc gọi",
+  "tags": [
+    "iPhone 14",
+    "màn đen",
+    "màn hình",
+    "chẩn đoán"
+  ],
+  "sources": [
+    {
+      "title": "Apple Support · iPhone màn đen hoặc không bật · 14/10/2026",
+      "url": "https://support.apple.com/en-us/116940"
+    },
+    {
+      "title": "iFixit · Thay màn hình iPhone 14 · cập nhật 21/07/2026",
+      "url": "https://www.ifixit.com/Guide/iPhone+14+Screen+Replacement/152975"
+    }
+  ],
+  "body": "<h2>Ghi nhận triệu chứng</h2><p>MRSTUDY đề nghị gọi thử vào iPhone 14 và ghi lại máy có chuông, rung hoặc âm thanh thông báo hay không. Ghi thời điểm mất hình, tiền sử va đập, vào nước và lần sửa gần nhất. Các dấu hiệu này giúp mô tả tình trạng khi bàn giao.</p><h2>Kiểm tra an toàn ban đầu</h2><p>Apple hướng dẫn với iPhone có Face ID: bấm thả nhanh tăng âm lượng, bấm thả nhanh giảm âm lượng rồi giữ nút sườn đến khi thấy logo Apple. Có thể mất hơn 10 giây. Nếu máy không bật, Apple hướng dẫn sạc một giờ rồi thử lại; nếu vẫn không bật, cần dịch vụ hỗ trợ.</p><p>MRSTUDY lưu ý dừng thử sạc khi máy nóng bất thường, pin phồng hoặc nghi bị vào nước. Nếu màn trở lại và máy dùng được an toàn, ưu tiên sao lưu dữ liệu. Khi còn chuông nhưng mất hình, tránh nhập mật mã bằng cách chạm mò.</p><h2>Nguyên nhân khả dĩ và phương án xử lý</h2><p>Thao tác khởi động lại giúp kiểm tra khả năng máy đang không phản hồi. iFixit liệt kê trường hợp máy có nguồn nhưng màn không hiển thị trong phạm vi hướng dẫn thay cụm màn hình iPhone 14.</p><p>MRSTUDY đề nghị kỹ thuật viên kiểm tra trực tiếp trước khi chọn linh kiện. Chuông hoặc rung là dữ kiện tiếp nhận, chưa xác định được lỗi nằm ở cụm màn hình, kết nối hay mạch điều khiển. Bài này không cung cấp quy trình đo bo mạch hoặc chỉ định thay màn cho mọi trường hợp.</p><h2>Lưu ý khi cần thay cụm màn hình</h2><p>Hướng dẫn iFixit áp dụng cho iPhone 14 và được xây dựng trên model A2882. Cần keo thay thế khi lắp lại; khả năng kháng nước có thể bị ảnh hưởng. Gia nhiệt sai có thể làm hỏng màn hoặc pin. Các tính năng như True Tone và độ sáng tự động phụ thuộc phiên bản iOS, linh kiện và việc hiệu chỉnh sau sửa.</p><h2>Hậu kiểm và dữ liệu</h2><p>MRSTUDY đề xuất thử hình ảnh, cảm ứng ở các góc, độ sáng, cuộc gọi áp tai, camera và Face ID khi nhận máy. Hỏi rõ phần dữ liệu có được giữ và công việc hiệu chỉnh đã hoàn tất hay chưa. Đây là danh sách hậu kiểm đề xuất; toàn bộ thao tác tháo lắp cần theo tài liệu đúng model. Minh họa do MRSTUDY tự vẽ.</p><a class=\"button button-dark\" href=\"https://www.ifixit.com/Guide/iPhone+14+Screen+Replacement/152975\" target=\"_blank\" rel=\"noopener noreferrer\">Xem hướng dẫn đầy đủ iPhone 14 trên iFixit ↗</a>"
+},
+{
   "id": "halide-iphone-duo-man-hinh-ngoai-chieu-sang",
   "type": "news",
   "sourceSite": "MacRumors",
